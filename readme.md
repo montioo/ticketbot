@@ -31,4 +31,4 @@ The festival is called splash! festival and is a hiphop festival in germany.
 
 ### Setup
 
-The bot ran (while the ticket sale was active) an a server rented from Google. When starting to use Google Cloud Services every new customer gets coupon worth 300$ which can be spend on any of their products. I used mine
+The bot ran (while the ticket sale was active) an a server rented from Google. When starting to use Google Cloud Services every new customer gets a coupon worth 300$ which can be spend on any of their products.
