@@ -14,7 +14,7 @@ The need to sit in front of the computer for hours and reload the page manually 
 
 ### Example
 
-![Examples for Reservation](Screenshots/reservation1.png)
+![Examples for Reservation](Screenshots/reservation1.PNG)
 
 The bots answers are in german but here is a short explanation of what appens:
 
