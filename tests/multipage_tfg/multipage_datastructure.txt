@@ -1,0 +1,7 @@
+Vorgehen:
+
+1. Menge der Tickets immer weiter ueberpruefen, indem die letzte Seite
+    regelmaessig abgefragt wird. Bei Veraenderung der Ticketmenge werden alle
+    Seiten neu geladen
+2. Tickets von jeder Seite in eine Liste und dann in eine Datenstruktur, die
+    in Erfahrung bringt, welche Tickets neu oder verschwunden sind.

@@ -1,0 +1,30 @@
+    ticketBot, start: Sat. 17. Feb. 2018, 22:51:21
+Sat. 17. Feb. 2018, 22:51:27: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sat. 17. Feb. 2018, 22:54:08: 100 Anfragen in 166.3 Sek gesendet.
+Sat. 17. Feb. 2018, 22:56:43: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sat. 17. Feb. 2018, 22:57:37: 100 Anfragen in 209.4 Sek gesendet.
+Sat. 17. Feb. 2018, 23:01:41: 100 Anfragen in 244.0 Sek gesendet.
+Sat. 17. Feb. 2018, 23:05:45: 100 Anfragen in 244.1 Sek gesendet.
+Sat. 17. Feb. 2018, 23:09:46: 100 Anfragen in 240.4 Sek gesendet.
+Sat. 17. Feb. 2018, 23:13:47: 100 Anfragen in 241.6 Sek gesendet.
+Sat. 17. Feb. 2018, 23:17:51: 100 Anfragen in 243.5 Sek gesendet.
+Sat. 17. Feb. 2018, 23:21:57: 100 Anfragen in 246.0 Sek gesendet.
+Sat. 17. Feb. 2018, 23:25:58: 100 Anfragen in 241.4 Sek gesendet.
+Sat. 17. Feb. 2018, 23:30:03: 100 Anfragen in 244.5 Sek gesendet.
+Sat. 17. Feb. 2018, 23:34:07: 100 Anfragen in 244.2 Sek gesendet.
+Sat. 17. Feb. 2018, 23:38:13: 100 Anfragen in 245.4 Sek gesendet.
+Sat. 17. Feb. 2018, 23:40:06: Aenderung des Angebots!
+Traceback (most recent call last):
+  File "ticketBot.py", line 97, in <module>
+    main()
+  File "ticketBot.py", line 84, in main
+    elems_available = list_and_reserve(elems_available)
+  File "ticketBot.py", line 22, in list_and_reserve
+    diff = util.list_diff(items, old_items)
+  File "/home/monti/ticketbot/v2_ticketBot_reserve/utility.py", line 53, in list_diff
+    while not (alt[ai]['name'] == neu[ni]['name'] and alt[ai]['price'] == neu[ni]['price']):
+KeyError: 'name'

@@ -1,0 +1,252 @@
+    ticketBot, start: Mon. 26. Mar. 2018, 20:19:08
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 20:19:09.255134
+Starte mit Seite: 2
+Fertig mit Seite: 2
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 20:20:13.073518
+Starte mit Seite: 2
+Fertig mit Seite: 2
+old: [{'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '9,90 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '11,00 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '14,30 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '17,60 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket', 'added': None, 'ticket_price': '38,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 3', 'added': None, 'ticket_price': '181,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '319,00 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '328,90 €', 'page': 2}]
+new: [{'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '9,90 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '11,00 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'still_available': True, 'ticket_price': '14,30 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '17,60 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '38,50 €', 'ticket_type': 'Caravan Ticket', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '181,50 €', 'ticket_type': 'Festivalticket Phase 3', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '328,90 €', 'ticket_type': 'VIP Ticket', 'page': 2}]
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+14,30 € --- 14,30 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+181,50 € --- 181,50 €
+13 --- 13
+319,00 € --- 328,90 €
+14 -----
+328,90 € --- 328,90 €
+15 --- 14
+a_i: 16 , len(old): 16
+n_j: 15 , len(new): 15
+-- REMOVED:
+{'removed': 1522095613.5743601, 'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '319,00 €', 'page': 2}
+-- ADDED:
+Mon. 26. Mar. 2018, 20:27:36: 40 Anfragen in 508.1 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 20:29:43.275719
+Starte mit Seite: 2
+Fertig mit Seite: 2
+old: [{'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '9,90 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '11,00 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '14,30 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '17,60 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket', 'added': None, 'ticket_price': '38,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 3', 'added': None, 'ticket_price': '181,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '328,90 €', 'page': 2}]
+new: [{'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '9,90 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '11,00 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '14,30 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '17,60 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '38,50 €', 'ticket_type': 'Caravan Ticket', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '328,90 €', 'ticket_type': 'VIP Ticket', 'page': 2}]
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+14,30 € --- 14,30 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+181,50 € --- 328,90 €
+13 -----
+328,90 € --- 328,90 €
+14 --- 13
+a_i: 15 , len(old): 15
+n_j: 14 , len(new): 14
+-- REMOVED:
+{'removed': 1522096183.764253, 'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 3', 'added': None, 'ticket_price': '181,50 €', 'page': 2}
+-- ADDED:
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 20:32:41.047879
+Starte mit Seite: 2
+Fertig mit Seite: 2
+old: [{'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '9,90 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '11,00 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '14,30 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '17,60 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket', 'added': None, 'ticket_price': '38,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '328,90 €', 'page': 2}]
+new: [{'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '9,90 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '11,00 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '14,30 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '17,60 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '38,50 €', 'ticket_type': 'Caravan Ticket', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '157,30 €', 'ticket_type': 'Festivalticket Phase 1', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '328,90 €', 'ticket_type': 'VIP Ticket', 'page': 2}]
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+14,30 € --- 14,30 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+328,90 € --- 157,30 €
+----- 13
+328,90 € --- 328,90 €
+13 --- 14
+a_i: 14 , len(old): 14
+n_j: 15 , len(new): 15
+-- REMOVED:
+-- ADDED:
+{'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 1', 'added': 1522096361.5487847, 'ticket_price': '157,30 €', 'page': 2}
+Try to reserve a ticket:
+  name: Festivalticket Phase 1
+  price: 157,30 €
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+gNSebNP70wEkAAAAMmM0Mzc5NGYtNDM5Yy00MDMxLTk0ZDUtZTBhM2MxZGMzNmM09oGszgz_A3rv2kwVaco7VRBax3k1
+
+  ASP.NET_SessionId:
+551wv4nyt3pyxabkbdxiezs0
+
+
+  duration (1x post): 0.1108100414276123
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 20:33:44.922711
+Starte mit Seite: 2
+Fertig mit Seite: 2
+old: [{'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '9,90 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '11,00 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '14,30 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '17,60 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket', 'added': None, 'ticket_price': '38,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 1', 'added': 1522096361.5487847, 'ticket_price': '157,30 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '328,90 €', 'page': 2}]
+new: [{'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '9,90 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '11,00 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '14,30 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '17,60 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'still_available': True, 'ticket_price': '38,50 €', 'ticket_type': 'Caravan Ticket', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '157,30 €', 'ticket_type': 'Festivalticket Phase 1', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '328,90 €', 'ticket_type': 'VIP Ticket', 'page': 2}]
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+14,30 € --- 13,20 €
+----- 4
+14,30 € --- 14,30 €
+4 --- 5
+16,50 € --- 16,50 €
+5 --- 6
+16,50 € --- 16,50 €
+6 --- 7
+16,50 € --- 16,50 €
+7 --- 8
+16,50 € --- 16,50 €
+8 --- 9
+16,50 € --- 16,50 €
+9 --- 10
+16,50 € --- 16,50 €
+10 --- 11
+17,60 € --- 17,60 €
+11 --- 12
+38,50 € --- 38,50 €
+12 --- 13
+157,30 € --- 157,30 €
+13 --- 14
+328,90 € --- 328,90 €
+14 --- 15
+a_i: 15 , len(old): 15
+n_j: 16 , len(new): 16
+-- REMOVED:
+-- ADDED:
+{'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': 1522096425.4368105, 'ticket_price': '13,20 €', 'page': 1}
+Try to reserve a ticket:
+  name: Parkticket
+  price: 13,20 €
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+gNS0ktP70wEkAAAAMzVlYmU1NTUtZjZlNS00NWYzLWI2ODMtNjczNjFmNWQyZTY0DOQWKP6DqlRimmgVSDXZegctA741
+
+  ASP.NET_SessionId:
+bz5fbdhcfhxqox2txpjxpcar
+
+
+  duration (1x post): 0.14154839515686035
+Mon. 26. Mar. 2018, 20:36:04: 40 Anfragen in 508.1 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 20:36:30.169853
+Starte mit Seite: 2
+Fertig mit Seite: 2
+old: [{'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '9,90 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '11,00 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': 1522096425.4368105, 'ticket_price': '13,20 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '14,30 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 1}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '17,60 €', 'page': 2}, {'still_available': True, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket', 'added': None, 'ticket_price': '38,50 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 1', 'added': 1522096361.5487847, 'ticket_price': '157,30 €', 'page': 2}, {'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '328,90 €', 'page': 2}]
+new: [{'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '9,90 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '11,00 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'still_available': True, 'ticket_price': '13,20 €', 'ticket_type': 'Parkticket', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '14,30 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 1}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'still_available': True, 'ticket_price': '16,50 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'still_available': True, 'ticket_price': '17,60 €', 'ticket_type': 'Pre Party', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'still_available': True, 'ticket_price': '38,50 €', 'ticket_type': 'Caravan Ticket', 'page': 2}, {'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage', 'still_available': False, 'ticket_price': '328,90 €', 'ticket_type': 'VIP Ticket', 'page': 2}]
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+157,30 € --- 328,90 €
+14 -----
+328,90 € --- 328,90 €
+15 --- 14
+a_i: 16 , len(old): 16
+n_j: 15 , len(new): 15
+-- REMOVED:
+{'removed': 1522096590.661741, 'still_available': False, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_shoppingCartNotAvailableImage', 'ticket_type': 'Festivalticket Phase 1', 'added': 1522096361.5487847, 'ticket_price': '157,30 €', 'page': 2}
+-- ADDED:
+Traceback (most recent call last):
+  File "ticketBot.py", line 118, in <module>
+    main()
+  File "ticketBot.py", line 100, in main
+    time.sleep(zeit_sleep * 2)
+KeyboardInterrupt

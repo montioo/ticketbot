@@ -1,0 +1,224 @@
+    ticketBot, start: Sun. 18. Feb. 2018, 09:09:19
+Sun. 18. Feb. 2018, 09:10:21: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sun. 18. Feb. 2018, 09:12:04: 100 Anfragen in 164.6 Sek gesendet.
+Sun. 18. Feb. 2018, 09:15:19: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Sun. 18. Feb. 2018, 09:15:53: 100 Anfragen in 229.1 Sek gesendet.
+Sun. 18. Feb. 2018, 09:16:20: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sun. 18. Feb. 2018, 09:19:53: 100 Anfragen in 240.0 Sek gesendet.
+Sun. 18. Feb. 2018, 09:23:56: 100 Anfragen in 242.6 Sek gesendet.
+Sun. 18. Feb. 2018, 09:27:52: 100 Anfragen in 236.5 Sek gesendet.
+Sun. 18. Feb. 2018, 09:31:51: 100 Anfragen in 238.3 Sek gesendet.
+Sun. 18. Feb. 2018, 09:35:49: 100 Anfragen in 237.8 Sek gesendet.
+Sun. 18. Feb. 2018, 09:39:49: 100 Anfragen in 240.0 Sek gesendet.
+Sun. 18. Feb. 2018, 09:43:44: 100 Anfragen in 234.9 Sek gesendet.
+Sun. 18. Feb. 2018, 09:47:40: 100 Anfragen in 236.7 Sek gesendet.
+Sun. 18. Feb. 2018, 09:51:44: 100 Anfragen in 244.0 Sek gesendet.
+Sun. 18. Feb. 2018, 09:55:41: 100 Anfragen in 236.2 Sek gesendet.
+Sun. 18. Feb. 2018, 09:59:41: 100 Anfragen in 240.2 Sek gesendet.
+Sun. 18. Feb. 2018, 10:03:42: 100 Anfragen in 241.0 Sek gesendet.
+Sun. 18. Feb. 2018, 10:06:18: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sun. 18. Feb. 2018, 10:07:44: 100 Anfragen in 242.1 Sek gesendet.
+Sun. 18. Feb. 2018, 10:11:40: 100 Anfragen in 235.5 Sek gesendet.
+Sun. 18. Feb. 2018, 10:15:41: 100 Anfragen in 241.4 Sek gesendet.
+Sun. 18. Feb. 2018, 10:19:39: 100 Anfragen in 237.5 Sek gesendet.
+Sun. 18. Feb. 2018, 10:23:44: 100 Anfragen in 244.9 Sek gesendet.
+Sun. 18. Feb. 2018, 10:27:44: 100 Anfragen in 240.6 Sek gesendet.
+Sun. 18. Feb. 2018, 10:31:45: 100 Anfragen in 240.3 Sek gesendet.
+Sun. 18. Feb. 2018, 10:35:42: 100 Anfragen in 237.8 Sek gesendet.
+Sun. 18. Feb. 2018, 10:39:45: 100 Anfragen in 242.9 Sek gesendet.
+Sun. 18. Feb. 2018, 10:43:40: 100 Anfragen in 234.4 Sek gesendet.
+Sun. 18. Feb. 2018, 10:47:42: 100 Anfragen in 242.1 Sek gesendet.
+Sun. 18. Feb. 2018, 10:50:06: Aenderung des Angebots!
+Try to reserve a ticket:
+  name: Pre Party
+  price: 14,30 €
+Sun. 18. Feb. 2018, 10:50:06: --> VERSUCHTE RESERVIERUNG
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+INhOEjjf0wEkAAAANTUzN2M2MWUtYmJkMC00NGM5LWI4YTctOGMzYzg3NDBiODI5R-7m7HADWnEvX658mCbzX0WImJE1
+
+  ASP.NET_SessionId:
+p0lu3yxcnhwhyrkwo4tem2j5
+
+
+  duration (1x post): 0.049802303314208984
+Sun. 18. Feb. 2018, 10:51:45: 100 Anfragen in 242.6 Sek gesendet.
+Sun. 18. Feb. 2018, 10:55:49: 100 Anfragen in 244.2 Sek gesendet.
+Sun. 18. Feb. 2018, 10:59:55: 100 Anfragen in 246.4 Sek gesendet.
+Sun. 18. Feb. 2018, 11:00:33: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sun. 18. Feb. 2018, 11:04:04: 100 Anfragen in 248.4 Sek gesendet.
+Sun. 18. Feb. 2018, 11:08:14: 100 Anfragen in 250.0 Sek gesendet.
+Sun. 18. Feb. 2018, 11:12:20: 100 Anfragen in 246.6 Sek gesendet.
+Sun. 18. Feb. 2018, 11:16:25: 100 Anfragen in 244.0 Sek gesendet.
+Sun. 18. Feb. 2018, 11:20:33: 100 Anfragen in 248.0 Sek gesendet.
+Sun. 18. Feb. 2018, 11:24:37: 100 Anfragen in 243.9 Sek gesendet.
+Sun. 18. Feb. 2018, 11:28:41: 100 Anfragen in 244.3 Sek gesendet.
+Sun. 18. Feb. 2018, 11:32:53: 100 Anfragen in 252.2 Sek gesendet.
+Sun. 18. Feb. 2018, 11:36:57: 100 Anfragen in 244.0 Sek gesendet.
+Sun. 18. Feb. 2018, 11:41:03: 100 Anfragen in 245.3 Sek gesendet.
+Sun. 18. Feb. 2018, 11:45:10: 100 Anfragen in 247.0 Sek gesendet.
+Sun. 18. Feb. 2018, 11:49:16: 100 Anfragen in 246.2 Sek gesendet.
+Sun. 18. Feb. 2018, 11:53:28: 100 Anfragen in 251.9 Sek gesendet.
+Sun. 18. Feb. 2018, 11:57:35: 100 Anfragen in 247.2 Sek gesendet.
+Sun. 18. Feb. 2018, 12:01:44: 100 Anfragen in 248.9 Sek gesendet.
+Sun. 18. Feb. 2018, 12:05:52: 100 Anfragen in 248.0 Sek gesendet.
+Sun. 18. Feb. 2018, 12:09:57: 100 Anfragen in 244.4 Sek gesendet.
+Sun. 18. Feb. 2018, 12:14:02: 100 Anfragen in 245.4 Sek gesendet.
+Sun. 18. Feb. 2018, 12:18:09: 100 Anfragen in 247.3 Sek gesendet.
+Sun. 18. Feb. 2018, 12:22:19: 100 Anfragen in 250.1 Sek gesendet.
+Sun. 18. Feb. 2018, 12:26:24: 100 Anfragen in 244.2 Sek gesendet.
+Sun. 18. Feb. 2018, 12:30:30: 100 Anfragen in 246.0 Sek gesendet.
+Sun. 18. Feb. 2018, 12:34:34: 100 Anfragen in 243.8 Sek gesendet.
+Sun. 18. Feb. 2018, 12:38:45: 100 Anfragen in 251.0 Sek gesendet.
+Sun. 18. Feb. 2018, 12:40:14: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Sun. 18. Feb. 2018, 12:42:52: 100 Anfragen in 247.1 Sek gesendet.
+Sun. 18. Feb. 2018, 12:47:01: 100 Anfragen in 249.4 Sek gesendet.
+Sun. 18. Feb. 2018, 12:51:03: 100 Anfragen in 242.0 Sek gesendet.
+Sun. 18. Feb. 2018, 12:55:13: 100 Anfragen in 249.2 Sek gesendet.
+Sun. 18. Feb. 2018, 12:59:16: 100 Anfragen in 243.5 Sek gesendet.
+Sun. 18. Feb. 2018, 13:03:20: 100 Anfragen in 243.7 Sek gesendet.
+Sun. 18. Feb. 2018, 13:07:25: 100 Anfragen in 245.4 Sek gesendet.
+Sun. 18. Feb. 2018, 13:11:34: 100 Anfragen in 248.7 Sek gesendet.
+Sun. 18. Feb. 2018, 13:15:41: 100 Anfragen in 247.2 Sek gesendet.
+Sun. 18. Feb. 2018, 13:19:45: 100 Anfragen in 243.7 Sek gesendet.
+Sun. 18. Feb. 2018, 13:23:53: 100 Anfragen in 247.5 Sek gesendet.
+Sun. 18. Feb. 2018, 13:24:52: Aenderung des Angebots!
+Try to reserve a ticket:
+  name: Festivalticket Phase 3
+  price: 181,50 €
+Sun. 18. Feb. 2018, 13:24:52: --> VERSUCHTE RESERVIERUNG
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+oCePsE3f0wEkAAAAZGU4N2UyOTMtMDBmNi00NjdmLTgzMDMtYzRiODUwYzE5MTkxtHDWAcec1xUZCfOa7QGyuhFQMe81
+
+  ASP.NET_SessionId:
+qfdqznxzdwoa04mswk4a32m2
+
+
+  duration (1x post): 0.048303842544555664
+Sun. 18. Feb. 2018, 13:28:07: 100 Anfragen in 254.7 Sek gesendet.
+Sun. 18. Feb. 2018, 13:32:18: 100 Anfragen in 250.7 Sek gesendet.
+Sun. 18. Feb. 2018, 13:36:27: 100 Anfragen in 249.4 Sek gesendet.
+Sun. 18. Feb. 2018, 13:40:41: 100 Anfragen in 253.1 Sek gesendet.
+Sun. 18. Feb. 2018, 13:44:54: 100 Anfragen in 253.9 Sek gesendet.
+Sun. 18. Feb. 2018, 13:49:04: 100 Anfragen in 249.5 Sek gesendet.
+Sun. 18. Feb. 2018, 13:53:11: 100 Anfragen in 247.1 Sek gesendet.
+Sun. 18. Feb. 2018, 13:57:19: 100 Anfragen in 248.0 Sek gesendet.
+Sun. 18. Feb. 2018, 14:01:29: 100 Anfragen in 250.0 Sek gesendet.
+Sun. 18. Feb. 2018, 14:05:33: 100 Anfragen in 244.1 Sek gesendet.
+Sun. 18. Feb. 2018, 14:09:37: 100 Anfragen in 243.6 Sek gesendet.
+Sun. 18. Feb. 2018, 14:13:42: 100 Anfragen in 245.0 Sek gesendet.
+Sun. 18. Feb. 2018, 14:17:48: 100 Anfragen in 246.1 Sek gesendet.
+Sun. 18. Feb. 2018, 14:21:55: 100 Anfragen in 246.8 Sek gesendet.
+Sun. 18. Feb. 2018, 14:26:02: 100 Anfragen in 246.7 Sek gesendet.
+Sun. 18. Feb. 2018, 14:30:02: 100 Anfragen in 240.2 Sek gesendet.
+Sun. 18. Feb. 2018, 14:34:07: 100 Anfragen in 244.4 Sek gesendet.
+Sun. 18. Feb. 2018, 14:38:13: 100 Anfragen in 245.8 Sek gesendet.
+Sun. 18. Feb. 2018, 14:42:21: 100 Anfragen in 248.4 Sek gesendet.
+Sun. 18. Feb. 2018, 14:46:25: 100 Anfragen in 243.5 Sek gesendet.
+Sun. 18. Feb. 2018, 14:50:28: 100 Anfragen in 243.4 Sek gesendet.
+Sun. 18. Feb. 2018, 14:54:35: 100 Anfragen in 246.9 Sek gesendet.
+Sun. 18. Feb. 2018, 14:58:43: 100 Anfragen in 248.3 Sek gesendet.
+Sun. 18. Feb. 2018, 15:02:51: 100 Anfragen in 247.2 Sek gesendet.
+Sun. 18. Feb. 2018, 15:06:57: 100 Anfragen in 246.7 Sek gesendet.
+Sun. 18. Feb. 2018, 15:10:58: 100 Anfragen in 241.0 Sek gesendet.
+Sun. 18. Feb. 2018, 15:15:02: 100 Anfragen in 243.6 Sek gesendet.
+Sun. 18. Feb. 2018, 15:19:08: 100 Anfragen in 246.3 Sek gesendet.
+Sun. 18. Feb. 2018, 15:23:14: 100 Anfragen in 245.9 Sek gesendet.
+Sun. 18. Feb. 2018, 15:27:22: 100 Anfragen in 247.3 Sek gesendet.
+Sun. 18. Feb. 2018, 15:31:25: 100 Anfragen in 242.9 Sek gesendet.
+Sun. 18. Feb. 2018, 15:35:28: 100 Anfragen in 243.7 Sek gesendet.
+Sun. 18. Feb. 2018, 15:39:37: 100 Anfragen in 248.8 Sek gesendet.
+Sun. 18. Feb. 2018, 15:43:42: 100 Anfragen in 244.8 Sek gesendet.
+Sun. 18. Feb. 2018, 15:47:48: 100 Anfragen in 245.7 Sek gesendet.
+Sun. 18. Feb. 2018, 15:51:59: 100 Anfragen in 251.4 Sek gesendet.
+Sun. 18. Feb. 2018, 15:56:11: 100 Anfragen in 251.7 Sek gesendet.
+Sun. 18. Feb. 2018, 16:00:11: 100 Anfragen in 240.1 Sek gesendet.
+Sun. 18. Feb. 2018, 16:04:19: 100 Anfragen in 248.3 Sek gesendet.
+Sun. 18. Feb. 2018, 16:08:33: 100 Anfragen in 253.9 Sek gesendet.
+Sun. 18. Feb. 2018, 16:12:41: 100 Anfragen in 247.8 Sek gesendet.
+Sun. 18. Feb. 2018, 16:16:44: 100 Anfragen in 243.0 Sek gesendet.
+Sun. 18. Feb. 2018, 16:20:52: 100 Anfragen in 247.5 Sek gesendet.
+Sun. 18. Feb. 2018, 16:24:58: 100 Anfragen in 245.8 Sek gesendet.
+Sun. 18. Feb. 2018, 16:29:02: 100 Anfragen in 244.6 Sek gesendet.
+Sun. 18. Feb. 2018, 16:33:13: 100 Anfragen in 250.7 Sek gesendet.
+Sun. 18. Feb. 2018, 16:37:24: 100 Anfragen in 251.2 Sek gesendet.
+Sun. 18. Feb. 2018, 16:41:31: 100 Anfragen in 246.4 Sek gesendet.
+Sun. 18. Feb. 2018, 16:45:36: 100 Anfragen in 245.4 Sek gesendet.
+Sun. 18. Feb. 2018, 16:49:42: 100 Anfragen in 245.9 Sek gesendet.
+Sun. 18. Feb. 2018, 16:53:48: 100 Anfragen in 246.1 Sek gesendet.
+Sun. 18. Feb. 2018, 16:55:17: Aenderung des Angebots!
+Try to reserve a ticket:
+  name: Festivalticket Phase 2
+  price: 155,43 €
+Sun. 18. Feb. 2018, 16:55:17: --> VERSUCHTE RESERVIERUNG
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+oCwHFmvf0wEkAAAANWQzZDM3MWUtZTY2MS00MDAzLThjMjMtNTU1NTBlYzhjMTY4hHlX5z48NJ08gj6I9odpxwI5I741
+
+  ASP.NET_SessionId:
+2idy2rttymvcurz5vdr1bw3c
+
+
+  duration (1x post): 0.05443143844604492
+Sun. 18. Feb. 2018, 16:58:08: 100 Anfragen in 259.8 Sek gesendet.
+Sun. 18. Feb. 2018, 17:02:16: 100 Anfragen in 247.7 Sek gesendet.
+Sun. 18. Feb. 2018, 17:06:29: 100 Anfragen in 252.9 Sek gesendet.
+Sun. 18. Feb. 2018, 17:10:40: 100 Anfragen in 250.9 Sek gesendet.
+Sun. 18. Feb. 2018, 17:14:49: 100 Anfragen in 249.3 Sek gesendet.
+Sun. 18. Feb. 2018, 17:19:05: 100 Anfragen in 255.8 Sek gesendet.
+Sun. 18. Feb. 2018, 17:23:19: 100 Anfragen in 253.5 Sek gesendet.
+Sun. 18. Feb. 2018, 17:27:29: 100 Anfragen in 249.7 Sek gesendet.
+Sun. 18. Feb. 2018, 17:31:38: 100 Anfragen in 249.3 Sek gesendet.
+Sun. 18. Feb. 2018, 17:35:45: 100 Anfragen in 246.6 Sek gesendet.
+Sun. 18. Feb. 2018, 17:39:56: 100 Anfragen in 251.9 Sek gesendet.
+Sun. 18. Feb. 2018, 17:44:02: 100 Anfragen in 245.2 Sek gesendet.
+Sun. 18. Feb. 2018, 17:48:11: 100 Anfragen in 249.4 Sek gesendet.
+Sun. 18. Feb. 2018, 17:52:22: 100 Anfragen in 250.9 Sek gesendet.
+Sun. 18. Feb. 2018, 17:56:29: 100 Anfragen in 246.7 Sek gesendet.
+Sun. 18. Feb. 2018, 18:00:36: 100 Anfragen in 247.4 Sek gesendet.
+Sun. 18. Feb. 2018, 18:04:40: 100 Anfragen in 244.0 Sek gesendet.
+Sun. 18. Feb. 2018, 18:08:49: 100 Anfragen in 248.6 Sek gesendet.
+Sun. 18. Feb. 2018, 18:12:58: 100 Anfragen in 249.2 Sek gesendet.
+Sun. 18. Feb. 2018, 18:17:05: 100 Anfragen in 246.5 Sek gesendet.
+Sun. 18. Feb. 2018, 18:21:15: 100 Anfragen in 250.4 Sek gesendet.
+Sun. 18. Feb. 2018, 18:25:28: 100 Anfragen in 252.4 Sek gesendet.
+Sun. 18. Feb. 2018, 18:29:32: 100 Anfragen in 244.7 Sek gesendet.
+Sun. 18. Feb. 2018, 18:33:37: 100 Anfragen in 244.5 Sek gesendet.
+Sun. 18. Feb. 2018, 18:37:48: 100 Anfragen in 250.4 Sek gesendet.
+Sun. 18. Feb. 2018, 18:41:52: 100 Anfragen in 244.2 Sek gesendet.
+Sun. 18. Feb. 2018, 18:46:01: 100 Anfragen in 249.4 Sek gesendet.
+Sun. 18. Feb. 2018, 18:50:06: 100 Anfragen in 244.3 Sek gesendet.
+Sun. 18. Feb. 2018, 18:54:16: 100 Anfragen in 250.4 Sek gesendet.
+Sun. 18. Feb. 2018, 18:58:25: 100 Anfragen in 248.8 Sek gesendet.
+Sun. 18. Feb. 2018, 19:02:35: 100 Anfragen in 250.1 Sek gesendet.
+Sun. 18. Feb. 2018, 19:06:48: 100 Anfragen in 252.5 Sek gesendet.
+Sun. 18. Feb. 2018, 19:10:52: 100 Anfragen in 244.6 Sek gesendet.
+Sun. 18. Feb. 2018, 19:14:57: 100 Anfragen in 244.7 Sek gesendet.
+Sun. 18. Feb. 2018, 19:19:05: 100 Anfragen in 248.3 Sek gesendet.
+Sun. 18. Feb. 2018, 19:23:10: 100 Anfragen in 244.7 Sek gesendet.
+Sun. 18. Feb. 2018, 19:27:15: 100 Anfragen in 245.2 Sek gesendet.
+Traceback (most recent call last):
+  File "ticketBot.py", line 105, in <module>
+    main()
+  File "ticketBot.py", line 91, in main
+    time.sleep(1)
+KeyboardInterrupt

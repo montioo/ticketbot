@@ -1,0 +1,139 @@
+    ticketBot, start: Tue. 10. Apr. 2018, 22:21:21
+             version: 2.5.4
+Tue. 10. Apr. 2018, 22:21:21: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /info
+AENDERUNG DES ANGEBOTS:
+Tue. 10. Apr. 2018, 22:21:22
+Starte mit Seite: 2
+Starte mit Seite: 3
+Fertig mit Seite: 2
+Fertig mit Seite: 3
+Tue. 10. Apr. 2018, 22:21:40: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /info
+Tue. 10. Apr. 2018, 22:22:17: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /systeminfo
+Tue. 10. Apr. 2018, 22:22:27: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Tue. 10. Apr. 2018, 22:29:10:, 100 Anfragen in 469.1 Sek gesendet.
+Tue. 10. Apr. 2018, 22:36:58:, 100 Anfragen in 467.6 Sek gesendet.
+Tue. 10. Apr. 2018, 22:44:45:, 100 Anfragen in 467.6 Sek gesendet.
+Tue. 10. Apr. 2018, 22:52:33:, 100 Anfragen in 467.3 Sek gesendet.
+Tue. 10. Apr. 2018, 23:00:19:, 100 Anfragen in 466.7 Sek gesendet.
+Tue. 10. Apr. 2018, 23:08:07:, 100 Anfragen in 468.0 Sek gesendet.
+Tue. 10. Apr. 2018, 23:15:55:, 100 Anfragen in 467.2 Sek gesendet.
+Tue. 10. Apr. 2018, 23:23:41:, 100 Anfragen in 466.7 Sek gesendet.
+Tue. 10. Apr. 2018, 23:31:29:, 100 Anfragen in 467.5 Sek gesendet.
+Tue. 10. Apr. 2018, 23:39:15:, 100 Anfragen in 466.4 Sek gesendet.
+Tue. 10. Apr. 2018, 23:47:02:, 100 Anfragen in 467.0 Sek gesendet.
+Tue. 10. Apr. 2018, 23:54:49:, 100 Anfragen in 466.9 Sek gesendet.
+Wed. 11. Apr. 2018, 00:02:36:, 100 Anfragen in 466.9 Sek gesendet.
+Wed. 11. Apr. 2018, 00:10:24:, 100 Anfragen in 467.3 Sek gesendet.
+Wed. 11. Apr. 2018, 00:18:10:, 100 Anfragen in 466.5 Sek gesendet.
+Wed. 11. Apr. 2018, 00:25:57:, 100 Anfragen in 466.8 Sek gesendet.
+Wed. 11. Apr. 2018, 00:33:46:, 100 Anfragen in 468.8 Sek gesendet.
+Wed. 11. Apr. 2018, 00:42:39:, 100 Anfragen in 533.2 Sek gesendet.
+Wed. 11. Apr. 2018, 00:54:38:, 100 Anfragen in 718.3 Sek gesendet.
+Wed. 11. Apr. 2018, 01:08:58:, 100 Anfragen in 860.8 Sek gesendet.
+Wed. 11. Apr. 2018, 01:23:25:, 100 Anfragen in 866.9 Sek gesendet.
+Wed. 11. Apr. 2018, 01:37:52:, 100 Anfragen in 866.9 Sek gesendet.
+Wed. 11. Apr. 2018, 01:52:19:, 100 Anfragen in 867.2 Sek gesendet.
+Wed. 11. Apr. 2018, 02:06:47:, 100 Anfragen in 867.5 Sek gesendet.
+Wed. 11. Apr. 2018, 02:21:14:, 100 Anfragen in 866.9 Sek gesendet.
+Wed. 11. Apr. 2018, 02:35:41:, 100 Anfragen in 867.4 Sek gesendet.
+Wed. 11. Apr. 2018, 02:50:08:, 100 Anfragen in 867.0 Sek gesendet.
+Wed. 11. Apr. 2018, 03:04:50:, 100 Anfragen in 881.4 Sek gesendet.
+Wed. 11. Apr. 2018, 03:19:17:, 100 Anfragen in 867.1 Sek gesendet.
+Wed. 11. Apr. 2018, 03:33:45:, 100 Anfragen in 868.0 Sek gesendet.
+Wed. 11. Apr. 2018, 03:48:22:, 100 Anfragen in 876.2 Sek gesendet.
+Wed. 11. Apr. 2018, 04:03:13:, 100 Anfragen in 891.6 Sek gesendet.
+Wed. 11. Apr. 2018, 04:17:45:, 100 Anfragen in 871.9 Sek gesendet.
+Wed. 11. Apr. 2018, 04:32:20:, 100 Anfragen in 875.2 Sek gesendet.
+Wed. 11. Apr. 2018, 04:46:56:, 100 Anfragen in 875.6 Sek gesendet.
+Wed. 11. Apr. 2018, 05:01:25:, 100 Anfragen in 869.2 Sek gesendet.
+Wed. 11. Apr. 2018, 05:16:02:, 100 Anfragen in 876.5 Sek gesendet.
+Wed. 11. Apr. 2018, 05:30:31:, 100 Anfragen in 868.7 Sek gesendet.
+Wed. 11. Apr. 2018, 05:44:59:, 100 Anfragen in 867.8 Sek gesendet.
+Wed. 11. Apr. 2018, 05:59:34:, 100 Anfragen in 875.6 Sek gesendet.
+Wed. 11. Apr. 2018, 06:14:19:, 100 Anfragen in 884.6 Sek gesendet.
+Wed. 11. Apr. 2018, 06:29:02:, 100 Anfragen in 883.0 Sek gesendet.
+Wed. 11. Apr. 2018, 06:43:32:, 100 Anfragen in 869.8 Sek gesendet.
+Wed. 11. Apr. 2018, 06:58:01:, 100 Anfragen in 869.2 Sek gesendet.
+Wed. 11. Apr. 2018, 07:12:33:, 100 Anfragen in 872.0 Sek gesendet.
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 346, in _make_request
+    self._validate_conn(conn)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 850, in _validate_conn
+    conn.connect()
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connection.py", line 326, in connect
+    ssl_context=context)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/util/ssl_.py", line 329, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 385, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 760, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 996, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 641, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/requests/adapters.py", line 440, in send
+    timeout=timeout
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 639, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/util/retry.py", line 357, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/packages/six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 601, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 346, in _make_request
+    self._validate_conn(conn)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connectionpool.py", line 850, in _validate_conn
+    conn.connect()
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/connection.py", line 326, in connect
+    ssl_context=context)
+  File "/home/monti/.local/lib/python3.5/site-packages/urllib3/util/ssl_.py", line 329, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.5/ssl.py", line 385, in wrap_socket
+    _context=self)
+  File "/usr/lib/python3.5/ssl.py", line 760, in __init__
+    self.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 996, in do_handshake
+    self._sslobj.do_handshake()
+  File "/usr/lib/python3.5/ssl.py", line 641, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "ticketBot.py", line 85, in <module>
+    main()
+  File "ticketBot.py", line 72, in main
+    ticket_list = webTix.list_tix_diff(ticket_list)
+  File "/home/monti/ticketbot/splashTicketBot/webTicket.py", line 264, in list_tix_diff
+    curr_ticket_list, page_post_data = fetch_all_tickets(len(old_ticket_list))
+  File "/home/monti/ticketbot/splashTicketBot/webTicket.py", line 214, in fetch_all_tickets
+    new_ticket_amount, ses_p1, soup_p1 = count_tickets()
+  File "/home/monti/ticketbot/splashTicketBot/webTicket.py", line 138, in count_tickets
+    page = ses.get(util.url, headers=util.header).content
+  File "/home/monti/.local/lib/python3.5/site-packages/requests/sessions.py", line 521, in get
+    return self.request('GET', url, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/requests/sessions.py", line 508, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/requests/sessions.py", line 618, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/requests/adapters.py", line 490, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

@@ -1,0 +1,93 @@
+    ticketBot, start: Mon. 26. Mar. 2018, 14:53:52
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 14:53:53.164182
+Starte mit Seite: 2
+Fertig mit Seite: 2
+Mon. 26. Mar. 2018, 14:59:40: 40 Anfragen in 347.5 Sek gesendet.
+Mon. 26. Mar. 2018, 15:05:26: 40 Anfragen in 345.9 Sek gesendet.
+Mon. 26. Mar. 2018, 15:11:12: 40 Anfragen in 346.5 Sek gesendet.
+Mon. 26. Mar. 2018, 15:16:58: 40 Anfragen in 346.1 Sek gesendet.
+Mon. 26. Mar. 2018, 15:22:45: 40 Anfragen in 346.2 Sek gesendet.
+Mon. 26. Mar. 2018, 15:28:31: 40 Anfragen in 346.6 Sek gesendet.
+Mon. 26. Mar. 2018, 15:34:18: 40 Anfragen in 346.4 Sek gesendet.
+Mon. 26. Mar. 2018, 15:40:04: 40 Anfragen in 346.3 Sek gesendet.
+Mon. 26. Mar. 2018, 15:45:50: 40 Anfragen in 346.4 Sek gesendet.
+Mon. 26. Mar. 2018, 15:51:37: 40 Anfragen in 346.1 Sek gesendet.
+Mon. 26. Mar. 2018, 15:57:23: 40 Anfragen in 346.8 Sek gesendet.
+Mon. 26. Mar. 2018, 16:03:10: 40 Anfragen in 346.5 Sek gesendet.
+Mon. 26. Mar. 2018, 16:08:56: 40 Anfragen in 346.3 Sek gesendet.
+Mon. 26. Mar. 2018, 16:14:42: 40 Anfragen in 346.0 Sek gesendet.
+Mon. 26. Mar. 2018, 16:20:29: 40 Anfragen in 346.1 Sek gesendet.
+Mon. 26. Mar. 2018, 16:26:15: 40 Anfragen in 346.4 Sek gesendet.
+Mon. 26. Mar. 2018, 16:32:02: 40 Anfragen in 346.6 Sek gesendet.
+Mon. 26. Mar. 2018, 16:37:48: 40 Anfragen in 346.3 Sek gesendet.
+Mon. 26. Mar. 2018, 16:43:34: 40 Anfragen in 346.3 Sek gesendet.
+Mon. 26. Mar. 2018, 16:49:21: 40 Anfragen in 346.5 Sek gesendet.
+Mon. 26. Mar. 2018, 16:55:08: 40 Anfragen in 347.0 Sek gesendet.
+Mon. 26. Mar. 2018, 17:00:55: 40 Anfragen in 346.5 Sek gesendet.
+Mon. 26. Mar. 2018, 17:06:43: 40 Anfragen in 348.0 Sek gesendet.
+Mon. 26. Mar. 2018, 17:12:40: 40 Anfragen in 357.1 Sek gesendet.
+Mon. 26. Mar. 2018, 17:18:51: 40 Anfragen in 371.7 Sek gesendet.
+Mon. 26. Mar. 2018, 17:25:25: 40 Anfragen in 393.8 Sek gesendet.
+Mon. 26. Mar. 2018, 17:32:25: 40 Anfragen in 419.5 Sek gesendet.
+Mon. 26. Mar. 2018, 17:39:53: 40 Anfragen in 448.2 Sek gesendet.
+Mon. 26. Mar. 2018, 17:47:49: 40 Anfragen in 475.6 Sek gesendet.
+Mon. 26. Mar. 2018, 17:56:06: 40 Anfragen in 496.9 Sek gesendet.
+Mon. 26. Mar. 2018, 18:04:32: 40 Anfragen in 505.8 Sek gesendet.
+Mon. 26. Mar. 2018, 18:12:59: 40 Anfragen in 507.8 Sek gesendet.
+Mon. 26. Mar. 2018, 18:21:26: 40 Anfragen in 506.5 Sek gesendet.
+Mon. 26. Mar. 2018, 18:29:52: 40 Anfragen in 506.3 Sek gesendet.
+Mon. 26. Mar. 2018, 18:38:19: 40 Anfragen in 506.2 Sek gesendet.
+Mon. 26. Mar. 2018, 18:46:45: 40 Anfragen in 506.3 Sek gesendet.
+Mon. 26. Mar. 2018, 18:55:12: 40 Anfragen in 506.6 Sek gesendet.
+Mon. 26. Mar. 2018, 19:03:38: 40 Anfragen in 506.7 Sek gesendet.
+Mon. 26. Mar. 2018, 19:12:05: 40 Anfragen in 506.7 Sek gesendet.
+Mon. 26. Mar. 2018, 19:20:32: 40 Anfragen in 506.4 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-26 19:20:57.338000
+Starte mit Seite: 2
+Fertig mit Seite: 2
+old: [{'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '9,90 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '11,00 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket', 'added': None, 'ticket_price': '13,20 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '14,30 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'still_available': True}, {'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'still_available': True}, {'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '16,50 €', 'still_available': True}, {'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party', 'added': None, 'ticket_price': '17,60 €', 'still_available': True}, {'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket', 'added': None, 'ticket_price': '38,50 €', 'still_available': True}, {'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '319,00 €', 'still_available': True}, {'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'VIP Ticket', 'added': None, 'ticket_price': '328,90 €', 'still_available': True}]
+new: [{'still_available': True, 'ticket_price': '9,90 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Parkticket'}, {'still_available': True, 'ticket_price': '11,00 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Parkticket'}, {'still_available': True, 'ticket_price': '13,20 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Parkticket'}, {'still_available': True, 'ticket_price': '13,20 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Parkticket'}, {'still_available': True, 'ticket_price': '14,30 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '16,50 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '16,50 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '16,50 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '16,50 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '16,50 €', 'page': 1, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '16,50 €', 'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '17,60 €', 'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand', 'ticket_type': 'Pre Party'}, {'still_available': True, 'ticket_price': '38,50 €', 'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand', 'ticket_type': 'Caravan Ticket'}, {'still_available': True, 'ticket_price': '181,50 €', 'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'ticket_type': 'Festivalticket Phase 3'}, {'still_available': True, 'ticket_price': '319,00 €', 'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'ticket_type': 'VIP Ticket'}, {'still_available': True, 'ticket_price': '328,90 €', 'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'ticket_type': 'VIP Ticket'}]
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+14,30 € --- 14,30 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+319,00 € --- 181,50 €
+----- 13
+319,00 € --- 319,00 €
+13 --- 14
+328,90 € --- 328,90 €
+14 --- 15
+Traceback (most recent call last):
+  File "ticketBot.py", line 118, in <module>
+    main()
+  File "ticketBot.py", line 102, in main
+    ticket_list = webTix.list_tix_diff(ticket_list)
+  File "/home/monti/ticketbot/splashTicketBot/webTicket.py", line 272, in list_tix_diff
+    removed_tix, new_tix, complete_ticket_list = stats.list_diff_stat(old_ticket_list, curr_ticket_list)
+  File "/home/monti/ticketbot/splashTicketBot/tixStatistics.py", line 23, in list_diff_stat
+    complete_list.append(old[a_i])
+IndexError: list index out of range

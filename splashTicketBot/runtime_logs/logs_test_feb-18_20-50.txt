@@ -1,0 +1,154 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 150, in _parse
+    data = json.loads(decoded_s)
+  File "/usr/lib/python3.5/json/__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.5/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/v2_ticketBot_reserve/telegramMessenger.py", line 83, in run
+    self.respond()
+  File "/home/monti/ticketbot/v2_ticketBot_reserve/telegramMessenger.py", line 92, in respond
+    for update in bot.get_updates(offset=self.update_id, timeout=10):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 1720, in get_updates
+    result = self._request.post(url, data, timeout=float(read_latency) + float(timeout))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 203, in _request_wrapper
+    message = self._parse(resp.data)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 152, in _parse
+    raise TelegramError('Invalid server response')
+telegram.error.TelegramError: Invalid server response
+
+    ticketBot, start: Sun. 18. Feb. 2018, 20:04:27
+Sun. 18. Feb. 2018, 20:04:30: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Sun. 18. Feb. 2018, 20:08:54: 100 Anfragen in 266.5 Sek gesendet.
+Sun. 18. Feb. 2018, 20:11:13: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Sun. 18. Feb. 2018, 20:13:21: 100 Anfragen in 266.7 Sek gesendet.
+Sun. 18. Feb. 2018, 20:17:48: 100 Anfragen in 267.0 Sek gesendet.
+Sun. 18. Feb. 2018, 20:22:15: 100 Anfragen in 267.1 Sek gesendet.
+Sun. 18. Feb. 2018, 20:26:41: 100 Anfragen in 266.4 Sek gesendet.
+Sun. 18. Feb. 2018, 20:31:08: 100 Anfragen in 266.4 Sek gesendet.
+Sun. 18. Feb. 2018, 20:35:36: 100 Anfragen in 268.1 Sek gesendet.
+Sun. 18. Feb. 2018, 20:40:03: 100 Anfragen in 266.9 Sek gesendet.
+Sun. 18. Feb. 2018, 20:44:30: 100 Anfragen in 267.0 Sek gesendet.
+Sun. 18. Feb. 2018, 20:48:56: 100 Anfragen in 266.3 Sek gesendet.
+Sun. 18. Feb. 2018, 20:53:23: 100 Anfragen in 267.0 Sek gesendet.
+Sun. 18. Feb. 2018, 20:57:50: 100 Anfragen in 266.7 Sek gesendet.
+Sun. 18. Feb. 2018, 21:03:59: 100 Anfragen in 368.6 Sek gesendet.
+Sun. 18. Feb. 2018, 21:11:45: 100 Anfragen in 466.6 Sek gesendet.
+Sun. 18. Feb. 2018, 21:19:32: 100 Anfragen in 467.0 Sek gesendet.
+Sun. 18. Feb. 2018, 21:27:20: 100 Anfragen in 467.7 Sek gesendet.
+Sun. 18. Feb. 2018, 21:35:08: 100 Anfragen in 467.8 Sek gesendet.
+Sun. 18. Feb. 2018, 21:36:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Sun. 18. Feb. 2018, 21:42:54: 100 Anfragen in 466.4 Sek gesendet.
+Sun. 18. Feb. 2018, 21:50:42: 100 Anfragen in 467.1 Sek gesendet.
+Sun. 18. Feb. 2018, 21:58:51: 100 Anfragen in 489.2 Sek gesendet.
+Sun. 18. Feb. 2018, 22:06:38: 100 Anfragen in 467.0 Sek gesendet.
+Sun. 18. Feb. 2018, 22:14:25: 100 Anfragen in 467.4 Sek gesendet.
+Sun. 18. Feb. 2018, 22:22:12: 100 Anfragen in 466.8 Sek gesendet.
+Sun. 18. Feb. 2018, 22:29:59: 100 Anfragen in 466.3 Sek gesendet.
+Sun. 18. Feb. 2018, 22:37:45: 100 Anfragen in 466.1 Sek gesendet.
+Sun. 18. Feb. 2018, 22:45:32: 100 Anfragen in 466.9 Sek gesendet.
+Sun. 18. Feb. 2018, 22:53:18: 100 Anfragen in 466.6 Sek gesendet.
+Sun. 18. Feb. 2018, 23:01:05: 100 Anfragen in 466.8 Sek gesendet.
+Sun. 18. Feb. 2018, 23:02:10: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Sun. 18. Feb. 2018, 23:08:52: 100 Anfragen in 466.8 Sek gesendet.
+Sun. 18. Feb. 2018, 23:16:40: 100 Anfragen in 467.5 Sek gesendet.
+Sun. 18. Feb. 2018, 23:24:27: 100 Anfragen in 467.0 Sek gesendet.
+Sun. 18. Feb. 2018, 23:32:14: 100 Anfragen in 467.0 Sek gesendet.
+Sun. 18. Feb. 2018, 23:40:00: 100 Anfragen in 466.4 Sek gesendet.
+Sun. 18. Feb. 2018, 23:47:47: 100 Anfragen in 466.9 Sek gesendet.
+Sun. 18. Feb. 2018, 23:55:34: 100 Anfragen in 466.8 Sek gesendet.
+Mon. 19. Feb. 2018, 00:03:21: 100 Anfragen in 466.8 Sek gesendet.
+Mon. 19. Feb. 2018, 00:11:07: 100 Anfragen in 466.2 Sek gesendet.
+Mon. 19. Feb. 2018, 00:18:54: 100 Anfragen in 466.9 Sek gesendet.
+Mon. 19. Feb. 2018, 00:26:41: 100 Anfragen in 466.9 Sek gesendet.
+Mon. 19. Feb. 2018, 00:34:28: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 00:42:14: 100 Anfragen in 466.4 Sek gesendet.
+Mon. 19. Feb. 2018, 00:50:00: 100 Anfragen in 466.1 Sek gesendet.
+Mon. 19. Feb. 2018, 00:57:47: 100 Anfragen in 466.5 Sek gesendet.
+Mon. 19. Feb. 2018, 01:05:33: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 01:13:20: 100 Anfragen in 466.8 Sek gesendet.
+Mon. 19. Feb. 2018, 01:21:07: 100 Anfragen in 467.0 Sek gesendet.
+Mon. 19. Feb. 2018, 01:28:54: 100 Anfragen in 466.7 Sek gesendet.
+Mon. 19. Feb. 2018, 01:36:40: 100 Anfragen in 466.3 Sek gesendet.
+Mon. 19. Feb. 2018, 01:44:26: 100 Anfragen in 466.0 Sek gesendet.
+Mon. 19. Feb. 2018, 01:52:13: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 02:00:00: 100 Anfragen in 466.9 Sek gesendet.
+Mon. 19. Feb. 2018, 02:07:47: 100 Anfragen in 467.2 Sek gesendet.
+Mon. 19. Feb. 2018, 02:15:34: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 02:23:20: 100 Anfragen in 466.1 Sek gesendet.
+Mon. 19. Feb. 2018, 02:31:06: 100 Anfragen in 466.0 Sek gesendet.
+Mon. 19. Feb. 2018, 02:38:52: 100 Anfragen in 466.4 Sek gesendet.
+Mon. 19. Feb. 2018, 02:46:39: 100 Anfragen in 466.2 Sek gesendet.
+Mon. 19. Feb. 2018, 02:54:25: 100 Anfragen in 466.2 Sek gesendet.
+Mon. 19. Feb. 2018, 03:02:11: 100 Anfragen in 466.4 Sek gesendet.
+Mon. 19. Feb. 2018, 03:09:58: 100 Anfragen in 466.3 Sek gesendet.
+Mon. 19. Feb. 2018, 03:17:44: 100 Anfragen in 466.7 Sek gesendet.
+Mon. 19. Feb. 2018, 03:25:31: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 03:33:18: 100 Anfragen in 466.7 Sek gesendet.
+Mon. 19. Feb. 2018, 03:41:04: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 03:48:51: 100 Anfragen in 466.3 Sek gesendet.
+Mon. 19. Feb. 2018, 03:56:37: 100 Anfragen in 466.5 Sek gesendet.
+Mon. 19. Feb. 2018, 04:04:24: 100 Anfragen in 466.5 Sek gesendet.
+Mon. 19. Feb. 2018, 04:12:11: 100 Anfragen in 467.0 Sek gesendet.
+Mon. 19. Feb. 2018, 04:19:57: 100 Anfragen in 466.2 Sek gesendet.
+Mon. 19. Feb. 2018, 04:27:44: 100 Anfragen in 467.2 Sek gesendet.
+Mon. 19. Feb. 2018, 04:35:32: 100 Anfragen in 467.7 Sek gesendet.
+Mon. 19. Feb. 2018, 04:43:19: 100 Anfragen in 466.8 Sek gesendet.
+Mon. 19. Feb. 2018, 04:51:05: 100 Anfragen in 466.5 Sek gesendet.
+Mon. 19. Feb. 2018, 04:58:52: 100 Anfragen in 466.4 Sek gesendet.
+Mon. 19. Feb. 2018, 05:06:39: 100 Anfragen in 466.6 Sek gesendet.
+Mon. 19. Feb. 2018, 05:14:25: 100 Anfragen in 466.8 Sek gesendet.
+Mon. 19. Feb. 2018, 05:22:12: 100 Anfragen in 466.8 Sek gesendet.
+Mon. 19. Feb. 2018, 05:29:59: 100 Anfragen in 467.0 Sek gesendet.
+Mon. 19. Feb. 2018, 05:37:46: 100 Anfragen in 466.4 Sek gesendet.
+Mon. 19. Feb. 2018, 05:45:32: 100 Anfragen in 466.5 Sek gesendet.
+Mon. 19. Feb. 2018, 05:53:20: 100 Anfragen in 467.6 Sek gesendet.
+Mon. 19. Feb. 2018, 06:01:08: 100 Anfragen in 467.7 Sek gesendet.
+Mon. 19. Feb. 2018, 06:08:55: 100 Anfragen in 466.9 Sek gesendet.
+Mon. 19. Feb. 2018, 06:16:42: 100 Anfragen in 466.7 Sek gesendet.
+Mon. 19. Feb. 2018, 06:24:29: 100 Anfragen in 467.4 Sek gesendet.
+Mon. 19. Feb. 2018, 06:32:17: 100 Anfragen in 467.6 Sek gesendet.
+Mon. 19. Feb. 2018, 06:40:03: 100 Anfragen in 466.2 Sek gesendet.
+Mon. 19. Feb. 2018, 06:47:50: 100 Anfragen in 467.5 Sek gesendet.
+Mon. 19. Feb. 2018, 06:55:38: 100 Anfragen in 467.4 Sek gesendet.
+Mon. 19. Feb. 2018, 07:03:26: 100 Anfragen in 468.2 Sek gesendet.
+Mon. 19. Feb. 2018, 07:11:15: 100 Anfragen in 468.6 Sek gesendet.
+Mon. 19. Feb. 2018, 07:19:02: 100 Anfragen in 466.9 Sek gesendet.
+Mon. 19. Feb. 2018, 07:26:50: 100 Anfragen in 467.8 Sek gesendet.
+Mon. 19. Feb. 2018, 07:34:37: 100 Anfragen in 467.1 Sek gesendet.
+Mon. 19. Feb. 2018, 07:42:25: 100 Anfragen in 468.1 Sek gesendet.
+Mon. 19. Feb. 2018, 07:50:12: 100 Anfragen in 467.2 Sek gesendet.
+Mon. 19. Feb. 2018, 07:57:59: 100 Anfragen in 467.1 Sek gesendet.
+Mon. 19. Feb. 2018, 08:03:18: 100 Anfragen in 319.0 Sek gesendet.
+Mon. 19. Feb. 2018, 08:07:45: 100 Anfragen in 266.5 Sek gesendet.
+Mon. 19. Feb. 2018, 08:12:14: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 08:16:40: 100 Anfragen in 266.7 Sek gesendet.
+Mon. 19. Feb. 2018, 08:21:07: 100 Anfragen in 267.2 Sek gesendet.
+Traceback (most recent call last):
+  File "ticketBot.py", line 100, in <module>
+    main()
+  File "ticketBot.py", line 86, in main
+    time.sleep(delay_duration())
+KeyboardInterrupt

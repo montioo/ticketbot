@@ -1,0 +1,1026 @@
+    ticketBot, start: Mon. 19. Feb. 2018, 08:25:25
+Mon. 19. Feb. 2018, 08:25:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Mon. 19. Feb. 2018, 08:25:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Mon. 19. Feb. 2018, 08:25:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Mon. 19. Feb. 2018, 08:25:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Mon. 19. Feb. 2018, 08:25:30: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Mon. 19. Feb. 2018, 08:27:28: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /manual
+Mon. 19. Feb. 2018, 08:29:57: 100 Anfragen in 271.5 Sek gesendet.
+Mon. 19. Feb. 2018, 08:34:25: 100 Anfragen in 267.8 Sek gesendet.
+Mon. 19. Feb. 2018, 08:38:54: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 08:43:21: 100 Anfragen in 267.3 Sek gesendet.
+Mon. 19. Feb. 2018, 08:47:48: 100 Anfragen in 266.8 Sek gesendet.
+Mon. 19. Feb. 2018, 08:52:16: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 08:56:43: 100 Anfragen in 266.9 Sek gesendet.
+Mon. 19. Feb. 2018, 09:01:10: 100 Anfragen in 267.2 Sek gesendet.
+Mon. 19. Feb. 2018, 09:03:39: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /manual
+Mon. 19. Feb. 2018, 09:05:39: 100 Anfragen in 268.4 Sek gesendet.
+Mon. 19. Feb. 2018, 09:10:08: 100 Anfragen in 268.9 Sek gesendet.
+Mon. 19. Feb. 2018, 09:14:35: 100 Anfragen in 267.4 Sek gesendet.
+Mon. 19. Feb. 2018, 09:19:02: 100 Anfragen in 266.9 Sek gesendet.
+Mon. 19. Feb. 2018, 09:23:30: 100 Anfragen in 267.5 Sek gesendet.
+Mon. 19. Feb. 2018, 09:27:57: 100 Anfragen in 267.1 Sek gesendet.
+Mon. 19. Feb. 2018, 09:32:24: 100 Anfragen in 267.1 Sek gesendet.
+Mon. 19. Feb. 2018, 09:36:53: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 09:41:21: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 09:45:51: 100 Anfragen in 270.5 Sek gesendet.
+Mon. 19. Feb. 2018, 09:47:33: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /manual
+Mon. 19. Feb. 2018, 09:50:19: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 09:54:47: 100 Anfragen in 268.0 Sek gesendet.
+Mon. 19. Feb. 2018, 09:59:17: 100 Anfragen in 269.9 Sek gesendet.
+Mon. 19. Feb. 2018, 10:03:47: 100 Anfragen in 270.2 Sek gesendet.
+Mon. 19. Feb. 2018, 10:08:19: 100 Anfragen in 271.2 Sek gesendet.
+Mon. 19. Feb. 2018, 10:12:53: 100 Anfragen in 273.8 Sek gesendet.
+Mon. 19. Feb. 2018, 10:17:30: 100 Anfragen in 277.7 Sek gesendet.
+Mon. 19. Feb. 2018, 10:22:02: 100 Anfragen in 271.5 Sek gesendet.
+Mon. 19. Feb. 2018, 10:26:30: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 10:30:58: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 10:35:30: 100 Anfragen in 271.8 Sek gesendet.
+Mon. 19. Feb. 2018, 10:39:58: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 10:44:31: 100 Anfragen in 273.1 Sek gesendet.
+Mon. 19. Feb. 2018, 10:49:01: 100 Anfragen in 269.7 Sek gesendet.
+Mon. 19. Feb. 2018, 10:53:29: 100 Anfragen in 267.8 Sek gesendet.
+Mon. 19. Feb. 2018, 10:53:43: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /manual
+Mon. 19. Feb. 2018, 10:57:58: 100 Anfragen in 269.4 Sek gesendet.
+Mon. 19. Feb. 2018, 11:02:27: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 11:06:57: 100 Anfragen in 269.6 Sek gesendet.
+Mon. 19. Feb. 2018, 11:11:29: 100 Anfragen in 272.3 Sek gesendet.
+Mon. 19. Feb. 2018, 11:15:57: 100 Anfragen in 267.5 Sek gesendet.
+Mon. 19. Feb. 2018, 11:20:30: 100 Anfragen in 273.5 Sek gesendet.
+Mon. 19. Feb. 2018, 11:25:01: 100 Anfragen in 270.6 Sek gesendet.
+Mon. 19. Feb. 2018, 11:29:30: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 11:33:58: 100 Anfragen in 268.3 Sek gesendet.
+Mon. 19. Feb. 2018, 11:38:25: 100 Anfragen in 266.9 Sek gesendet.
+Mon. 19. Feb. 2018, 11:42:58: 100 Anfragen in 272.2 Sek gesendet.
+Mon. 19. Feb. 2018, 11:47:28: 100 Anfragen in 270.6 Sek gesendet.
+Mon. 19. Feb. 2018, 11:51:56: 100 Anfragen in 267.5 Sek gesendet.
+Mon. 19. Feb. 2018, 11:56:25: 100 Anfragen in 268.7 Sek gesendet.
+Mon. 19. Feb. 2018, 12:00:55: 100 Anfragen in 270.6 Sek gesendet.
+Mon. 19. Feb. 2018, 12:05:24: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 12:07:53: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Mon. 19. Feb. 2018, 12:09:51: 100 Anfragen in 267.4 Sek gesendet.
+Mon. 19. Feb. 2018, 12:14:18: 100 Anfragen in 266.9 Sek gesendet.
+Mon. 19. Feb. 2018, 12:18:46: 100 Anfragen in 267.3 Sek gesendet.
+Mon. 19. Feb. 2018, 12:23:18: 100 Anfragen in 271.9 Sek gesendet.
+Mon. 19. Feb. 2018, 12:27:47: 100 Anfragen in 268.8 Sek gesendet.
+Mon. 19. Feb. 2018, 12:32:17: 100 Anfragen in 270.3 Sek gesendet.
+Mon. 19. Feb. 2018, 12:36:45: 100 Anfragen in 268.5 Sek gesendet.
+Mon. 19. Feb. 2018, 12:41:19: 100 Anfragen in 273.0 Sek gesendet.
+Mon. 19. Feb. 2018, 12:45:04: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Mon. 19. Feb. 2018, 12:45:47: 100 Anfragen in 268.0 Sek gesendet.
+Mon. 19. Feb. 2018, 12:50:13: 100 Anfragen in 266.7 Sek gesendet.
+Mon. 19. Feb. 2018, 12:54:48: 100 Anfragen in 274.4 Sek gesendet.
+Mon. 19. Feb. 2018, 12:59:23: 100 Anfragen in 275.0 Sek gesendet.
+Mon. 19. Feb. 2018, 13:04:08: 100 Anfragen in 285.1 Sek gesendet.
+Mon. 19. Feb. 2018, 13:08:43: 100 Anfragen in 274.9 Sek gesendet.
+Mon. 19. Feb. 2018, 13:13:18: 100 Anfragen in 275.4 Sek gesendet.
+Mon. 19. Feb. 2018, 13:17:50: 100 Anfragen in 271.9 Sek gesendet.
+Mon. 19. Feb. 2018, 13:22:21: 100 Anfragen in 270.3 Sek gesendet.
+Mon. 19. Feb. 2018, 13:26:49: 100 Anfragen in 267.8 Sek gesendet.
+Mon. 19. Feb. 2018, 13:31:23: 100 Anfragen in 274.2 Sek gesendet.
+Mon. 19. Feb. 2018, 13:33:25: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /l
+Mon. 19. Feb. 2018, 13:35:57: 100 Anfragen in 274.2 Sek gesendet.
+Mon. 19. Feb. 2018, 13:40:27: 100 Anfragen in 270.2 Sek gesendet.
+Mon. 19. Feb. 2018, 13:44:56: 100 Anfragen in 268.2 Sek gesendet.
+Mon. 19. Feb. 2018, 13:49:26: 100 Anfragen in 269.9 Sek gesendet.
+Mon. 19. Feb. 2018, 13:50:17: Aenderung des Angebots!
+Mon. 19. Feb. 2018, 13:51:25: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Mon. 19. Feb. 2018, 13:53:55: 100 Anfragen in 269.2 Sek gesendet.
+Mon. 19. Feb. 2018, 13:58:24: 100 Anfragen in 268.8 Sek gesendet.
+Mon. 19. Feb. 2018, 14:03:00: 100 Anfragen in 275.9 Sek gesendet.
+Mon. 19. Feb. 2018, 14:07:34: 100 Anfragen in 274.4 Sek gesendet.
+Mon. 19. Feb. 2018, 14:12:08: 100 Anfragen in 273.4 Sek gesendet.
+Mon. 19. Feb. 2018, 14:16:42: 100 Anfragen in 274.3 Sek gesendet.
+Mon. 19. Feb. 2018, 14:21:11: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 14:25:45: 100 Anfragen in 273.9 Sek gesendet.
+Mon. 19. Feb. 2018, 14:30:16: 100 Anfragen in 270.9 Sek gesendet.
+Mon. 19. Feb. 2018, 14:34:46: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 14:39:15: 100 Anfragen in 269.8 Sek gesendet.
+Mon. 19. Feb. 2018, 14:43:51: 100 Anfragen in 275.9 Sek gesendet.
+Mon. 19. Feb. 2018, 14:48:21: 100 Anfragen in 269.4 Sek gesendet.
+Mon. 19. Feb. 2018, 14:52:58: 100 Anfragen in 277.3 Sek gesendet.
+Mon. 19. Feb. 2018, 14:57:30: 100 Anfragen in 271.3 Sek gesendet.
+Mon. 19. Feb. 2018, 15:02:11: 100 Anfragen in 281.6 Sek gesendet.
+Mon. 19. Feb. 2018, 15:06:44: 100 Anfragen in 272.7 Sek gesendet.
+Mon. 19. Feb. 2018, 15:11:20: 100 Anfragen in 276.4 Sek gesendet.
+Mon. 19. Feb. 2018, 15:15:50: 100 Anfragen in 269.6 Sek gesendet.
+Mon. 19. Feb. 2018, 15:20:22: 100 Anfragen in 271.8 Sek gesendet.
+Mon. 19. Feb. 2018, 15:24:51: 100 Anfragen in 268.9 Sek gesendet.
+Mon. 19. Feb. 2018, 15:29:34: 100 Anfragen in 283.6 Sek gesendet.
+Mon. 19. Feb. 2018, 15:34:16: 100 Anfragen in 281.9 Sek gesendet.
+Mon. 19. Feb. 2018, 15:38:56: 100 Anfragen in 279.7 Sek gesendet.
+Mon. 19. Feb. 2018, 15:43:34: 100 Anfragen in 278.3 Sek gesendet.
+Mon. 19. Feb. 2018, 15:48:03: 100 Anfragen in 268.9 Sek gesendet.
+Mon. 19. Feb. 2018, 15:52:39: 100 Anfragen in 275.9 Sek gesendet.
+Mon. 19. Feb. 2018, 15:54:56: Aenderung des Angebots!
+Try to reserve a ticket:
+  name: Festivalticket Phase 1
+  price: 143,00 €
+Mon. 19. Feb. 2018, 15:54:56: --> VERSUCHTE RESERVIERUNG
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+INOe0ivg0wEkAAAAZmUwYzM5YWYtMjZlYi00YzhiLTkyOTItZGMyMjYyOGJiMzI2kMHZ7YPNggKQn23C5R4b_KII1iM1
+
+  ASP.NET_SessionId:
+1qwjjdcpalqgflsag331dt3h
+
+
+  duration (1x post): 0.05702996253967285
+Mon. 19. Feb. 2018, 15:57:14: 100 Anfragen in 275.0 Sek gesendet.
+Mon. 19. Feb. 2018, 16:01:47: 100 Anfragen in 272.2 Sek gesendet.
+Mon. 19. Feb. 2018, 16:06:21: 100 Anfragen in 274.3 Sek gesendet.
+Mon. 19. Feb. 2018, 16:10:52: 100 Anfragen in 270.8 Sek gesendet.
+Mon. 19. Feb. 2018, 16:15:28: 100 Anfragen in 276.2 Sek gesendet.
+Mon. 19. Feb. 2018, 16:20:02: 100 Anfragen in 273.7 Sek gesendet.
+Mon. 19. Feb. 2018, 16:24:36: 100 Anfragen in 274.5 Sek gesendet.
+Mon. 19. Feb. 2018, 16:29:10: 100 Anfragen in 273.1 Sek gesendet.
+Mon. 19. Feb. 2018, 16:33:43: 100 Anfragen in 272.9 Sek gesendet.
+Mon. 19. Feb. 2018, 16:38:25: 100 Anfragen in 282.1 Sek gesendet.
+Mon. 19. Feb. 2018, 16:42:55: 100 Anfragen in 270.2 Sek gesendet.
+Mon. 19. Feb. 2018, 16:47:26: 100 Anfragen in 270.8 Sek gesendet.
+Mon. 19. Feb. 2018, 16:51:56: 100 Anfragen in 270.0 Sek gesendet.
+Mon. 19. Feb. 2018, 16:56:26: 100 Anfragen in 269.7 Sek gesendet.
+Mon. 19. Feb. 2018, 17:01:02: 100 Anfragen in 276.2 Sek gesendet.
+Mon. 19. Feb. 2018, 17:05:31: 100 Anfragen in 269.2 Sek gesendet.
+Mon. 19. Feb. 2018, 17:10:02: 100 Anfragen in 270.5 Sek gesendet.
+Mon. 19. Feb. 2018, 17:14:31: 100 Anfragen in 268.7 Sek gesendet.
+Mon. 19. Feb. 2018, 17:19:03: 100 Anfragen in 272.4 Sek gesendet.
+Mon. 19. Feb. 2018, 17:23:38: 100 Anfragen in 274.6 Sek gesendet.
+Mon. 19. Feb. 2018, 17:28:08: 100 Anfragen in 270.0 Sek gesendet.
+Mon. 19. Feb. 2018, 17:32:38: 100 Anfragen in 270.7 Sek gesendet.
+Mon. 19. Feb. 2018, 17:37:09: 100 Anfragen in 270.7 Sek gesendet.
+Mon. 19. Feb. 2018, 17:41:38: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 17:46:07: 100 Anfragen in 268.8 Sek gesendet.
+Mon. 19. Feb. 2018, 17:50:38: 100 Anfragen in 270.7 Sek gesendet.
+Mon. 19. Feb. 2018, 17:52:09: telegramMsgCmd:
+  chat_id: 14764623
+  nachricht: /start
+Mon. 19. Feb. 2018, 17:52:38: telegramMsgCmd:
+  chat_id: 14764623
+  nachricht: /sub
+Mon. 19. Feb. 2018, 17:52:38: xmlDb, add 14764623 to waiting
+Mon. 19. Feb. 2018, 17:53:32: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /confirm 14764623
+Mon. 19. Feb. 2018, 17:53:32: xmlDb, remove 14764623 from waiting
+Mon. 19. Feb. 2018, 17:53:32: xmlDb, add 14764623 to users
+Mon. 19. Feb. 2018, 17:53:51: telegramMsgCmd:
+  chat_id: 14764623
+  nachricht: /unsub
+Mon. 19. Feb. 2018, 17:53:51: xmlDb, remove 14764623 from users
+Mon. 19. Feb. 2018, 17:55:07: 100 Anfragen in 269.1 Sek gesendet.
+Mon. 19. Feb. 2018, 17:59:37: 100 Anfragen in 270.1 Sek gesendet.
+Mon. 19. Feb. 2018, 18:04:07: 100 Anfragen in 269.2 Sek gesendet.
+Mon. 19. Feb. 2018, 18:08:36: 100 Anfragen in 268.9 Sek gesendet.
+Mon. 19. Feb. 2018, 18:13:07: 100 Anfragen in 271.4 Sek gesendet.
+Mon. 19. Feb. 2018, 18:17:36: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 18:22:05: 100 Anfragen in 268.7 Sek gesendet.
+Mon. 19. Feb. 2018, 18:26:35: 100 Anfragen in 270.1 Sek gesendet.
+Mon. 19. Feb. 2018, 18:31:04: 100 Anfragen in 269.0 Sek gesendet.
+Mon. 19. Feb. 2018, 18:35:34: 100 Anfragen in 269.0 Sek gesendet.
+Mon. 19. Feb. 2018, 18:40:03: 100 Anfragen in 269.0 Sek gesendet.
+Mon. 19. Feb. 2018, 18:44:31: 100 Anfragen in 268.7 Sek gesendet.
+Mon. 19. Feb. 2018, 18:49:01: 100 Anfragen in 269.8 Sek gesendet.
+Mon. 19. Feb. 2018, 18:53:30: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 18:57:59: 100 Anfragen in 269.2 Sek gesendet.
+Mon. 19. Feb. 2018, 19:02:28: 100 Anfragen in 269.3 Sek gesendet.
+Mon. 19. Feb. 2018, 19:06:59: 100 Anfragen in 270.5 Sek gesendet.
+Mon. 19. Feb. 2018, 19:11:29: 100 Anfragen in 270.0 Sek gesendet.
+Mon. 19. Feb. 2018, 19:15:57: 100 Anfragen in 267.4 Sek gesendet.
+Mon. 19. Feb. 2018, 19:20:25: 100 Anfragen in 268.3 Sek gesendet.
+Mon. 19. Feb. 2018, 19:24:53: 100 Anfragen in 267.7 Sek gesendet.
+Mon. 19. Feb. 2018, 19:29:22: 100 Anfragen in 268.9 Sek gesendet.
+Mon. 19. Feb. 2018, 19:33:50: 100 Anfragen in 268.2 Sek gesendet.
+Mon. 19. Feb. 2018, 19:38:18: 100 Anfragen in 268.0 Sek gesendet.
+Mon. 19. Feb. 2018, 19:42:46: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 19:47:14: 100 Anfragen in 268.1 Sek gesendet.
+Mon. 19. Feb. 2018, 19:51:43: 100 Anfragen in 268.6 Sek gesendet.
+Mon. 19. Feb. 2018, 19:56:11: 100 Anfragen in 268.0 Sek gesendet.
+Mon. 19. Feb. 2018, 20:00:39: 100 Anfragen in 267.8 Sek gesendet.
+Mon. 19. Feb. 2018, 20:05:06: 100 Anfragen in 267.7 Sek gesendet.
+Mon. 19. Feb. 2018, 20:09:35: 100 Anfragen in 268.8 Sek gesendet.
+Mon. 19. Feb. 2018, 20:14:05: 100 Anfragen in 269.9 Sek gesendet.
+Mon. 19. Feb. 2018, 20:18:36: 100 Anfragen in 270.3 Sek gesendet.
+Mon. 19. Feb. 2018, 20:23:04: 100 Anfragen in 268.2 Sek gesendet.
+Mon. 19. Feb. 2018, 20:27:32: 100 Anfragen in 268.0 Sek gesendet.
+Mon. 19. Feb. 2018, 20:32:00: 100 Anfragen in 268.0 Sek gesendet.
+Mon. 19. Feb. 2018, 20:36:28: 100 Anfragen in 268.5 Sek gesendet.
+Mon. 19. Feb. 2018, 20:40:57: 100 Anfragen in 268.2 Sek gesendet.
+Mon. 19. Feb. 2018, 20:45:25: 100 Anfragen in 267.9 Sek gesendet.
+Mon. 19. Feb. 2018, 20:49:53: 100 Anfragen in 268.7 Sek gesendet.
+Mon. 19. Feb. 2018, 20:54:22: 100 Anfragen in 268.2 Sek gesendet.
+Mon. 19. Feb. 2018, 20:58:49: 100 Anfragen in 267.7 Sek gesendet.
+Mon. 19. Feb. 2018, 21:05:44: 100 Anfragen in 414.3 Sek gesendet.
+Mon. 19. Feb. 2018, 21:13:31: 100 Anfragen in 467.6 Sek gesendet.
+Mon. 19. Feb. 2018, 21:21:20: 100 Anfragen in 468.4 Sek gesendet.
+Mon. 19. Feb. 2018, 21:29:09: 100 Anfragen in 469.0 Sek gesendet.
+Mon. 19. Feb. 2018, 21:36:58: 100 Anfragen in 468.6 Sek gesendet.
+Mon. 19. Feb. 2018, 21:44:46: 100 Anfragen in 467.7 Sek gesendet.
+Mon. 19. Feb. 2018, 21:52:34: 100 Anfragen in 468.2 Sek gesendet.
+Mon. 19. Feb. 2018, 22:00:22: 100 Anfragen in 467.7 Sek gesendet.
+Mon. 19. Feb. 2018, 22:08:11: 100 Anfragen in 469.0 Sek gesendet.
+Mon. 19. Feb. 2018, 22:15:59: 100 Anfragen in 468.5 Sek gesendet.
+Mon. 19. Feb. 2018, 22:23:48: 100 Anfragen in 468.4 Sek gesendet.
+Mon. 19. Feb. 2018, 22:31:36: 100 Anfragen in 468.0 Sek gesendet.
+Mon. 19. Feb. 2018, 22:39:23: 100 Anfragen in 467.3 Sek gesendet.
+Mon. 19. Feb. 2018, 22:47:12: 100 Anfragen in 468.7 Sek gesendet.
+Mon. 19. Feb. 2018, 22:54:59: 100 Anfragen in 467.3 Sek gesendet.
+Mon. 19. Feb. 2018, 23:02:46: 100 Anfragen in 467.2 Sek gesendet.
+Mon. 19. Feb. 2018, 23:04:41: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Mon. 19. Feb. 2018, 23:10:34: 100 Anfragen in 467.5 Sek gesendet.
+Mon. 19. Feb. 2018, 23:18:21: 100 Anfragen in 467.5 Sek gesendet.
+Mon. 19. Feb. 2018, 23:26:09: 100 Anfragen in 467.9 Sek gesendet.
+Mon. 19. Feb. 2018, 23:27:48: Aenderung des Angebots!
+Mon. 19. Feb. 2018, 23:29:54: Aenderung des Angebots!
+Mon. 19. Feb. 2018, 23:33:57: 100 Anfragen in 467.9 Sek gesendet.
+Mon. 19. Feb. 2018, 23:41:45: 100 Anfragen in 467.2 Sek gesendet.
+Mon. 19. Feb. 2018, 23:49:32: 100 Anfragen in 467.8 Sek gesendet.
+Mon. 19. Feb. 2018, 23:57:20: 100 Anfragen in 467.8 Sek gesendet.
+Tue. 20. Feb. 2018, 00:05:10: 100 Anfragen in 469.8 Sek gesendet.
+Tue. 20. Feb. 2018, 00:12:57: 100 Anfragen in 467.3 Sek gesendet.
+Tue. 20. Feb. 2018, 00:20:45: 100 Anfragen in 467.8 Sek gesendet.
+Tue. 20. Feb. 2018, 00:28:34: 100 Anfragen in 469.1 Sek gesendet.
+Tue. 20. Feb. 2018, 00:36:24: 100 Anfragen in 469.3 Sek gesendet.
+Tue. 20. Feb. 2018, 00:44:11: 100 Anfragen in 467.5 Sek gesendet.
+Tue. 20. Feb. 2018, 00:51:58: 100 Anfragen in 467.1 Sek gesendet.
+Tue. 20. Feb. 2018, 00:59:45: 100 Anfragen in 466.7 Sek gesendet.
+Tue. 20. Feb. 2018, 01:07:33: 100 Anfragen in 467.6 Sek gesendet.
+Tue. 20. Feb. 2018, 01:15:20: 100 Anfragen in 467.2 Sek gesendet.
+Tue. 20. Feb. 2018, 01:23:07: 100 Anfragen in 467.3 Sek gesendet.
+Tue. 20. Feb. 2018, 01:30:55: 100 Anfragen in 468.0 Sek gesendet.
+Tue. 20. Feb. 2018, 01:38:43: 100 Anfragen in 468.0 Sek gesendet.
+Tue. 20. Feb. 2018, 01:46:31: 100 Anfragen in 467.6 Sek gesendet.
+Tue. 20. Feb. 2018, 01:54:18: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 02:02:05: 100 Anfragen in 467.1 Sek gesendet.
+Tue. 20. Feb. 2018, 02:09:52: 100 Anfragen in 467.3 Sek gesendet.
+Tue. 20. Feb. 2018, 02:17:39: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 02:25:26: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 02:33:13: 100 Anfragen in 466.1 Sek gesendet.
+Tue. 20. Feb. 2018, 02:40:59: 100 Anfragen in 466.7 Sek gesendet.
+Tue. 20. Feb. 2018, 02:48:46: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 02:56:40: 100 Anfragen in 473.5 Sek gesendet.
+Tue. 20. Feb. 2018, 03:04:27: 100 Anfragen in 467.1 Sek gesendet.
+Tue. 20. Feb. 2018, 03:12:14: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 03:20:01: 100 Anfragen in 467.5 Sek gesendet.
+Tue. 20. Feb. 2018, 03:27:49: 100 Anfragen in 467.7 Sek gesendet.
+Tue. 20. Feb. 2018, 03:35:37: 100 Anfragen in 467.5 Sek gesendet.
+Tue. 20. Feb. 2018, 03:43:25: 100 Anfragen in 468.6 Sek gesendet.
+Tue. 20. Feb. 2018, 03:51:12: 100 Anfragen in 466.7 Sek gesendet.
+Tue. 20. Feb. 2018, 03:58:59: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 04:06:46: 100 Anfragen in 467.2 Sek gesendet.
+Tue. 20. Feb. 2018, 04:14:33: 100 Anfragen in 466.7 Sek gesendet.
+Tue. 20. Feb. 2018, 04:22:20: 100 Anfragen in 467.1 Sek gesendet.
+Tue. 20. Feb. 2018, 04:30:08: 100 Anfragen in 467.5 Sek gesendet.
+Tue. 20. Feb. 2018, 04:37:55: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 04:45:43: 100 Anfragen in 467.9 Sek gesendet.
+Tue. 20. Feb. 2018, 04:53:31: 100 Anfragen in 467.8 Sek gesendet.
+Tue. 20. Feb. 2018, 05:01:18: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 05:09:05: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 05:16:52: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 05:24:39: 100 Anfragen in 467.6 Sek gesendet.
+Tue. 20. Feb. 2018, 05:32:27: 100 Anfragen in 467.5 Sek gesendet.
+Tue. 20. Feb. 2018, 05:40:14: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 05:48:01: 100 Anfragen in 466.9 Sek gesendet.
+Tue. 20. Feb. 2018, 05:55:48: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 06:03:35: 100 Anfragen in 467.2 Sek gesendet.
+Tue. 20. Feb. 2018, 06:11:22: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 06:19:10: 100 Anfragen in 467.5 Sek gesendet.
+Tue. 20. Feb. 2018, 06:26:57: 100 Anfragen in 467.4 Sek gesendet.
+Tue. 20. Feb. 2018, 06:34:44: 100 Anfragen in 467.0 Sek gesendet.
+Tue. 20. Feb. 2018, 06:42:32: 100 Anfragen in 467.6 Sek gesendet.
+Tue. 20. Feb. 2018, 06:50:19: 100 Anfragen in 466.8 Sek gesendet.
+Tue. 20. Feb. 2018, 06:58:06: 100 Anfragen in 467.3 Sek gesendet.
+Tue. 20. Feb. 2018, 07:05:54: 100 Anfragen in 467.2 Sek gesendet.
+Tue. 20. Feb. 2018, 07:13:42: 100 Anfragen in 468.4 Sek gesendet.
+Tue. 20. Feb. 2018, 07:21:30: 100 Anfragen in 467.6 Sek gesendet.
+Tue. 20. Feb. 2018, 07:29:17: 100 Anfragen in 467.2 Sek gesendet.
+Tue. 20. Feb. 2018, 07:37:04: 100 Anfragen in 466.8 Sek gesendet.
+Tue. 20. Feb. 2018, 07:44:51: 100 Anfragen in 467.3 Sek gesendet.
+Tue. 20. Feb. 2018, 07:52:38: 100 Anfragen in 467.3 Sek gesendet.
+Tue. 20. Feb. 2018, 08:00:16: 100 Anfragen in 457.2 Sek gesendet.
+Tue. 20. Feb. 2018, 08:04:43: 100 Anfragen in 267.0 Sek gesendet.
+Tue. 20. Feb. 2018, 08:09:10: 100 Anfragen in 267.0 Sek gesendet.
+Tue. 20. Feb. 2018, 08:13:37: 100 Anfragen in 267.6 Sek gesendet.
+Tue. 20. Feb. 2018, 08:18:04: 100 Anfragen in 266.6 Sek gesendet.
+Tue. 20. Feb. 2018, 08:22:31: 100 Anfragen in 266.7 Sek gesendet.
+Tue. 20. Feb. 2018, 08:26:59: 100 Anfragen in 267.9 Sek gesendet.
+Tue. 20. Feb. 2018, 08:31:26: 100 Anfragen in 267.3 Sek gesendet.
+Tue. 20. Feb. 2018, 08:35:54: 100 Anfragen in 267.7 Sek gesendet.
+Tue. 20. Feb. 2018, 08:40:21: 100 Anfragen in 267.2 Sek gesendet.
+Tue. 20. Feb. 2018, 08:44:49: 100 Anfragen in 267.7 Sek gesendet.
+Tue. 20. Feb. 2018, 08:49:16: 100 Anfragen in 267.4 Sek gesendet.
+Tue. 20. Feb. 2018, 08:53:44: 100 Anfragen in 267.5 Sek gesendet.
+Tue. 20. Feb. 2018, 08:58:11: 100 Anfragen in 267.5 Sek gesendet.
+Tue. 20. Feb. 2018, 09:02:39: 100 Anfragen in 267.3 Sek gesendet.
+Tue. 20. Feb. 2018, 09:07:07: 100 Anfragen in 268.3 Sek gesendet.
+Tue. 20. Feb. 2018, 09:11:39: 100 Anfragen in 271.4 Sek gesendet.
+Tue. 20. Feb. 2018, 09:16:06: 100 Anfragen in 267.5 Sek gesendet.
+Tue. 20. Feb. 2018, 09:20:35: 100 Anfragen in 268.6 Sek gesendet.
+Tue. 20. Feb. 2018, 09:25:03: 100 Anfragen in 268.3 Sek gesendet.
+Tue. 20. Feb. 2018, 09:29:35: 100 Anfragen in 271.5 Sek gesendet.
+Tue. 20. Feb. 2018, 09:34:03: 100 Anfragen in 268.4 Sek gesendet.
+Tue. 20. Feb. 2018, 09:38:31: 100 Anfragen in 268.1 Sek gesendet.
+Tue. 20. Feb. 2018, 09:42:01: telegramMsgCmd:
+  chat_id: 327146787
+  nachricht: /start
+Tue. 20. Feb. 2018, 09:42:52: telegramMsgCmd:
+  chat_id: 327146787
+  nachricht: /manual
+Tue. 20. Feb. 2018, 09:43:00: 100 Anfragen in 268.5 Sek gesendet.
+Tue. 20. Feb. 2018, 09:47:37: 100 Anfragen in 277.3 Sek gesendet.
+Tue. 20. Feb. 2018, 09:52:05: 100 Anfragen in 268.0 Sek gesendet.
+Tue. 20. Feb. 2018, 09:56:34: 100 Anfragen in 269.3 Sek gesendet.
+Tue. 20. Feb. 2018, 10:01:03: 100 Anfragen in 268.2 Sek gesendet.
+Tue. 20. Feb. 2018, 10:05:31: 100 Anfragen in 268.3 Sek gesendet.
+Tue. 20. Feb. 2018, 10:10:02: 100 Anfragen in 270.9 Sek gesendet.
+Tue. 20. Feb. 2018, 10:14:30: 100 Anfragen in 268.3 Sek gesendet.
+Tue. 20. Feb. 2018, 10:18:59: 100 Anfragen in 268.1 Sek gesendet.
+Tue. 20. Feb. 2018, 10:23:28: 100 Anfragen in 268.9 Sek gesendet.
+Tue. 20. Feb. 2018, 10:27:56: 100 Anfragen in 268.1 Sek gesendet.
+Tue. 20. Feb. 2018, 10:32:24: 100 Anfragen in 268.5 Sek gesendet.
+Tue. 20. Feb. 2018, 10:36:53: 100 Anfragen in 268.3 Sek gesendet.
+Tue. 20. Feb. 2018, 10:41:20: 100 Anfragen in 267.1 Sek gesendet.
+Tue. 20. Feb. 2018, 10:45:49: 100 Anfragen in 268.9 Sek gesendet.
+Tue. 20. Feb. 2018, 10:50:17: 100 Anfragen in 267.9 Sek gesendet.
+Tue. 20. Feb. 2018, 10:54:45: 100 Anfragen in 268.1 Sek gesendet.
+Tue. 20. Feb. 2018, 10:59:12: 100 Anfragen in 267.6 Sek gesendet.
+Tue. 20. Feb. 2018, 11:03:42: 100 Anfragen in 269.1 Sek gesendet.
+Tue. 20. Feb. 2018, 11:08:13: 100 Anfragen in 270.9 Sek gesendet.
+Tue. 20. Feb. 2018, 11:12:40: 100 Anfragen in 267.6 Sek gesendet.
+Tue. 20. Feb. 2018, 11:17:08: 100 Anfragen in 267.5 Sek gesendet.
+Tue. 20. Feb. 2018, 11:21:35: 100 Anfragen in 266.9 Sek gesendet.
+Tue. 20. Feb. 2018, 11:26:02: 100 Anfragen in 266.8 Sek gesendet.
+Tue. 20. Feb. 2018, 11:30:28: 100 Anfragen in 266.9 Sek gesendet.
+Tue. 20. Feb. 2018, 11:34:56: 100 Anfragen in 267.7 Sek gesendet.
+Tue. 20. Feb. 2018, 11:39:25: 100 Anfragen in 268.4 Sek gesendet.
+Tue. 20. Feb. 2018, 11:43:52: 100 Anfragen in 267.7 Sek gesendet.
+Tue. 20. Feb. 2018, 11:48:22: 100 Anfragen in 269.6 Sek gesendet.
+Tue. 20. Feb. 2018, 11:52:55: 100 Anfragen in 272.8 Sek gesendet.
+Tue. 20. Feb. 2018, 11:57:29: 100 Anfragen in 274.0 Sek gesendet.
+Tue. 20. Feb. 2018, 12:01:57: 100 Anfragen in 267.8 Sek gesendet.
+Tue. 20. Feb. 2018, 12:06:38: 100 Anfragen in 281.0 Sek gesendet.
+Tue. 20. Feb. 2018, 12:11:09: 100 Anfragen in 271.3 Sek gesendet.
+Tue. 20. Feb. 2018, 12:15:39: 100 Anfragen in 269.4 Sek gesendet.
+Tue. 20. Feb. 2018, 12:20:12: 100 Anfragen in 273.9 Sek gesendet.
+Tue. 20. Feb. 2018, 12:24:42: 100 Anfragen in 269.9 Sek gesendet.
+Tue. 20. Feb. 2018, 12:29:13: 100 Anfragen in 270.6 Sek gesendet.
+Tue. 20. Feb. 2018, 12:33:45: 100 Anfragen in 271.6 Sek gesendet.
+Tue. 20. Feb. 2018, 12:38:11: 100 Anfragen in 266.7 Sek gesendet.
+Tue. 20. Feb. 2018, 12:42:39: 100 Anfragen in 267.6 Sek gesendet.
+Tue. 20. Feb. 2018, 12:47:10: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 12:51:45: 100 Anfragen in 275.1 Sek gesendet.
+Tue. 20. Feb. 2018, 12:56:12: 100 Anfragen in 267.0 Sek gesendet.
+Tue. 20. Feb. 2018, 13:00:44: 100 Anfragen in 271.8 Sek gesendet.
+Tue. 20. Feb. 2018, 13:05:11: 100 Anfragen in 267.1 Sek gesendet.
+Tue. 20. Feb. 2018, 13:09:38: 100 Anfragen in 267.3 Sek gesendet.
+Tue. 20. Feb. 2018, 13:14:06: 100 Anfragen in 267.5 Sek gesendet.
+Tue. 20. Feb. 2018, 13:18:39: 100 Anfragen in 273.0 Sek gesendet.
+Tue. 20. Feb. 2018, 13:23:07: 100 Anfragen in 267.8 Sek gesendet.
+Tue. 20. Feb. 2018, 13:27:39: 100 Anfragen in 272.0 Sek gesendet.
+Tue. 20. Feb. 2018, 13:32:09: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 13:36:37: 100 Anfragen in 267.7 Sek gesendet.
+Tue. 20. Feb. 2018, 13:41:05: 100 Anfragen in 268.1 Sek gesendet.
+Tue. 20. Feb. 2018, 13:45:32: 100 Anfragen in 267.4 Sek gesendet.
+Tue. 20. Feb. 2018, 13:50:00: 100 Anfragen in 267.5 Sek gesendet.
+Tue. 20. Feb. 2018, 13:54:28: 100 Anfragen in 268.0 Sek gesendet.
+Tue. 20. Feb. 2018, 13:58:57: 100 Anfragen in 268.8 Sek gesendet.
+Tue. 20. Feb. 2018, 14:00:02: Aenderung des Angebots!
+Try to reserve a ticket:
+  name: Festivalticket Phase 1
+  price: 132,00 €
+Tue. 20. Feb. 2018, 14:00:02: --> VERSUCHTE RESERVIERUNGException in thread Thread-10:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 405, in _make_request
+    exc_cls=ReadTimeoutError)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 321, in _raise_timeout
+    raise exc_cls(*args)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/v2_ticketBot_reserve/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 192, in _request_wrapper
+    raise TimedOut()
+telegram.error.TimedOut: Timed out
+
+Exception in thread Thread-13:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 405, in _make_request
+    exc_cls=ReadTimeoutError)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 321, in _raise_timeout
+    raise exc_cls(*args)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/v2_ticketBot_reserve/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 192, in _request_wrapper
+    raise TimedOut()
+telegram.error.TimedOut: Timed out
+
+
+Cookies der Session:
+
+  .ASPXANONYMOUS:
+YN2M7-Tg0wEkAAAAMjlhMWE5YWItYzUyNS00MjVjLThhMDgtMThjMjE4ZjU3NTk238P7UMhVwyxVBf9cnak8gj4iR841
+
+  ASP.NET_SessionId:
+yuwmp1uzvexrsveupcemi5of
+
+
+  duration (1x post): 0.6434085369110107
+Tue. 20. Feb. 2018, 14:03:34: 100 Anfragen in 276.7 Sek gesendet.
+Tue. 20. Feb. 2018, 14:08:10: 100 Anfragen in 276.0 Sek gesendet.
+Tue. 20. Feb. 2018, 14:12:45: 100 Anfragen in 275.2 Sek gesendet.
+Tue. 20. Feb. 2018, 14:17:17: 100 Anfragen in 271.9 Sek gesendet.
+Tue. 20. Feb. 2018, 14:21:49: 100 Anfragen in 271.9 Sek gesendet.
+Tue. 20. Feb. 2018, 14:26:23: 100 Anfragen in 274.1 Sek gesendet.
+Tue. 20. Feb. 2018, 14:30:58: 100 Anfragen in 274.7 Sek gesendet.
+Tue. 20. Feb. 2018, 14:35:28: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 14:40:02: 100 Anfragen in 273.0 Sek gesendet.
+Tue. 20. Feb. 2018, 14:44:33: 100 Anfragen in 271.6 Sek gesendet.
+Tue. 20. Feb. 2018, 14:49:06: 100 Anfragen in 272.3 Sek gesendet.
+Tue. 20. Feb. 2018, 14:53:39: 100 Anfragen in 273.7 Sek gesendet.
+Tue. 20. Feb. 2018, 14:58:10: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 15:02:42: 100 Anfragen in 272.0 Sek gesendet.
+Tue. 20. Feb. 2018, 15:07:12: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 15:11:47: 100 Anfragen in 274.4 Sek gesendet.
+Tue. 20. Feb. 2018, 15:16:20: 100 Anfragen in 273.4 Sek gesendet.
+Tue. 20. Feb. 2018, 15:20:51: 100 Anfragen in 271.1 Sek gesendet.
+Tue. 20. Feb. 2018, 15:25:23: 100 Anfragen in 272.2 Sek gesendet.
+Tue. 20. Feb. 2018, 15:29:54: 100 Anfragen in 270.3 Sek gesendet.
+Tue. 20. Feb. 2018, 15:34:24: 100 Anfragen in 270.3 Sek gesendet.
+Tue. 20. Feb. 2018, 15:38:55: 100 Anfragen in 270.6 Sek gesendet.
+Tue. 20. Feb. 2018, 15:43:26: 100 Anfragen in 271.3 Sek gesendet.
+Tue. 20. Feb. 2018, 15:47:57: 100 Anfragen in 270.9 Sek gesendet.
+Tue. 20. Feb. 2018, 15:51:31: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /help
+Tue. 20. Feb. 2018, 15:52:32: 100 Anfragen in 274.8 Sek gesendet.
+Tue. 20. Feb. 2018, 15:57:06: 100 Anfragen in 274.1 Sek gesendet.
+Tue. 20. Feb. 2018, 16:01:38: 100 Anfragen in 272.2 Sek gesendet.
+Tue. 20. Feb. 2018, 16:06:13: 100 Anfragen in 275.1 Sek gesendet.
+Tue. 20. Feb. 2018, 16:10:47: 100 Anfragen in 273.5 Sek gesendet.
+Tue. 20. Feb. 2018, 16:15:19: 100 Anfragen in 272.2 Sek gesendet.
+Tue. 20. Feb. 2018, 16:19:51: 100 Anfragen in 271.2 Sek gesendet.
+Tue. 20. Feb. 2018, 16:24:25: 100 Anfragen in 274.9 Sek gesendet.
+Tue. 20. Feb. 2018, 16:28:59: 100 Anfragen in 273.2 Sek gesendet.
+Tue. 20. Feb. 2018, 16:33:33: 100 Anfragen in 273.9 Sek gesendet.
+Tue. 20. Feb. 2018, 16:38:09: 100 Anfragen in 276.0 Sek gesendet.
+Tue. 20. Feb. 2018, 16:42:42: 100 Anfragen in 272.8 Sek gesendet.
+Tue. 20. Feb. 2018, 16:47:16: 100 Anfragen in 274.5 Sek gesendet.
+Tue. 20. Feb. 2018, 16:51:48: 100 Anfragen in 271.9 Sek gesendet.
+Tue. 20. Feb. 2018, 16:56:24: 100 Anfragen in 276.1 Sek gesendet.
+Tue. 20. Feb. 2018, 17:00:55: 100 Anfragen in 270.9 Sek gesendet.
+Tue. 20. Feb. 2018, 17:05:29: 100 Anfragen in 273.6 Sek gesendet.
+Tue. 20. Feb. 2018, 17:10:03: 100 Anfragen in 274.4 Sek gesendet.
+Tue. 20. Feb. 2018, 17:14:34: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 17:19:06: 100 Anfragen in 272.9 Sek gesendet.
+Tue. 20. Feb. 2018, 17:23:37: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 17:28:11: 100 Anfragen in 273.8 Sek gesendet.
+Tue. 20. Feb. 2018, 17:32:48: 100 Anfragen in 277.2 Sek gesendet.
+Tue. 20. Feb. 2018, 17:37:18: 100 Anfragen in 270.1 Sek gesendet.
+Tue. 20. Feb. 2018, 17:41:48: 100 Anfragen in 270.1 Sek gesendet.
+Tue. 20. Feb. 2018, 17:46:19: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 17:50:49: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 17:55:19: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 17:59:50: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 18:04:20: 100 Anfragen in 269.9 Sek gesendet.
+Tue. 20. Feb. 2018, 18:08:50: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 18:13:23: 100 Anfragen in 272.8 Sek gesendet.
+Tue. 20. Feb. 2018, 18:17:53: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 18:22:23: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 18:26:54: 100 Anfragen in 270.8 Sek gesendet.
+Tue. 20. Feb. 2018, 18:31:24: 100 Anfragen in 269.3 Sek gesendet.
+Tue. 20. Feb. 2018, 18:35:55: 100 Anfragen in 271.0 Sek gesendet.
+Tue. 20. Feb. 2018, 18:40:25: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 18:44:55: 100 Anfragen in 270.3 Sek gesendet.
+Tue. 20. Feb. 2018, 18:49:27: 100 Anfragen in 271.1 Sek gesendet.
+Tue. 20. Feb. 2018, 18:53:57: 100 Anfragen in 270.4 Sek gesendet.
+Tue. 20. Feb. 2018, 18:58:31: 100 Anfragen in 274.1 Sek gesendet.
+Tue. 20. Feb. 2018, 19:03:02: 100 Anfragen in 270.7 Sek gesendet.
+Tue. 20. Feb. 2018, 19:07:32: 100 Anfragen in 270.3 Sek gesendet.
+Tue. 20. Feb. 2018, 19:12:03: 100 Anfragen in 270.6 Sek gesendet.
+Tue. 20. Feb. 2018, 19:16:34: 100 Anfragen in 270.6 Sek gesendet.
+Tue. 20. Feb. 2018, 19:21:04: 100 Anfragen in 270.8 Sek gesendet.
+Tue. 20. Feb. 2018, 19:25:37: 100 Anfragen in 272.5 Sek gesendet.
+Tue. 20. Feb. 2018, 19:30:12: 100 Anfragen in 275.3 Sek gesendet.
+Tue. 20. Feb. 2018, 19:34:45: 100 Anfragen in 273.1 Sek gesendet.
+Tue. 20. Feb. 2018, 19:39:17: 100 Anfragen in 271.8 Sek gesendet.
+Tue. 20. Feb. 2018, 19:43:47: 100 Anfragen in 269.8 Sek gesendet.
+Tue. 20. Feb. 2018, 19:48:18: 100 Anfragen in 270.4 Sek gesendet.
+Tue. 20. Feb. 2018, 19:52:49: 100 Anfragen in 271.0 Sek gesendet.
+Tue. 20. Feb. 2018, 19:57:19: 100 Anfragen in 270.5 Sek gesendet.
+Tue. 20. Feb. 2018, 20:01:50: 100 Anfragen in 270.6 Sek gesendet.
+Tue. 20. Feb. 2018, 20:06:19: 100 Anfragen in 269.4 Sek gesendet.
+Tue. 20. Feb. 2018, 20:10:52: 100 Anfragen in 272.2 Sek gesendet.
+Tue. 20. Feb. 2018, 20:15:24: 100 Anfragen in 272.3 Sek gesendet.
+Tue. 20. Feb. 2018, 20:19:53: 100 Anfragen in 269.2 Sek gesendet.
+Tue. 20. Feb. 2018, 20:24:23: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 20:28:54: 100 Anfragen in 270.2 Sek gesendet.
+Tue. 20. Feb. 2018, 20:33:23: 100 Anfragen in 269.7 Sek gesendet.
+Tue. 20. Feb. 2018, 20:36:20: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Tue. 20. Feb. 2018, 20:37:53: 100 Anfragen in 269.6 Sek gesendet.
+Tue. 20. Feb. 2018, 20:42:24: 100 Anfragen in 271.0 Sek gesendet.
+Tue. 20. Feb. 2018, 20:46:54: 100 Anfragen in 269.9 Sek gesendet.
+Tue. 20. Feb. 2018, 20:51:24: 100 Anfragen in 269.8 Sek gesendet.
+Tue. 20. Feb. 2018, 20:55:53: 100 Anfragen in 269.2 Sek gesendet.
+Tue. 20. Feb. 2018, 21:00:44: 100 Anfragen in 290.5 Sek gesendet.
+Tue. 20. Feb. 2018, 21:08:35: 100 Anfragen in 470.7 Sek gesendet.
+Tue. 20. Feb. 2018, 21:16:26: 100 Anfragen in 471.5 Sek gesendet.
+Tue. 20. Feb. 2018, 21:24:16: 100 Anfragen in 469.9 Sek gesendet.
+Tue. 20. Feb. 2018, 21:32:05: 100 Anfragen in 469.3 Sek gesendet.
+Tue. 20. Feb. 2018, 21:39:55: 100 Anfragen in 470.0 Sek gesendet.
+Tue. 20. Feb. 2018, 21:47:46: 100 Anfragen in 470.4 Sek gesendet.
+Tue. 20. Feb. 2018, 21:55:36: 100 Anfragen in 470.3 Sek gesendet.
+Tue. 20. Feb. 2018, 22:03:27: 100 Anfragen in 470.2 Sek gesendet.
+Tue. 20. Feb. 2018, 22:11:22: 100 Anfragen in 475.7 Sek gesendet.
+Tue. 20. Feb. 2018, 22:19:20: 100 Anfragen in 477.4 Sek gesendet.
+Tue. 20. Feb. 2018, 22:24:10: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Tue. 20. Feb. 2018, 22:27:15: 100 Anfragen in 474.8 Sek gesendet.
+Tue. 20. Feb. 2018, 22:35:05: 100 Anfragen in 470.6 Sek gesendet.
+Tue. 20. Feb. 2018, 22:42:55: 100 Anfragen in 469.7 Sek gesendet.
+Tue. 20. Feb. 2018, 22:50:45: 100 Anfragen in 470.2 Sek gesendet.
+Tue. 20. Feb. 2018, 22:58:42: 100 Anfragen in 477.2 Sek gesendet.
+Tue. 20. Feb. 2018, 23:06:40: 100 Anfragen in 477.8 Sek gesendet.
+Tue. 20. Feb. 2018, 23:14:34: 100 Anfragen in 473.3 Sek gesendet.
+Tue. 20. Feb. 2018, 23:22:25: 100 Anfragen in 471.6 Sek gesendet.
+Tue. 20. Feb. 2018, 23:30:16: 100 Anfragen in 470.8 Sek gesendet.
+Tue. 20. Feb. 2018, 23:38:06: 100 Anfragen in 469.7 Sek gesendet.
+Tue. 20. Feb. 2018, 23:45:56: 100 Anfragen in 469.7 Sek gesendet.
+Tue. 20. Feb. 2018, 23:53:46: 100 Anfragen in 469.9 Sek gesendet.
+Wed. 21. Feb. 2018, 00:01:39: 100 Anfragen in 473.1 Sek gesendet.
+Wed. 21. Feb. 2018, 00:09:32: 100 Anfragen in 473.0 Sek gesendet.
+Wed. 21. Feb. 2018, 00:17:23: 100 Anfragen in 471.4 Sek gesendet.
+Wed. 21. Feb. 2018, 00:25:16: 100 Anfragen in 472.4 Sek gesendet.
+Wed. 21. Feb. 2018, 00:33:07: 100 Anfragen in 471.7 Sek gesendet.
+Wed. 21. Feb. 2018, 00:40:58: 100 Anfragen in 470.8 Sek gesendet.
+Wed. 21. Feb. 2018, 00:48:50: 100 Anfragen in 471.5 Sek gesendet.
+Wed. 21. Feb. 2018, 00:56:43: 100 Anfragen in 472.9 Sek gesendet.
+Wed. 21. Feb. 2018, 01:04:35: 100 Anfragen in 472.3 Sek gesendet.
+Wed. 21. Feb. 2018, 01:12:27: 100 Anfragen in 472.4 Sek gesendet.
+Wed. 21. Feb. 2018, 01:20:20: 100 Anfragen in 472.9 Sek gesendet.
+Wed. 21. Feb. 2018, 01:28:14: 100 Anfragen in 473.3 Sek gesendet.
+Wed. 21. Feb. 2018, 01:30:07: Aenderung des Angebots!
+Wed. 21. Feb. 2018, 01:36:07: 100 Anfragen in 472.7 Sek gesendet.
+Wed. 21. Feb. 2018, 01:44:00: 100 Anfragen in 473.5 Sek gesendet.
+Wed. 21. Feb. 2018, 01:51:54: 100 Anfragen in 473.5 Sek gesendet.
+Wed. 21. Feb. 2018, 01:59:45: 100 Anfragen in 471.3 Sek gesendet.
+Wed. 21. Feb. 2018, 02:07:36: 100 Anfragen in 471.4 Sek gesendet.
+Wed. 21. Feb. 2018, 02:15:27: 100 Anfragen in 470.1 Sek gesendet.
+Wed. 21. Feb. 2018, 02:23:16: 100 Anfragen in 469.0 Sek gesendet.
+Wed. 21. Feb. 2018, 02:31:05: 100 Anfragen in 468.9 Sek gesendet.
+Wed. 21. Feb. 2018, 02:38:53: 100 Anfragen in 468.6 Sek gesendet.
+Wed. 21. Feb. 2018, 02:46:43: 100 Anfragen in 469.3 Sek gesendet.
+Wed. 21. Feb. 2018, 02:54:31: 100 Anfragen in 468.2 Sek gesendet.
+Wed. 21. Feb. 2018, 03:02:20: 100 Anfragen in 469.0 Sek gesendet.
+Wed. 21. Feb. 2018, 03:10:09: 100 Anfragen in 469.0 Sek gesendet.
+Wed. 21. Feb. 2018, 03:17:59: 100 Anfragen in 469.8 Sek gesendet.
+Wed. 21. Feb. 2018, 03:25:48: 100 Anfragen in 469.4 Sek gesendet.
+Wed. 21. Feb. 2018, 03:33:38: 100 Anfragen in 469.1 Sek gesendet.
+Wed. 21. Feb. 2018, 03:41:26: 100 Anfragen in 468.8 Sek gesendet.
+Wed. 21. Feb. 2018, 03:49:15: 100 Anfragen in 468.6 Sek gesendet.
+Wed. 21. Feb. 2018, 03:57:04: 100 Anfragen in 468.6 Sek gesendet.
+Wed. 21. Feb. 2018, 04:04:53: 100 Anfragen in 468.9 Sek gesendet.
+Wed. 21. Feb. 2018, 04:12:44: 100 Anfragen in 471.0 Sek gesendet.
+Wed. 21. Feb. 2018, 04:20:35: 100 Anfragen in 471.0 Sek gesendet.
+Wed. 21. Feb. 2018, 04:28:26: 100 Anfragen in 471.2 Sek gesendet.
+Wed. 21. Feb. 2018, 04:36:14: 100 Anfragen in 468.1 Sek gesendet.
+Wed. 21. Feb. 2018, 04:44:03: 100 Anfragen in 468.7 Sek gesendet.
+Wed. 21. Feb. 2018, 04:51:52: 100 Anfragen in 469.2 Sek gesendet.
+Wed. 21. Feb. 2018, 04:59:40: 100 Anfragen in 468.1 Sek gesendet.
+Wed. 21. Feb. 2018, 05:07:30: 100 Anfragen in 469.5 Sek gesendet.
+Wed. 21. Feb. 2018, 05:15:20: 100 Anfragen in 470.4 Sek gesendet.
+Wed. 21. Feb. 2018, 05:23:08: 100 Anfragen in 468.0 Sek gesendet.
+Wed. 21. Feb. 2018, 05:30:59: 100 Anfragen in 471.0 Sek gesendet.
+Wed. 21. Feb. 2018, 05:38:51: 100 Anfragen in 471.9 Sek gesendet.
+Wed. 21. Feb. 2018, 05:46:42: 100 Anfragen in 470.2 Sek gesendet.
+Wed. 21. Feb. 2018, 05:54:31: 100 Anfragen in 469.3 Sek gesendet.
+Wed. 21. Feb. 2018, 06:02:23: 100 Anfragen in 471.4 Sek gesendet.
+Wed. 21. Feb. 2018, 06:10:21: 100 Anfragen in 478.0 Sek gesendet.
+Wed. 21. Feb. 2018, 06:18:15: 100 Anfragen in 474.2 Sek gesendet.
+Wed. 21. Feb. 2018, 06:26:07: 100 Anfragen in 472.1 Sek gesendet.
+Wed. 21. Feb. 2018, 06:33:56: 100 Anfragen in 469.2 Sek gesendet.
+Wed. 21. Feb. 2018, 06:41:47: 100 Anfragen in 470.9 Sek gesendet.
+Wed. 21. Feb. 2018, 06:49:37: 100 Anfragen in 470.3 Sek gesendet.
+Wed. 21. Feb. 2018, 06:57:26: 100 Anfragen in 468.1 Sek gesendet.
+Wed. 21. Feb. 2018, 07:05:14: 100 Anfragen in 468.1 Sek gesendet.
+Wed. 21. Feb. 2018, 07:13:03: 100 Anfragen in 469.5 Sek gesendet.
+Wed. 21. Feb. 2018, 07:20:54: 100 Anfragen in 471.0 Sek gesendet.
+Wed. 21. Feb. 2018, 07:28:46: 100 Anfragen in 471.8 Sek gesendet.
+Wed. 21. Feb. 2018, 07:36:37: 100 Anfragen in 470.6 Sek gesendet.
+Wed. 21. Feb. 2018, 07:44:28: 100 Anfragen in 471.0 Sek gesendet.
+Wed. 21. Feb. 2018, 07:52:20: 100 Anfragen in 472.5 Sek gesendet.
+Wed. 21. Feb. 2018, 08:00:10: 100 Anfragen in 469.6 Sek gesendet.
+Wed. 21. Feb. 2018, 08:04:41: 100 Anfragen in 271.4 Sek gesendet.
+Wed. 21. Feb. 2018, 08:09:12: 100 Anfragen in 270.1 Sek gesendet.
+Wed. 21. Feb. 2018, 08:13:43: 100 Anfragen in 270.8 Sek gesendet.
+Wed. 21. Feb. 2018, 08:18:19: 100 Anfragen in 276.0 Sek gesendet.
+Wed. 21. Feb. 2018, 08:22:51: 100 Anfragen in 272.0 Sek gesendet.
+Wed. 21. Feb. 2018, 08:27:21: 100 Anfragen in 270.2 Sek gesendet.
+Wed. 21. Feb. 2018, 08:31:50: 100 Anfragen in 269.2 Sek gesendet.
+Wed. 21. Feb. 2018, 08:36:19: 100 Anfragen in 268.4 Sek gesendet.
+Wed. 21. Feb. 2018, 08:40:48: 100 Anfragen in 269.0 Sek gesendet.
+Wed. 21. Feb. 2018, 08:45:18: 100 Anfragen in 269.9 Sek gesendet.
+Wed. 21. Feb. 2018, 08:49:47: 100 Anfragen in 269.3 Sek gesendet.
+Wed. 21. Feb. 2018, 08:54:16: 100 Anfragen in 268.9 Sek gesendet.
+Wed. 21. Feb. 2018, 08:58:46: 100 Anfragen in 269.8 Sek gesendet.
+Wed. 21. Feb. 2018, 09:03:16: 100 Anfragen in 270.0 Sek gesendet.
+Wed. 21. Feb. 2018, 09:07:46: 100 Anfragen in 269.6 Sek gesendet.
+Wed. 21. Feb. 2018, 09:12:14: 100 Anfragen in 268.8 Sek gesendet.
+Wed. 21. Feb. 2018, 09:16:46: 100 Anfragen in 271.2 Sek gesendet.
+Wed. 21. Feb. 2018, 09:20:13: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Wed. 21. Feb. 2018, 09:21:16: 100 Anfragen in 270.5 Sek gesendet.
+Wed. 21. Feb. 2018, 09:25:47: 100 Anfragen in 270.9 Sek gesendet.
+Wed. 21. Feb. 2018, 09:30:21: 100 Anfragen in 274.1 Sek gesendet.
+Wed. 21. Feb. 2018, 09:34:55: 100 Anfragen in 273.7 Sek gesendet.
+Wed. 21. Feb. 2018, 09:39:29: 100 Anfragen in 274.0 Sek gesendet.
+Wed. 21. Feb. 2018, 09:44:01: 100 Anfragen in 271.9 Sek gesendet.
+Wed. 21. Feb. 2018, 09:48:37: 100 Anfragen in 276.1 Sek gesendet.
+Wed. 21. Feb. 2018, 09:53:11: 100 Anfragen in 273.3 Sek gesendet.
+Wed. 21. Feb. 2018, 09:57:45: 100 Anfragen in 274.3 Sek gesendet.
+Wed. 21. Feb. 2018, 10:02:19: 100 Anfragen in 274.1 Sek gesendet.
+Wed. 21. Feb. 2018, 10:06:56: 100 Anfragen in 276.8 Sek gesendet.
+Wed. 21. Feb. 2018, 10:11:26: 100 Anfragen in 269.5 Sek gesendet.
+Wed. 21. Feb. 2018, 10:15:56: 100 Anfragen in 270.2 Sek gesendet.
+Wed. 21. Feb. 2018, 10:20:31: 100 Anfragen in 275.2 Sek gesendet.
+Wed. 21. Feb. 2018, 10:25:07: 100 Anfragen in 275.6 Sek gesendet.
+Wed. 21. Feb. 2018, 10:29:47: 100 Anfragen in 279.7 Sek gesendet.
+Wed. 21. Feb. 2018, 10:34:21: 100 Anfragen in 274.1 Sek gesendet.
+Wed. 21. Feb. 2018, 10:38:55: 100 Anfragen in 274.2 Sek gesendet.
+Wed. 21. Feb. 2018, 10:43:25: 100 Anfragen in 270.3 Sek gesendet.
+Wed. 21. Feb. 2018, 10:47:58: 100 Anfragen in 272.1 Sek gesendet.
+Wed. 21. Feb. 2018, 10:52:36: 100 Anfragen in 278.4 Sek gesendet.
+Wed. 21. Feb. 2018, 10:57:24: 100 Anfragen in 288.3 Sek gesendet.
+Wed. 21. Feb. 2018, 11:02:05: 100 Anfragen in 280.5 Sek gesendet.
+Wed. 21. Feb. 2018, 11:06:47: 100 Anfragen in 281.9 Sek gesendet.
+Wed. 21. Feb. 2018, 11:07:51: Aenderung des Angebots!
+Wed. 21. Feb. 2018, 11:11:31: 100 Anfragen in 284.2 Sek gesendet.
+Wed. 21. Feb. 2018, 11:16:18: 100 Anfragen in 286.7 Sek gesendet.
+Wed. 21. Feb. 2018, 11:21:00: 100 Anfragen in 282.6 Sek gesendet.
+Wed. 21. Feb. 2018, 11:25:38: 100 Anfragen in 277.3 Sek gesendet.
+Wed. 21. Feb. 2018, 11:30:23: 100 Anfragen in 284.9 Sek gesendet.
+Wed. 21. Feb. 2018, 11:35:00: 100 Anfragen in 276.9 Sek gesendet.
+Wed. 21. Feb. 2018, 11:39:50: 100 Anfragen in 290.5 Sek gesendet.
+Wed. 21. Feb. 2018, 11:44:30: 100 Anfragen in 279.9 Sek gesendet.
+Wed. 21. Feb. 2018, 11:49:15: 100 Anfragen in 284.6 Sek gesendet.
+Wed. 21. Feb. 2018, 11:54:03: 100 Anfragen in 287.7 Sek gesendet.
+Wed. 21. Feb. 2018, 11:58:42: 100 Anfragen in 279.5 Sek gesendet.
+Wed. 21. Feb. 2018, 12:03:28: 100 Anfragen in 286.0 Sek gesendet.
+Wed. 21. Feb. 2018, 12:08:12: 100 Anfragen in 283.9 Sek gesendet.
+Wed. 21. Feb. 2018, 12:12:55: 100 Anfragen in 282.4 Sek gesendet.
+Wed. 21. Feb. 2018, 12:17:26: 100 Anfragen in 271.5 Sek gesendet.
+Wed. 21. Feb. 2018, 12:21:57: 100 Anfragen in 270.8 Sek gesendet.
+Wed. 21. Feb. 2018, 12:26:28: 100 Anfragen in 271.0 Sek gesendet.
+Wed. 21. Feb. 2018, 12:30:58: 100 Anfragen in 270.3 Sek gesendet.
+Wed. 21. Feb. 2018, 12:35:32: 100 Anfragen in 273.8 Sek gesendet.
+Wed. 21. Feb. 2018, 12:40:23: 100 Anfragen in 290.6 Sek gesendet.
+Wed. 21. Feb. 2018, 12:45:01: 100 Anfragen in 277.8 Sek gesendet.
+Wed. 21. Feb. 2018, 12:49:31: 100 Anfragen in 270.0 Sek gesendet.
+Wed. 21. Feb. 2018, 12:54:03: 100 Anfragen in 271.7 Sek gesendet.
+Wed. 21. Feb. 2018, 12:58:49: 100 Anfragen in 286.0 Sek gesendet.
+Wed. 21. Feb. 2018, 13:03:37: 100 Anfragen in 288.2 Sek gesendet.
+Wed. 21. Feb. 2018, 13:08:40: 100 Anfragen in 303.4 Sek gesendet.
+Wed. 21. Feb. 2018, 13:14:10: 100 Anfragen in 329.2 Sek gesendet.
+Wed. 21. Feb. 2018, 13:19:36: 100 Anfragen in 326.1 Sek gesendet.
+Wed. 21. Feb. 2018, 13:24:19: 100 Anfragen in 283.4 Sek gesendet.
+Wed. 21. Feb. 2018, 13:28:50: 100 Anfragen in 271.3 Sek gesendet.
+Wed. 21. Feb. 2018, 13:33:48: 100 Anfragen in 297.3 Sek gesendet.
+Wed. 21. Feb. 2018, 13:38:31: 100 Anfragen in 283.5 Sek gesendet.
+Wed. 21. Feb. 2018, 13:43:15: 100 Anfragen in 283.6 Sek gesendet.
+Wed. 21. Feb. 2018, 13:47:46: 100 Anfragen in 271.3 Sek gesendet.
+Wed. 21. Feb. 2018, 13:52:59: 100 Anfragen in 313.0 Sek gesendet.
+Wed. 21. Feb. 2018, 13:57:46: 100 Anfragen in 286.2 Sek gesendet.
+Wed. 21. Feb. 2018, 14:02:37: 100 Anfragen in 291.8 Sek gesendet.
+Wed. 21. Feb. 2018, 14:07:11: 100 Anfragen in 274.0 Sek gesendet.
+Wed. 21. Feb. 2018, 14:11:54: 100 Anfragen in 282.7 Sek gesendet.
+Wed. 21. Feb. 2018, 14:16:36: 100 Anfragen in 281.7 Sek gesendet.
+Wed. 21. Feb. 2018, 14:21:26: 100 Anfragen in 289.6 Sek gesendet.
+Wed. 21. Feb. 2018, 14:25:58: 100 Anfragen in 272.6 Sek gesendet.
+Wed. 21. Feb. 2018, 14:30:41: 100 Anfragen in 282.2 Sek gesendet.
+Wed. 21. Feb. 2018, 14:35:25: 100 Anfragen in 283.9 Sek gesendet.
+Wed. 21. Feb. 2018, 14:40:25: 100 Anfragen in 300.1 Sek gesendet.
+Wed. 21. Feb. 2018, 14:45:24: 100 Anfragen in 299.6 Sek gesendet.
+Wed. 21. Feb. 2018, 14:50:04: 100 Anfragen in 279.2 Sek gesendet.
+Wed. 21. Feb. 2018, 14:54:22: Aenderung des Angebots!
+Wed. 21. Feb. 2018, 14:54:47: 100 Anfragen in 283.6 Sek gesendet.
+Wed. 21. Feb. 2018, 14:59:42: 100 Anfragen in 295.2 Sek gesendet.
+Wed. 21. Feb. 2018, 15:04:49: 100 Anfragen in 306.4 Sek gesendet.
+Wed. 21. Feb. 2018, 15:09:21: 100 Anfragen in 272.2 Sek gesendet.
+Wed. 21. Feb. 2018, 15:14:00: 100 Anfragen in 278.3 Sek gesendet.
+Wed. 21. Feb. 2018, 15:19:12: 100 Anfragen in 312.9 Sek gesendet.
+Wed. 21. Feb. 2018, 15:24:39: 100 Anfragen in 326.4 Sek gesendet.
+Wed. 21. Feb. 2018, 15:30:25: 100 Anfragen in 345.7 Sek gesendet.
+Wed. 21. Feb. 2018, 15:35:51: 100 Anfragen in 325.9 Sek gesendet.
+Wed. 21. Feb. 2018, 15:41:21: 100 Anfragen in 330.0 Sek gesendet.
+Wed. 21. Feb. 2018, 15:46:35: 100 Anfragen in 314.2 Sek gesendet.
+Wed. 21. Feb. 2018, 15:51:39: 100 Anfragen in 304.2 Sek gesendet.
+Wed. 21. Feb. 2018, 15:56:38: 100 Anfragen in 298.5 Sek gesendet.
+Wed. 21. Feb. 2018, 16:01:21: 100 Anfragen in 283.0 Sek gesendet.
+Wed. 21. Feb. 2018, 16:07:03: 100 Anfragen in 342.7 Sek gesendet.
+Wed. 21. Feb. 2018, 16:12:24: 100 Anfragen in 321.0 Sek gesendet.
+Wed. 21. Feb. 2018, 16:17:31: 100 Anfragen in 306.9 Sek gesendet.
+Wed. 21. Feb. 2018, 16:22:07: 100 Anfragen in 275.5 Sek gesendet.
+Wed. 21. Feb. 2018, 16:27:15: 100 Anfragen in 308.0 Sek gesendet.
+Wed. 21. Feb. 2018, 16:32:20: 100 Anfragen in 304.6 Sek gesendet.
+Wed. 21. Feb. 2018, 16:37:30: 100 Anfragen in 310.7 Sek gesendet.
+Wed. 21. Feb. 2018, 16:39:13: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Wed. 21. Feb. 2018, 16:39:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Wed. 21. Feb. 2018, 16:42:44: 100 Anfragen in 314.0 Sek gesendet.
+Wed. 21. Feb. 2018, 16:47:35: 100 Anfragen in 290.6 Sek gesendet.
+Wed. 21. Feb. 2018, 16:53:17: 100 Anfragen in 342.3 Sek gesendet.
+Wed. 21. Feb. 2018, 16:58:23: 100 Anfragen in 305.4 Sek gesendet.
+Wed. 21. Feb. 2018, 17:03:23: 100 Anfragen in 300.1 Sek gesendet.
+Wed. 21. Feb. 2018, 17:08:45: 100 Anfragen in 321.9 Sek gesendet.
+Wed. 21. Feb. 2018, 17:14:03: 100 Anfragen in 317.8 Sek gesendet.
+Wed. 21. Feb. 2018, 17:18:37: 100 Anfragen in 274.0 Sek gesendet.
+Wed. 21. Feb. 2018, 17:23:56: 100 Anfragen in 319.2 Sek gesendet.
+Wed. 21. Feb. 2018, 17:29:31: 100 Anfragen in 334.4 Sek gesendet.
+Wed. 21. Feb. 2018, 17:34:33: 100 Anfragen in 302.8 Sek gesendet.
+Wed. 21. Feb. 2018, 17:39:20: 100 Anfragen in 286.7 Sek gesendet.
+Wed. 21. Feb. 2018, 17:44:45: 100 Anfragen in 324.8 Sek gesendet.
+Wed. 21. Feb. 2018, 17:49:56: 100 Anfragen in 311.4 Sek gesendet.
+Wed. 21. Feb. 2018, 17:52:24: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Wed. 21. Feb. 2018, 17:54:55: 100 Anfragen in 299.0 Sek gesendet.
+Wed. 21. Feb. 2018, 17:59:59: 100 Anfragen in 303.7 Sek gesendet.
+Wed. 21. Feb. 2018, 18:05:04: 100 Anfragen in 304.7 Sek gesendet.
+Wed. 21. Feb. 2018, 18:10:28: 100 Anfragen in 324.2 Sek gesendet.
+Wed. 21. Feb. 2018, 18:15:26: 100 Anfragen in 298.3 Sek gesendet.
+Wed. 21. Feb. 2018, 18:20:16: 100 Anfragen in 289.1 Sek gesendet.
+Wed. 21. Feb. 2018, 18:24:54: 100 Anfragen in 278.0 Sek gesendet.
+Wed. 21. Feb. 2018, 18:29:38: 100 Anfragen in 284.4 Sek gesendet.
+Wed. 21. Feb. 2018, 18:34:21: 100 Anfragen in 283.2 Sek gesendet.
+Wed. 21. Feb. 2018, 18:39:03: 100 Anfragen in 281.3 Sek gesendet.
+Wed. 21. Feb. 2018, 18:43:39: 100 Anfragen in 276.5 Sek gesendet.
+Wed. 21. Feb. 2018, 18:48:32: 100 Anfragen in 292.6 Sek gesendet.
+Wed. 21. Feb. 2018, 18:53:24: 100 Anfragen in 292.3 Sek gesendet.
+Wed. 21. Feb. 2018, 18:57:55: 100 Anfragen in 270.4 Sek gesendet.
+Wed. 21. Feb. 2018, 19:02:48: 100 Anfragen in 293.5 Sek gesendet.
+Wed. 21. Feb. 2018, 19:07:49: 100 Anfragen in 300.1 Sek gesendet.
+Wed. 21. Feb. 2018, 19:12:24: 100 Anfragen in 275.0 Sek gesendet.
+Wed. 21. Feb. 2018, 19:17:03: 100 Anfragen in 279.1 Sek gesendet.
+Wed. 21. Feb. 2018, 19:22:05: 100 Anfragen in 301.7 Sek gesendet.
+Wed. 21. Feb. 2018, 19:26:51: 100 Anfragen in 286.7 Sek gesendet.
+Wed. 21. Feb. 2018, 19:31:22: 100 Anfragen in 270.9 Sek gesendet.
+Wed. 21. Feb. 2018, 19:35:54: 100 Anfragen in 271.8 Sek gesendet.
+Wed. 21. Feb. 2018, 19:40:43: 100 Anfragen in 288.3 Sek gesendet.
+Wed. 21. Feb. 2018, 19:45:20: 100 Anfragen in 277.0 Sek gesendet.
+Wed. 21. Feb. 2018, 19:50:05: 100 Anfragen in 285.8 Sek gesendet.
+Wed. 21. Feb. 2018, 19:54:42: 100 Anfragen in 277.0 Sek gesendet.
+Wed. 21. Feb. 2018, 19:59:14: 100 Anfragen in 271.6 Sek gesendet.
+Wed. 21. Feb. 2018, 20:03:53: 100 Anfragen in 278.6 Sek gesendet.
+Wed. 21. Feb. 2018, 20:08:25: 100 Anfragen in 272.1 Sek gesendet.
+Wed. 21. Feb. 2018, 20:12:57: 100 Anfragen in 271.9 Sek gesendet.
+Wed. 21. Feb. 2018, 20:17:39: 100 Anfragen in 282.3 Sek gesendet.
+Wed. 21. Feb. 2018, 20:22:17: 100 Anfragen in 277.6 Sek gesendet.
+Wed. 21. Feb. 2018, 20:27:00: 100 Anfragen in 282.8 Sek gesendet.
+Wed. 21. Feb. 2018, 20:31:31: 100 Anfragen in 271.2 Sek gesendet.
+Wed. 21. Feb. 2018, 20:36:08: 100 Anfragen in 276.6 Sek gesendet.
+Wed. 21. Feb. 2018, 20:40:39: 100 Anfragen in 271.3 Sek gesendet.
+Wed. 21. Feb. 2018, 20:45:28: 100 Anfragen in 288.9 Sek gesendet.
+Wed. 21. Feb. 2018, 20:50:04: 100 Anfragen in 276.0 Sek gesendet.
+Wed. 21. Feb. 2018, 20:54:36: 100 Anfragen in 272.3 Sek gesendet.
+Wed. 21. Feb. 2018, 20:59:13: 100 Anfragen in 276.2 Sek gesendet.
+Wed. 21. Feb. 2018, 21:06:28: 100 Anfragen in 435.4 Sek gesendet.
+Wed. 21. Feb. 2018, 21:14:24: 100 Anfragen in 475.9 Sek gesendet.
+Wed. 21. Feb. 2018, 21:22:18: 100 Anfragen in 474.2 Sek gesendet.
+Wed. 21. Feb. 2018, 21:30:19: 100 Anfragen in 480.9 Sek gesendet.
+Wed. 21. Feb. 2018, 21:38:16: 100 Anfragen in 476.4 Sek gesendet.
+Wed. 21. Feb. 2018, 21:46:07: 100 Anfragen in 471.6 Sek gesendet.
+Wed. 21. Feb. 2018, 21:53:58: 100 Anfragen in 470.9 Sek gesendet.
+Wed. 21. Feb. 2018, 22:01:51: 100 Anfragen in 472.4 Sek gesendet.
+Wed. 21. Feb. 2018, 22:09:42: 100 Anfragen in 470.8 Sek gesendet.
+Wed. 21. Feb. 2018, 22:17:32: 100 Anfragen in 470.4 Sek gesendet.
+Wed. 21. Feb. 2018, 22:25:22: 100 Anfragen in 470.1 Sek gesendet.
+Wed. 21. Feb. 2018, 22:33:13: 100 Anfragen in 470.8 Sek gesendet.
+Wed. 21. Feb. 2018, 22:41:03: 100 Anfragen in 470.4 Sek gesendet.
+Wed. 21. Feb. 2018, 22:48:54: 100 Anfragen in 470.5 Sek gesendet.
+Wed. 21. Feb. 2018, 22:56:45: 100 Anfragen in 471.4 Sek gesendet.
+Wed. 21. Feb. 2018, 23:04:36: 100 Anfragen in 470.6 Sek gesendet.
+Wed. 21. Feb. 2018, 23:12:30: 100 Anfragen in 473.6 Sek gesendet.
+Wed. 21. Feb. 2018, 23:20:34: 100 Anfragen in 483.8 Sek gesendet.
+Wed. 21. Feb. 2018, 23:28:34: 100 Anfragen in 480.5 Sek gesendet.
+
+Wed. 21. Feb. 2018, 23:36:34: 100 Anfragen in 479.9 Sek gesendet.
+Wed. 21. Feb. 2018, 23:44:34: 100 Anfragen in 479.8 Sek gesendet.
+Wed. 21. Feb. 2018, 23:52:25: 100 Anfragen in 471.2 Sek gesendet.
+Thu. 22. Feb. 2018, 00:00:18: 100 Anfragen in 472.8 Sek gesendet.
+Thu. 22. Feb. 2018, 00:08:12: 100 Anfragen in 474.4 Sek gesendet.
+Thu. 22. Feb. 2018, 00:16:09: 100 Anfragen in 476.4 Sek gesendet.
+Thu. 22. Feb. 2018, 00:24:01: 100 Anfragen in 472.2 Sek gesendet.
+Thu. 22. Feb. 2018, 00:31:52: 100 Anfragen in 470.4 Sek gesendet.
+Thu. 22. Feb. 2018, 00:39:45: 100 Anfragen in 472.8 Sek gesendet.
+Thu. 22. Feb. 2018, 00:47:36: 100 Anfragen in 471.9 Sek gesendet.
+Thu. 22. Feb. 2018, 00:55:30: 100 Anfragen in 473.7 Sek gesendet.
+Thu. 22. Feb. 2018, 01:03:22: 100 Anfragen in 471.6 Sek gesendet.
+Thu. 22. Feb. 2018, 01:11:13: 100 Anfragen in 471.5 Sek gesendet.
+Thu. 22. Feb. 2018, 01:19:05: 100 Anfragen in 471.8 Sek gesendet.
+Thu. 22. Feb. 2018, 01:26:56: 100 Anfragen in 471.0 Sek gesendet.
+Thu. 22. Feb. 2018, 01:34:47: 100 Anfragen in 471.1 Sek gesendet.
+Thu. 22. Feb. 2018, 01:42:39: 100 Anfragen in 471.6 Sek gesendet.
+Thu. 22. Feb. 2018, 01:50:31: 100 Anfragen in 472.1 Sek gesendet.
+Thu. 22. Feb. 2018, 01:58:24: 100 Anfragen in 472.3 Sek gesendet.
+Thu. 22. Feb. 2018, 02:06:21: 100 Anfragen in 477.8 Sek gesendet.
+Thu. 22. Feb. 2018, 02:14:19: 100 Anfragen in 477.2 Sek gesendet.
+Thu. 22. Feb. 2018, 02:22:14: 100 Anfragen in 474.9 Sek gesendet.
+Thu. 22. Feb. 2018, 02:30:08: 100 Anfragen in 474.1 Sek gesendet.
+Thu. 22. Feb. 2018, 02:38:03: 100 Anfragen in 475.4 Sek gesendet.
+Thu. 22. Feb. 2018, 02:45:55: 100 Anfragen in 471.7 Sek gesendet.
+Thu. 22. Feb. 2018, 02:53:46: 100 Anfragen in 470.8 Sek gesendet.
+Thu. 22. Feb. 2018, 03:01:37: 100 Anfragen in 470.9 Sek gesendet.
+Thu. 22. Feb. 2018, 03:09:29: 100 Anfragen in 471.8 Sek gesendet.
+Thu. 22. Feb. 2018, 03:17:27: 100 Anfragen in 477.8 Sek gesendet.
+Thu. 22. Feb. 2018, 03:25:27: 100 Anfragen in 480.8 Sek gesendet.
+Thu. 22. Feb. 2018, 03:33:19: 100 Anfragen in 471.2 Sek gesendet.
+Thu. 22. Feb. 2018, 03:41:12: 100 Anfragen in 473.1 Sek gesendet.
+Thu. 22. Feb. 2018, 03:49:07: 100 Anfragen in 474.9 Sek gesendet.
+Thu. 22. Feb. 2018, 03:57:04: 100 Anfragen in 476.7 Sek gesendet.
+Thu. 22. Feb. 2018, 04:05:03: 100 Anfragen in 479.8 Sek gesendet.
+Thu. 22. Feb. 2018, 04:12:57: 100 Anfragen in 473.2 Sek gesendet.
+Thu. 22. Feb. 2018, 04:20:49: 100 Anfragen in 472.7 Sek gesendet.
+Thu. 22. Feb. 2018, 04:28:44: 100 Anfragen in 475.0 Sek gesendet.
+Thu. 22. Feb. 2018, 04:36:40: 100 Anfragen in 475.2 Sek gesendet.
+Thu. 22. Feb. 2018, 04:44:36: 100 Anfragen in 476.5 Sek gesendet.
+Thu. 22. Feb. 2018, 04:52:33: 100 Anfragen in 476.8 Sek gesendet.
+Thu. 22. Feb. 2018, 05:00:34: 100 Anfragen in 481.3 Sek gesendet.
+Thu. 22. Feb. 2018, 05:08:32: 100 Anfragen in 477.3 Sek gesendet.
+Thu. 22. Feb. 2018, 05:16:26: 100 Anfragen in 474.2 Sek gesendet.
+Thu. 22. Feb. 2018, 05:24:22: 100 Anfragen in 476.2 Sek gesendet.
+Thu. 22. Feb. 2018, 05:32:14: 100 Anfragen in 471.3 Sek gesendet.
+Thu. 22. Feb. 2018, 05:40:05: 100 Anfragen in 471.3 Sek gesendet.
+Thu. 22. Feb. 2018, 05:47:56: 100 Anfragen in 470.8 Sek gesendet.
+Thu. 22. Feb. 2018, 05:55:53: 100 Anfragen in 476.7 Sek gesendet.
+Thu. 22. Feb. 2018, 06:03:49: 100 Anfragen in 476.5 Sek gesendet.
+Thu. 22. Feb. 2018, 06:11:45: 100 Anfragen in 476.1 Sek gesendet.
+Thu. 22. Feb. 2018, 06:19:44: 100 Anfragen in 478.7 Sek gesendet.
+Thu. 22. Feb. 2018, 06:27:41: 100 Anfragen in 477.2 Sek gesendet.
+Thu. 22. Feb. 2018, 06:35:41: 100 Anfragen in 479.5 Sek gesendet.
+Thu. 22. Feb. 2018, 06:43:35: 100 Anfragen in 474.3 Sek gesendet.
+Thu. 22. Feb. 2018, 06:51:32: 100 Anfragen in 476.4 Sek gesendet.
+Thu. 22. Feb. 2018, 06:59:28: 100 Anfragen in 475.8 Sek gesendet.
+Thu. 22. Feb. 2018, 07:07:23: 100 Anfragen in 475.9 Sek gesendet.
+Thu. 22. Feb. 2018, 07:15:24: 100 Anfragen in 480.0 Sek gesendet.
+Thu. 22. Feb. 2018, 07:17:26: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Thu. 22. Feb. 2018, 07:23:19: 100 Anfragen in 475.1 Sek gesendet.
+Thu. 22. Feb. 2018, 07:31:12: 100 Anfragen in 473.0 Sek gesendet.
+Thu. 22. Feb. 2018, 07:39:09: 100 Anfragen in 477.2 Sek gesendet.
+Thu. 22. Feb. 2018, 07:47:07: 100 Anfragen in 477.8 Sek gesendet.
+Thu. 22. Feb. 2018, 07:55:02: 100 Anfragen in 474.8 Sek gesendet.
+Thu. 22. Feb. 2018, 08:01:40: 100 Anfragen in 398.2 Sek gesendet.
+Thu. 22. Feb. 2018, 08:06:13: 100 Anfragen in 273.0 Sek gesendet.
+Thu. 22. Feb. 2018, 08:10:45: 100 Anfragen in 272.1 Sek gesendet.
+Thu. 22. Feb. 2018, 08:15:16: 100 Anfragen in 270.6 Sek gesendet.
+Thu. 22. Feb. 2018, 08:19:50: 100 Anfragen in 273.7 Sek gesendet.
+Thu. 22. Feb. 2018, 08:24:23: 100 Anfragen in 273.2 Sek gesendet.
+Thu. 22. Feb. 2018, 08:28:54: 100 Anfragen in 271.2 Sek gesendet.
+Thu. 22. Feb. 2018, 08:33:33: 100 Anfragen in 278.4 Sek gesendet.
+Traceback (most recent call last):
+  File "ticketBot.py", line 100, in <module>
+    main()
+  File "ticketBot.py", line 86, in main
+    time.sleep(delay_duration())
+KeyboardInterrupt

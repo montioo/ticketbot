@@ -1,0 +1,7 @@
+Zeitzone in Debian aendern:
+$ mv /etc/localtime /etc/localtime.old
+$ cp /usr/share/zoneinfo/Europe/Berlin /etc/localtime
+$ date
+[Ausgabe der korrekten Zeit in Deutschland]
+
+https://unix.stackexchange.com/questions/76710/changing-timezone-on-debian-keeps-local-time-in-utc

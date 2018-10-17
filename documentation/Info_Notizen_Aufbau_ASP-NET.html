@@ -1,0 +1,236 @@
+<!-- FUNKTION DES EINKAUFSWAGENS
+
+Das Backend wurde mit ASP.NET gebastelt und ist deshalb, wie ich finde, nicht
+schoen geworden.
+An sich funktioniert der ganze Spass folgendermassen:
+Die Seite erstellt 4 Cookies. 2 davon von Matomo (Piwik), damit Nutzeraktivitaeten
+verfolgt werden koennen (_pk_id... und _pk_ses...). Die anderen beiden
+(ASP.NET_SESSIONID und ASPXANONYMOUS) sind vom Webshop und dienen der Wiedererkennung
+der Kunden, um den Einkaufswagen beizubehalten. Also sind fuer uns schon mal nur
+die letzteren beiden interessant.
+(_pk_id... und _pk_ses... werden von einem JS erstellt oder so, und tauchen
+in der Requests-Session, die Python aufbaut, gar nicht auf.)
+
+Wenn ein Ticket nicht im Einkaufswagen von jemandem liegt, kann einfach
+der Wert des Name-Attributs von dem Button des entsprechenden Tickets genommen
+werden und in __EVENTTARGET geschrieben werden. __EVENTTARGET ist Teil der
+Daten, die mit dem post-Befehl zurueck an den Server gehen.
+
+Ausserdem werden durch das Abrufen einer Seite verschiedene andere Werte
+in der Form gesetzt, wie __VIEWSTATE. Diese muessen in der Antwort auch enthalten
+sein. Die koennen dann einfach aus einer Anfrage an die Seite kopiert werden.
+
+Schliesslich ist es noch wichtig, dass die Cookies, die wichtig sind, bei
+GET- und POST-Anfragen identisch sind. Diese beiden muessen dann nach erfolgreichem
+Legen eines Tickets in den Einkaufswagen nur noch in den Firefox uebertragen
+werden und schon kann bezahlt werden.
+
+
+Offene Fragen:
+(Nur weil es funktioniert heisst das nicht, dass man alles verstanden hat...)
+- Warum ist in der Antwort (laut Firefox) vom Browser an den Server kein __EVENTTARGET
+  eingetragen, aber irgendwelche x und y Koordinaten eines Buttons? Ich hab auch
+  keine Funktion gefunden, die diese Werte berechnen koennte.
+
+-->
+
+
+<!-- BUTTONS AUF DER WEBSEITE
+Zwei Darstellungen der Buttons auf der Webseite.
+Die obere Darstellung wird verwendet, wenn das Objekt schon bei jemandem im
+Einkaufswagen liegt.
+Die untere, wenn das Element noch zu haben ist.
+Fuer die Form sind die Werte des Attributs name wichtig.
+-->
+
+<input
+name="ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_shoppingCartNotAvailableImage"
+id="ctl00_MainContentPlaceHolder__ticketResaleList_ctrl2__shoppingCartNotAvailableImage"
+src="../../App_Themes/Default/images/buttons/shopcart_black_notavail_22px.gif"
+onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_shoppingCartNotAvailableImage", "", true, "", "", false, false))" type="image">
+
+<input
+type="image"
+name="ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand"
+id="ctl00_MainContentPlaceHolder__ticketResaleList_ctrl8__addToCartCommand"
+class="Middle" src="../../App_Themes/Default/images/buttons/shopcart_dark_22px.gif"
+onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand", "", true, "", "", false, false))" />
+
+<!--
+Die ID eines Elements ist per Definition einzigartig.
+Die beiden input-Elemente sind die Einkaufswagen-Buttons.
+Ihre ID wird als Argument an ein Java-Script uebergeben.
+
+
+<form>
+...
+</form>
+enthaelt die ganze Webseite
+
+Seite: https://www.tixforgigs.com/site/Pages/Shop/TicketResales.aspx?ID=21735
+-->
+
+<!-- &quot; = " -->
+
+
+<!-- SCRIPT IN EINER WEITEREN DATEI
+
+Hier wird das Dokument (die Webseite) bearbeitet, damit sie mit einem
+post-Befehl zurueck gesendet werden kann und der Einkaufswagen gefuellt wird.
+An sich wird nicht die ganze Webseite, sondern nur Attribute der Form (die
+wiederum die ganze Webseite beinhaltet) als Post-Nachrricht an den Server
+gesendet.
+
+Das Script unten ist ein Ausschnitt aus einem Java-Script, das vom Server geladen
+wird. Mit einem Klick auf den Button "addToCart", wird erst eine neue
+WebForm mit PostBackOptions erstellt und danach werden die Informationen
+von diesem Objekt in die Attribute der Form uebertragen. Siehe Fkt 2.
+
+Die Funtkionen wurden stark gekuerzt, damit sie uebersichtlicher sind.
+
+__doPostBack(...) ruft eine Funktion auf, die eine Antwort, an den
+ASP.NET-Server sendet.
+-->
+
+
+<script>
+// (1)
+function WebForm_PostBackOptions(eventTarget, eventArgument, validation, validationGroup, actionUrl, trackFocus, clientSubmit) {
+    this.eventTarget = eventTarget; // "ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_shoppingCartNotAvailableImage" !!! Hier ctrl2
+    this.eventArgument = eventArgument; //""
+    this.validation = validation; // true
+    this.validationGroup = validationGroup; // ""
+    this.actionUrl = actionUrl; // ""
+    this.trackFocus = trackFocus; // false
+    this.clientSubmit = clientSubmit; //false
+}
+
+// (2)
+function WebForm_DoPostBackWithOptions(options) {
+    // ....
+
+    if (options.clientSubmit) {
+        //options.eventTarget = siehe oben
+        //options.eventArgument = ""
+        __doPostBack(options.eventTarget, options.eventArgument);
+    }
+}
+// .....
+</script>
+
+
+
+<!-- AUFBAU DER WEBSEITE
+Hier nun noch ein mal kurz der Aufbau der Webseite. Unwichtiges Zeug wurde
+wieder entfernt.
+
+
+In den Elementen der Klassen "ResaleItemContainer clearfix" befinden sich die
+einzelnen Tickets.
+Ausserdem ist die Form gut zu erkennen, genau so wie die Java-Script-Funktion
+__doPostBack
+-->
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="SHORTCUT ICON" href="/site/tfgFavicon.ico" /><title>
+	TixforGigs
+</title><link href="../../App_Themes/Default/PageLayout.css" type="text/css" rel="stylesheet" /><link href="/site/WebResource.axd?d=ROqqe3xP7pehs3muKltMS8AEAZrl0LI5dSlXtQW5MANJRBz8KpEou-homrSrze67uAcK6RjSCoR66OmJKg6_zcAhXlWo1Fl5i2fl8fbzqIY3vskDx3tqYJsoXyDAMIiX-DkRog2&amp;t=635877560722060924" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form method="post" action="./TicketResales.aspx?ID=21735" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div class="aspNetHidden">
+<input type="hidden" name="ctl00__scriptManager_HiddenField" id="ctl00__scriptManager_HiddenField" value="" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="2258B27E" />
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" />
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="93n49iJnIjMCJHl4xPeUye765L4yTeahEggX_RcMjpBa5MrC2G9K461GQ6im9g_ij6jCOGw--2SQtmhKVWj7eYNFCBuDUBxHwjFNUIsQLR8BGH-90" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="J8v8QHmastKhwZMaLJY6cmEb1ae+Qhx5sW7m/y3QHX936bMWya+ERMwMv1qCiHU8h/84k4pkYiIQoVS7ymJt7ATazPAC4nA7yV+LtddF0xqbFCIbnY+MA4WM6T/erJjlozxhlyeJqKZPnP7xpQ/WDtyq+KsYWY3hHob+ZjeiVZkIzvRkbYTnxa0RTgv4m5qXku+1IEwsNfnLyXmZy+rNMp16Wxe9HuIYasocjoJZHw+2VSjeK7FUY8SlfswGeDAER55iul+HTv5hhzk9BK/zJEccxmMYYykdyy/4DB7dY05NHrJz13+wN/Cj5F8Igeg32VVDhzRiU/1Dh3gZp7mmaF5J/LUHwL0sGAg39DBUbdr5XUvV0bhX1aDrB9/a6cSl5qjdIc5GodhNsSQSp38pPzJ6GJ3/+vnInseg+qPBUVQCiV0d1i27qf6iUC87JPUvWaFoigOBWtJfX5YdzrJinCYCTDYcJfDwUGm8OLy++i4DmxpUlzm3aWv8JXzXubDIcXGAOc15Rlz2z0CyYH9G9TUrTHyvAqYqzb1SMZRIh9fCLPCosNfFo5flh6uFrlxlxtSFlZI718hbdMvxhL1DmlIi+Vk1UTYNZEqGofNTbnFvlTIwm+69QWtj1XNQYuWm/E850f7iUvnnmikAGgrwFJC0Lj8i8vOP7BE68s2hi50obFIFO+5XdPL9fpPEFGWC4Tz3aXhBz0RAwn9Gt57XZVu/dzv6IX8vJ0RltbDUKaWHaRdet2L1x+nWU8o7caLwX/qeRa7JXJUCBjLvEQmRuT6TYi2tDp1N6xUXKz5EhlWu3R5KwUaBvdFDfbbhChXLAbjxYNXin6O6712Tdt4kpP0BbrSFKIk8IOhQwZJcWP9GgFiU3P7+V6x88b3ggpHJtgVbRP85DFLyqdTuQ/cjWfru/RKf6mq4ILyyJVLawZqUW/BPCsd9tnYXGgZ7TNKUDLYIsHvg9M0TAhCaaJm1rA57wwJZmg8kr8rE9GncON4TUJnkZSYPbxTrW5fGegA5U0/kDOpy6bzmtfvwV4X2ZLIf7aPvqsQPSckl1lvF8Iw30MDfjKB7SJJyP6xCVzb+OMuT7BoJ0QFu92IWVutA/8Jgta48vTY0Ezyccwj16V/d/hWoTSpBv0BSejjXHDjPwowLRU9c8KZMeQkOJV5ZOkUfsVQrdBUTATnt1484lKybIdJVxbn/0pnRx6HZ7Va2mwey7pbK+bjgIZ0GWiZ6b2oC2oVAKPSaQOmc1Ypv3qDR41Oqqmx+auymsgCRwRoiuS13qd67CZVVraq0up0ZRt1ajLIZBDBWURqlQbk82DsFWxgrkhj/idBcH/JG6wTN3r0j5KyMiYtc2rCFOFTOgJItCOs7joiEmpMoILcIWRgvNNGJowK7jgDcO8kxsB6TJQG39Bu5584b+TqlLvhGOZfo0JGsqCICo4zNh0jaB0hXjv2LaPJXDq7UBg/9pWxgXL7wvXkY2JeZ+y9DiI2YBQlWIHy4C7W6i8cWnNvZ6IU2vsvqz3qNypkP+PGUBCH7ve5W4A==" />
+</div>
+
+
+
+    <div id="ctl00_layout_container" class="TFG_LayoutContainer">
+        <div id="layout_content">
+
+            <div class="ResaleItemContainer clearfix" style="padding-top: 5px; margin-bottom: 10px;">
+
+        		<div class="ItemElement" style="width: 164px">
+        			<div style="padding-right: 6px; padding-left: 10px;">
+        				splash! Festival 2018
+        			</div>
+        		</div>
+        		<div class="ItemElement" style="width: 164px">
+        			<div style="padding-right: 6px;">
+        				Camping Plus
+        			</div>
+        		</div>
+        		<div class="ItemElement" style="width: 70px">
+        			<div style="padding-right: 6px;">
+        				50,60 €
+        			</div>
+        		</div>
+        		<div class="ItemElement" style="width: 138px">
+        			<div style="padding-right: 6px;">
+        				nur Online-Zahlungsarten
+        			</div>
+        		</div>
+        		<div class="ItemElement" style="width: 120px">
+        			<div style="padding-right: 6px;">
+        				06.07.2018 01:00
+        			</div>
+        		</div>
+
+    			<div class="ItemElement" style="width: 164px">
+    				<div style="padding-right: 6px;">
+    					<select name="ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_productItemTypeDropDown" id="ctl00_MainContentPlaceHolder__ticketResaleList_ctrl4__productItemTypeDropDown" class="DropDowns" style="width:100%;">
+                           <option value="1">SelfTix (Print@Home)</option>
+                       </select>
+    				</div>
+    			</div>
+
+    			<div class="ItemElement" style="width: 160px; text-align: center;">
+    				<div>
+    					<input type="image" name="ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand" id="ctl00_MainContentPlaceHolder__ticketResaleList_ctrl4__addToCartCommand" class="Middle" src="../../App_Themes/Default/images/buttons/shopcart_dark_22px.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" />
+
+    				</div>
+    			</div>
+
+    		</div>
+
+    		<div class="ProductListSeparator" style="width: 980px">
+    			&#160;
+    		</div>
+
+        </div>
+    </div>
+
+</form>
+</body>
+</html>

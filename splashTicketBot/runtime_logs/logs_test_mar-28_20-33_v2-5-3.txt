@@ -1,0 +1,5728 @@
+    ticketBot, start: Wed. 28. Mar. 2018, 20:34:25
+             version: 2.5.3
+AENDERUNG DES ANGEBOTS:
+  2018-03-28 20:34:25.951975
+Starte mit Seite: 2
+Fertig mit Seite: 2
+Wed. 28. Mar. 2018, 20:34:41: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /systeminfo
+Wed. 28. Mar. 2018, 20:38:53: 40 Anfragen in 268.5 Sek gesendet.
+Wed. 28. Mar. 2018, 20:40:40: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /systeminfo
+Wed. 28. Mar. 2018, 20:43:20: 40 Anfragen in 267.1 Sek gesendet.
+Wed. 28. Mar. 2018, 20:47:48: 40 Anfragen in 267.8 Sek gesendet.
+Wed. 28. Mar. 2018, 20:52:15: 40 Anfragen in 266.9 Sek gesendet.
+Wed. 28. Mar. 2018, 20:56:42: 40 Anfragen in 267.0 Sek gesendet.
+Wed. 28. Mar. 2018, 21:01:09: 40 Anfragen in 266.5 Sek gesendet.
+Wed. 28. Mar. 2018, 21:05:38: 40 Anfragen in 269.2 Sek gesendet.
+Wed. 28. Mar. 2018, 21:10:07: 40 Anfragen in 268.5 Sek gesendet.
+Wed. 28. Mar. 2018, 21:14:31: 40 Anfragen in 264.3 Sek gesendet.
+Wed. 28. Mar. 2018, 21:18:46: 40 Anfragen in 254.9 Sek gesendet.
+Wed. 28. Mar. 2018, 21:22:54: 40 Anfragen in 248.3 Sek gesendet.
+Wed. 28. Mar. 2018, 21:26:56: 40 Anfragen in 242.0 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-28 21:30:07.687991
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  207,90 €
+ticket_type :  Festivalticket Phase 3
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+319,00 € --- 207,90 €
+----- 14
+319,00 € --- 319,00 €
+14 --- 15
+a_i: 15 , len(old): 15
+n_j: 16 , len(new): 16
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 1522265408, 'still_available': True, 'ticket_type': 'Festivalticket Phase 3', 'ticket_price': '207,90 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Wed. 28. Mar. 2018, 21:30:48: 40 Anfragen in 231.3 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-28 21:33:03.034134
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  1522265408
+still_available :  True
+ticket_type :  Festivalticket Phase 3
+ticket_price :  207,90 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+207,90 € --- 319,00 €
+14 -----
+319,00 € --- 319,00 €
+15 --- 14
+a_i: 16 , len(old): 16
+n_j: 15 , len(new): 15
+-- REMOVED:
+{'page': 2, 'removed': 1522265583, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 1522265408, 'still_available': True, 'ticket_type': 'Festivalticket Phase 3', 'ticket_price': '207,90 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Wed. 28. Mar. 2018, 21:33:31: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /systeminfo
+Wed. 28. Mar. 2018, 21:34:31: 40 Anfragen in 223.4 Sek gesendet.
+Wed. 28. Mar. 2018, 21:38:07: 40 Anfragen in 215.5 Sek gesendet.
+Wed. 28. Mar. 2018, 21:41:35: 40 Anfragen in 208.6 Sek gesendet.
+Wed. 28. Mar. 2018, 21:44:59: 40 Anfragen in 203.3 Sek gesendet.
+Wed. 28. Mar. 2018, 21:48:16: 40 Anfragen in 197.7 Sek gesendet.
+Wed. 28. Mar. 2018, 21:51:30: 40 Anfragen in 193.4 Sek gesendet.
+Wed. 28. Mar. 2018, 21:54:40: 40 Anfragen in 190.2 Sek gesendet.
+Wed. 28. Mar. 2018, 21:57:48: 40 Anfragen in 188.1 Sek gesendet.
+Wed. 28. Mar. 2018, 22:00:55: 40 Anfragen in 186.8 Sek gesendet.
+Wed. 28. Mar. 2018, 22:04:02: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 22:07:08: 40 Anfragen in 186.2 Sek gesendet.
+Wed. 28. Mar. 2018, 22:10:14: 40 Anfragen in 186.3 Sek gesendet.
+Wed. 28. Mar. 2018, 22:13:21: 40 Anfragen in 186.4 Sek gesendet.
+Wed. 28. Mar. 2018, 22:16:27: 40 Anfragen in 186.3 Sek gesendet.
+Wed. 28. Mar. 2018, 22:19:33: 40 Anfragen in 186.3 Sek gesendet.
+Wed. 28. Mar. 2018, 22:22:40: 40 Anfragen in 186.4 Sek gesendet.
+Wed. 28. Mar. 2018, 22:25:46: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 22:28:53: 40 Anfragen in 186.8 Sek gesendet.
+Wed. 28. Mar. 2018, 22:32:00: 40 Anfragen in 186.3 Sek gesendet.
+Wed. 28. Mar. 2018, 22:35:06: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 22:38:13: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 22:41:19: 40 Anfragen in 186.6 Sek gesendet.
+Wed. 28. Mar. 2018, 22:44:26: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 22:47:32: 40 Anfragen in 186.4 Sek gesendet.
+Wed. 28. Mar. 2018, 22:50:39: 40 Anfragen in 186.7 Sek gesendet.
+Wed. 28. Mar. 2018, 22:53:46: 40 Anfragen in 186.6 Sek gesendet.
+Wed. 28. Mar. 2018, 22:56:52: 40 Anfragen in 186.6 Sek gesendet.
+Wed. 28. Mar. 2018, 23:00:00: 40 Anfragen in 187.0 Sek gesendet.
+Wed. 28. Mar. 2018, 23:03:06: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 23:06:13: 40 Anfragen in 186.4 Sek gesendet.
+Wed. 28. Mar. 2018, 23:09:19: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 23:12:26: 40 Anfragen in 186.3 Sek gesendet.
+Wed. 28. Mar. 2018, 23:15:33: 40 Anfragen in 187.2 Sek gesendet.
+Wed. 28. Mar. 2018, 23:18:39: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 23:21:46: 40 Anfragen in 186.7 Sek gesendet.
+Wed. 28. Mar. 2018, 23:24:53: 40 Anfragen in 186.6 Sek gesendet.
+Wed. 28. Mar. 2018, 23:28:00: 40 Anfragen in 186.7 Sek gesendet.
+Wed. 28. Mar. 2018, 23:31:06: 40 Anfragen in 186.4 Sek gesendet.
+Wed. 28. Mar. 2018, 23:34:12: 40 Anfragen in 186.2 Sek gesendet.
+Wed. 28. Mar. 2018, 23:37:19: 40 Anfragen in 186.3 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-28 23:40:06.959189
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  207,90 €
+ticket_type :  Festivalticket Phase 3
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+319,00 € --- 207,90 €
+----- 14
+319,00 € --- 319,00 €
+14 --- 15
+a_i: 15 , len(old): 15
+n_j: 16 , len(new): 16
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 1522273207, 'still_available': True, 'ticket_type': 'Festivalticket Phase 3', 'ticket_price': '207,90 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Wed. 28. Mar. 2018, 23:40:26: 40 Anfragen in 186.9 Sek gesendet.
+Wed. 28. Mar. 2018, 23:43:32: 40 Anfragen in 186.5 Sek gesendet.
+Wed. 28. Mar. 2018, 23:46:39: 40 Anfragen in 186.7 Sek gesendet.
+Wed. 28. Mar. 2018, 23:49:45: 40 Anfragen in 186.4 Sek gesendet.
+Wed. 28. Mar. 2018, 23:52:52: 40 Anfragen in 186.3 Sek gesendet.
+Wed. 28. Mar. 2018, 23:55:58: 40 Anfragen in 186.6 Sek gesendet.
+Wed. 28. Mar. 2018, 23:59:05: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 00:02:11: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 00:05:18: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 00:08:25: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 00:11:31: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 00:14:38: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 00:17:44: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 00:20:51: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 00:23:57: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 00:27:04: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 00:30:11: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 00:33:18: 40 Anfragen in 187.7 Sek gesendet.
+Thu. 29. Mar. 2018, 00:36:35: 40 Anfragen in 196.3 Sek gesendet.
+Thu. 29. Mar. 2018, 00:40:08: 40 Anfragen in 213.3 Sek gesendet.
+Thu. 29. Mar. 2018, 00:44:08: 40 Anfragen in 239.6 Sek gesendet.
+Thu. 29. Mar. 2018, 00:48:41: 40 Anfragen in 272.8 Sek gesendet.
+Thu. 29. Mar. 2018, 00:53:50: 40 Anfragen in 309.3 Sek gesendet.
+Thu. 29. Mar. 2018, 00:59:28: 40 Anfragen in 338.2 Sek gesendet.
+Thu. 29. Mar. 2018, 01:05:15: 40 Anfragen in 346.9 Sek gesendet.
+Thu. 29. Mar. 2018, 01:11:02: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 01:16:49: 40 Anfragen in 346.7 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 01:19:16.488701
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  1522273207
+still_available :  True
+ticket_type :  Festivalticket Phase 3
+ticket_price :  207,90 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+207,90 € --- 319,00 €
+14 -----
+319,00 € --- 319,00 €
+15 --- 14
+a_i: 16 , len(old): 16
+n_j: 15 , len(new): 15
+-- REMOVED:
+{'page': 2, 'removed': 1522279156, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 1522273207, 'still_available': True, 'ticket_type': 'Festivalticket Phase 3', 'ticket_price': '207,90 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 01:22:36: 40 Anfragen in 347.1 Sek gesendet.
+Thu. 29. Mar. 2018, 01:28:22: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 01:34:09: 40 Anfragen in 346.9 Sek gesendet.
+Thu. 29. Mar. 2018, 01:39:56: 40 Anfragen in 346.4 Sek gesendet.
+Thu. 29. Mar. 2018, 01:45:42: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 01:51:29: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 01:57:16: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 02:03:02: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 02:08:49: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 02:14:35: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 02:20:22: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 02:26:09: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 02:31:56: 40 Anfragen in 347.1 Sek gesendet.
+Thu. 29. Mar. 2018, 02:37:42: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 02:43:29: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 02:49:16: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 02:55:03: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 03:00:49: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 03:06:36: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 03:12:23: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 03:18:09: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 03:23:56: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 03:29:43: 40 Anfragen in 346.9 Sek gesendet.
+Thu. 29. Mar. 2018, 03:35:30: 40 Anfragen in 347.3 Sek gesendet.
+Thu. 29. Mar. 2018, 03:41:17: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 03:47:04: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 03:52:50: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 03:58:37: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 04:04:24: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 04:10:11: 40 Anfragen in 347.1 Sek gesendet.
+Thu. 29. Mar. 2018, 04:15:58: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 04:21:44: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 04:27:31: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 04:33:18: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 04:39:04: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 04:44:51: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 04:50:38: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 04:56:24: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 05:02:11: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 05:07:58: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 05:13:45: 40 Anfragen in 347.2 Sek gesendet.
+Thu. 29. Mar. 2018, 05:19:32: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 05:25:19: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 05:31:05: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 05:36:52: 40 Anfragen in 346.4 Sek gesendet.
+Thu. 29. Mar. 2018, 05:42:39: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 05:48:25: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 05:54:12: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 05:59:59: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 06:05:45: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 06:11:32: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 06:17:19: 40 Anfragen in 346.9 Sek gesendet.
+Thu. 29. Mar. 2018, 06:23:06: 40 Anfragen in 347.1 Sek gesendet.
+Thu. 29. Mar. 2018, 06:28:53: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 06:34:40: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 06:40:26: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 06:46:13: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 06:52:00: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 06:57:47: 40 Anfragen in 347.2 Sek gesendet.
+Thu. 29. Mar. 2018, 07:03:34: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 07:09:21: 40 Anfragen in 347.0 Sek gesendet.
+Thu. 29. Mar. 2018, 07:15:08: 40 Anfragen in 347.0 Sek gesendet.
+Thu. 29. Mar. 2018, 07:20:54: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 07:26:41: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 07:32:28: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 07:38:15: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 07:44:01: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 07:49:48: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 07:55:35: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 08:01:21: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 08:07:08: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 08:12:54: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 08:18:41: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 08:24:28: 40 Anfragen in 346.6 Sek gesendet.
+Thu. 29. Mar. 2018, 08:30:15: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 08:36:01: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 08:41:48: 40 Anfragen in 346.5 Sek gesendet.
+Thu. 29. Mar. 2018, 08:47:35: 40 Anfragen in 346.9 Sek gesendet.
+Thu. 29. Mar. 2018, 08:53:22: 40 Anfragen in 346.8 Sek gesendet.
+Thu. 29. Mar. 2018, 08:59:08: 40 Anfragen in 346.7 Sek gesendet.
+Thu. 29. Mar. 2018, 09:04:55: 40 Anfragen in 346.1 Sek gesendet.
+Thu. 29. Mar. 2018, 09:10:35: 40 Anfragen in 340.3 Sek gesendet.
+Thu. 29. Mar. 2018, 09:16:03: 40 Anfragen in 328.3 Sek gesendet.
+Thu. 29. Mar. 2018, 09:21:15: 40 Anfragen in 311.9 Sek gesendet.
+Thu. 29. Mar. 2018, 09:26:09: 40 Anfragen in 293.5 Sek gesendet.
+Thu. 29. Mar. 2018, 09:30:44: 40 Anfragen in 275.3 Sek gesendet.
+Thu. 29. Mar. 2018, 09:35:01: 40 Anfragen in 257.3 Sek gesendet.
+Thu. 29. Mar. 2018, 09:39:03: 40 Anfragen in 241.5 Sek gesendet.
+Thu. 29. Mar. 2018, 09:42:50: 40 Anfragen in 226.9 Sek gesendet.
+Thu. 29. Mar. 2018, 09:46:25: 40 Anfragen in 215.2 Sek gesendet.
+Thu. 29. Mar. 2018, 09:49:50: 40 Anfragen in 204.6 Sek gesendet.
+Thu. 29. Mar. 2018, 09:53:06: 40 Anfragen in 196.7 Sek gesendet.
+Thu. 29. Mar. 2018, 09:56:17: 40 Anfragen in 191.1 Sek gesendet.
+Thu. 29. Mar. 2018, 09:59:25: 40 Anfragen in 187.6 Sek gesendet.
+Thu. 29. Mar. 2018, 10:02:32: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 10:05:39: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 10:08:45: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 10:11:53: 40 Anfragen in 187.6 Sek gesendet.
+Thu. 29. Mar. 2018, 10:15:00: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 10:18:08: 40 Anfragen in 188.0 Sek gesendet.
+Thu. 29. Mar. 2018, 10:21:14: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 10:24:21: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 10:27:28: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 10:30:35: 40 Anfragen in 186.9 Sek gesendet.
+Thu. 29. Mar. 2018, 10:33:41: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 10:36:48: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 10:39:55: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 10:43:02: 40 Anfragen in 187.5 Sek gesendet.
+Thu. 29. Mar. 2018, 10:46:10: 40 Anfragen in 188.0 Sek gesendet.
+Thu. 29. Mar. 2018, 10:49:21: 40 Anfragen in 190.3 Sek gesendet.
+Thu. 29. Mar. 2018, 10:52:30: 40 Anfragen in 189.6 Sek gesendet.
+Thu. 29. Mar. 2018, 10:55:37: 40 Anfragen in 186.9 Sek gesendet.
+Thu. 29. Mar. 2018, 10:58:44: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 11:01:52: 40 Anfragen in 187.6 Sek gesendet.
+Thu. 29. Mar. 2018, 11:05:00: 40 Anfragen in 188.3 Sek gesendet.
+Thu. 29. Mar. 2018, 11:08:24: 40 Anfragen in 203.9 Sek gesendet.
+Thu. 29. Mar. 2018, 11:11:33: 40 Anfragen in 188.8 Sek gesendet.
+Thu. 29. Mar. 2018, 11:14:40: 40 Anfragen in 187.6 Sek gesendet.
+Thu. 29. Mar. 2018, 11:17:51: 40 Anfragen in 190.2 Sek gesendet.
+Thu. 29. Mar. 2018, 11:21:01: 40 Anfragen in 190.3 Sek gesendet.
+Thu. 29. Mar. 2018, 11:24:11: 40 Anfragen in 190.3 Sek gesendet.
+Thu. 29. Mar. 2018, 11:27:35: 40 Anfragen in 203.6 Sek gesendet.
+Thu. 29. Mar. 2018, 11:30:46: 40 Anfragen in 190.6 Sek gesendet.
+Thu. 29. Mar. 2018, 11:33:53: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 11:37:04: 40 Anfragen in 191.1 Sek gesendet.
+Thu. 29. Mar. 2018, 11:40:12: 40 Anfragen in 188.3 Sek gesendet.
+Thu. 29. Mar. 2018, 11:43:37: 40 Anfragen in 204.8 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 11:44:06.772903
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  157,30 €
+ticket_type :  Festivalticket Phase 1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+319,00 € --- 157,30 €
+----- 14
+319,00 € --- 319,00 €
+14 --- 15
+a_i: 15 , len(old): 15
+n_j: 16 , len(new): 16
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 1522316647, 'still_available': True, 'ticket_type': 'Festivalticket Phase 1', 'ticket_price': '157,30 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 11:46:52: 40 Anfragen in 195.4 Sek gesendet.
+Thu. 29. Mar. 2018, 11:50:04: 40 Anfragen in 191.2 Sek gesendet.
+Thu. 29. Mar. 2018, 11:53:12: 40 Anfragen in 187.9 Sek gesendet.
+Thu. 29. Mar. 2018, 11:56:21: 40 Anfragen in 189.1 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 11:58:47.761337
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  1522316647
+still_available :  True
+ticket_type :  Festivalticket Phase 1
+ticket_price :  157,30 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommandException in thread Thread-1:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 150, in _parse
+    data = json.loads(decoded_s)
+  File "/usr/lib/python3.5/json/__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.5/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 83, in run
+    self.respond()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 92, in respond
+    for update in bot.get_updates(offset=self.update_id, timeout=10):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 1720, in get_updates
+    result = self._request.post(url, data, timeout=float(read_latency) + float(timeout))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 203, in _request_wrapper
+    message = self._parse(resp.data)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 152, in _parse
+    raise TelegramError('Invalid server response')
+telegram.error.TelegramError: Invalid server response
+
+Exception in thread Thread-12:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connection.py", line 141, in _new_conn
+    (self.host, self.port), self.timeout, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/connection.py", line 83, in create_connection
+    raise err
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 360, in _make_request
+    self._validate_conn(conn)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 857, in _validate_conn
+    super(HTTPSConnectionPool, self)._validate_conn(conn)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 289, in _validate_conn
+    conn.connect()
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connection.py", line 284, in connect
+    conn = self._new_conn()
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connection.py", line 150, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.NewConnectionError: <telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x7fc1e49c6b70>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 695, in urlopen
+    **response_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 695, in urlopen
+    **response_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 695, in urlopen
+    **response_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 376, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+telegram.vendor.ptb_urllib3.urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot518212615:AAGrOwiJ98_QaABu99hNawUmaxYF1o0WVx0/sendMessage (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x7fc1e49c6b70>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 196, in _request_wrapper
+    raise NetworkError('urllib3 HTTPError {0}'.format(error))
+telegram.error.NetworkError: urllib3 HTTPError HTTPSConnectionPool(host='api.telegram.org', port=443): Max retries exceeded with url: /bot518212615:AAGrOwiJ98_QaABu99hNawUmaxYF1o0WVx0/sendMessage (Caused by NewConnectionError('<telegram.vendor.ptb_urllib3.urllib3.connection.VerifiedHTTPSConnection object at 0x7fc1e49c6b70>: Failed to establish a new connection: [Errno 101] Network is unreachable',))
+
+Exception in thread Thread-14:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 405, in _make_request
+    exc_cls=ReadTimeoutError)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 321, in _raise_timeout
+    raise exc_cls(*args)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 192, in _request_wrapper
+    raise TimedOut()
+telegram.error.TimedOut: Timed out
+
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  False
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  False
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  False
+page :  2
+ticket_price :  157,30 €
+ticket_type :  Festivalticket Phase 1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  2
+ticket_price :  183,70 €
+ticket_type :  Festivalticket Phase 2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  False
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_shoppingCartNotAvailableImage
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+157,30 € --- 157,30 €
+14 --- 14
+319,00 € --- 183,70 €
+----- 15
+319,00 € --- 319,00 €
+15 --- 16
+a_i: 16 , len(old): 16
+n_j: 17 , len(new): 17
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'added': 1522317532, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '183,70 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 11:59:34: 40 Anfragen in 193.6 Sek gesendet.
+Thu. 29. Mar. 2018, 12:04:01: 40 Anfragen in 266.6 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 12:04:06.576275
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  1522316647
+still_available :  True
+ticket_type :  Festivalticket Phase 1
+ticket_price :  157,30 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  1522317532
+still_available :  True
+ticket_type :  Festivalticket Phase 2
+ticket_price :  183,70 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  False
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  False
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  False
+page :  2
+ticket_price :  183,70 €
+ticket_type :  Festivalticket Phase 2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage
+ 
+still_available :  False
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+157,30 € --- 183,70 €
+14 -----
+183,70 € --- 183,70 €
+15 --- 14
+319,00 € --- 319,00 €
+16 --- 15
+a_i: 17 , len(old): 17
+n_j: 16 , len(new): 16
+-- REMOVED:
+{'page': 2, 'removed': 1522317847, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 1522316647, 'still_available': True, 'ticket_type': 'Festivalticket Phase 1', 'ticket_price': '157,30 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 12:07:23: 40 Anfragen in 201.4 Sek gesendet.
+Thu. 29. Mar. 2018, 12:10:32: 40 Anfragen in 189.7 Sek gesendet.
+Thu. 29. Mar. 2018, 12:13:39: 40 Anfragen in 186.8 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 12:15:59.691733
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  1522317532
+still_available :  True
+ticket_type :  Festivalticket Phase 2
+ticket_price :  183,70 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  False
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  False
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  14,30 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+Exception in thread Thread-16:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 405, in _make_request
+    exc_cls=ReadTimeoutError)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 321, in _raise_timeout
+    raise exc_cls(*args)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 192, in _request_wrapper
+    raise TimedOut()
+telegram.error.TimedOut: Timed out
+
+Exception in thread Thread-18:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 405, in _make_request
+    exc_cls=ReadTimeoutError)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 321, in _raise_timeout
+    raise exc_cls(*args)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 192, in _request_wrapper
+    raise TimedOut()
+telegram.error.TimedOut: Timed out
+
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  False
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_shoppingCartNotAvailableImage
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 14,30 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+16,50 € --- 16,50 €
+11 --- 11
+17,60 € --- 17,60 €
+12 --- 12
+38,50 € --- 38,50 €
+13 --- 13
+183,70 € --- 319,00 €
+14 -----
+319,00 € --- 319,00 €
+15 --- 14
+a_i: 16 , len(old): 16
+n_j: 15 , len(new): 15
+-- REMOVED:
+{'page': 2, 'removed': 1522318560, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'added': 1522317532, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '183,70 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 12:16:46: 40 Anfragen in 187.2 Sek gesendet.
+Thu. 29. Mar. 2018, 12:19:53: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 12:23:00: 40 Anfragen in 187.0 Sek gesendet.
+Thu. 29. Mar. 2018, 12:26:07: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 12:29:16: 40 Anfragen in 188.8 Sek gesendet.
+Thu. 29. Mar. 2018, 12:32:23: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 12:35:33: 40 Anfragen in 190.3 Sek gesendet.
+Thu. 29. Mar. 2018, 12:38:40: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 12:41:46: 40 Anfragen in 186.9 Sek gesendet.
+Thu. 29. Mar. 2018, 12:44:53: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 12:48:00: 40 Anfragen in 187.0 Sek gesendet.
+Thu. 29. Mar. 2018, 12:51:11: 40 Anfragen in 190.9 Sek gesendet.
+Thu. 29. Mar. 2018, 12:54:19: 40 Anfragen in 187.9 Sek gesendet.
+Thu. 29. Mar. 2018, 12:57:26: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 13:00:33: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 13:03:41: 40 Anfragen in 188.5 Sek gesendet.
+Thu. 29. Mar. 2018, 13:06:49: 40 Anfragen in 187.5 Sek gesendet.
+Thu. 29. Mar. 2018, 13:09:57: 40 Anfragen in 188.3 Sek gesendet.
+Thu. 29. Mar. 2018, 13:13:05: 40 Anfragen in 187.7 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 13:15:04.131899
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  14,30 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  False
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+14,30 € --- 16,50 €
+5 -----
+16,50 € --- 16,50 €
+6 --- 5
+16,50 € --- 16,50 €
+7 --- 6
+16,50 € --- 16,50 €
+8 --- 7
+16,50 € --- 16,50 €
+9 --- 8
+16,50 € --- 16,50 €
+10 --- 9
+16,50 € --- 16,50 €
+11 --- 10
+17,60 € --- 17,60 €
+12 --- 11
+38,50 € --- 38,50 €
+13 --- 12
+319,00 € --- 319,00 €
+14 --- 13
+a_i: 15 , len(old): 15
+n_j: 14 , len(new): 14
+-- REMOVED:
+{'page': 1, 'removed': 1522322104, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand', 'added': 0, 'still_available': True, 'ticket_type': 'Pre Party', 'ticket_price': '14,30 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 13:16:14: 40 Anfragen in 189.1 Sek gesendet.
+Thu. 29. Mar. 2018, 13:19:21: 40 Anfragen in 187.0 Sek gesendet.
+Thu. 29. Mar. 2018, 13:22:28: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 13:25:35: 40 Anfragen in 187.1 Sek gesendet.
+Thu. 29. Mar. 2018, 13:28:42: 40 Anfragen in 186.6 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 13:29:47.622650
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  False
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_shoppingCartNotAvailableImage
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  183,70 €
+ticket_type :  Festivalticket Phase 2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+319,00 € --- 183,70 €
+----- 13
+319,00 € --- 319,00 €
+13 --- 14
+a_i: 14 , len(old): 14
+n_j: 15 , len(new): 15
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522322988, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '183,70 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 13:31:49: 40 Anfragen in 187.2 Sek gesendet.
+Thu. 29. Mar. 2018, 13:34:58: 40 Anfragen in 188.9 Sek gesendet.
+Thu. 29. Mar. 2018, 13:38:05: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 13:41:12: 40 Anfragen in 187.7 Sek gesendet.
+Thu. 29. Mar. 2018, 13:44:19: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 13:47:26: 40 Anfragen in 187.0 Sek gesendet.
+Thu. 29. Mar. 2018, 13:50:36: 40 Anfragen in 189.7 Sek gesendet.
+Thu. 29. Mar. 2018, 13:53:43: 40 Anfragen in 187.3 Sek gesendet.
+Thu. 29. Mar. 2018, 13:56:50: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 13:59:57: 40 Anfragen in 187.0 Sek gesendet.
+Thu. 29. Mar. 2018, 14:03:05: 40 Anfragen in 187.2 Sek gesendet.
+Thu. 29. Mar. 2018, 14:06:11: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 14:09:21: 40 Anfragen in 189.6 Sek gesendet.
+Thu. 29. Mar. 2018, 14:12:28: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 14:15:34: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 14:18:41: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 14:21:48: 40 Anfragen in 186.9 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 14:21:52.798522
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522322988
+still_available :  True
+ticket_type :  Festivalticket Phase 2
+ticket_price :  183,70 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+183,70 € --- 319,00 €
+13 -----
+319,00 € --- 319,00 €
+14 --- 13
+a_i: 15 , len(old): 15
+n_j: 14 , len(new): 14
+-- REMOVED:
+{'page': 2, 'removed': 1522326113, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522322988, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '183,70 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 14:24:55: 40 Anfragen in 187.1 Sek gesendet.
+Thu. 29. Mar. 2018, 14:28:02: 40 Anfragen in 187.5 Sek gesendet.
+Thu. 29. Mar. 2018, 14:31:10: 40 Anfragen in 188.0 Sek gesendet.
+Thu. 29. Mar. 2018, 14:34:17: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 14:37:24: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 14:40:30: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 14:43:37: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 14:46:44: 40 Anfragen in 186.9 Sek gesendet.
+Thu. 29. Mar. 2018, 14:49:50: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 14:52:57: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 14:56:04: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 14:59:11: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 15:02:18: 40 Anfragen in 187.1 Sek gesendet.
+Thu. 29. Mar. 2018, 15:05:27: 40 Anfragen in 188.9 Sek gesendet.
+Thu. 29. Mar. 2018, 15:08:36: 40 Anfragen in 189.0 Sek gesendet.
+Thu. 29. Mar. 2018, 15:11:44: 40 Anfragen in 187.9 Sek gesendet.
+Thu. 29. Mar. 2018, 15:14:50: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 15:17:57: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 15:21:04: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 15:24:11: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 15:27:17: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 15:30:24: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 15:33:31: 40 Anfragen in 187.3 Sek gesendet.
+Thu. 29. Mar. 2018, 15:36:38: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 15:39:44: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 15:42:58: 40 Anfragen in 193.5 Sek gesendet.
+Thu. 29. Mar. 2018, 15:46:04: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 15:49:11: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 15:52:17: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 15:55:24: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 15:58:36: 40 Anfragen in 191.2 Sek gesendet.
+Thu. 29. Mar. 2018, 16:01:42: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 16:04:49: 40 Anfragen in 186.5 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 16:07:04.920441
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+a_i: 13 , len(old): 14
+n_j: 13 , len(new): 13
+i: 13
+-- REMOVED:
+{'page': 2, 'removed': 1522332425.4004788, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand', 'added': 0, 'still_available': True, 'ticket_type': 'VIP Ticket', 'ticket_price': '319,00 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 16:07:56: 40 Anfragen in 187.2 Sek gesendet.
+Thu. 29. Mar. 2018, 16:11:03: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:14:10: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 16:17:16: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:20:23: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 16:23:29: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 16:26:37: 40 Anfragen in 187.1 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 16:27:56.365322
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  179,00 €
+ticket_type :  Festivalticket Phase 2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+a_i: 13 , len(old): 13
+n_j: 13 , len(new): 14
+j: 13
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522333676.8563178, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '179,00 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 16:29:44: 40 Anfragen in 187.0 Sek gesendet.
+Thu. 29. Mar. 2018, 16:32:52: 40 Anfragen in 188.5 Sek gesendet.
+Thu. 29. Mar. 2018, 16:35:59: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:39:06: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 16:42:12: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:45:19: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 16:48:26: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:51:32: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:54:39: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 16:57:46: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 17:00:52: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 17:03:59: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 17:07:07: 40 Anfragen in 188.4 Sek gesendet.
+Thu. 29. Mar. 2018, 17:10:18: 40 Anfragen in 191.0 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 17:12:00.193184
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522333676.8563178
+still_available :  True
+ticket_type :  Festivalticket Phase 2
+ticket_price :  179,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+a_i: 13 , len(old): 14
+n_j: 13 , len(new): 13
+i: 13
+-- REMOVED:
+{'page': 2, 'removed': 1522336320.6690497, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522333676.8563178, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '179,00 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 17:13:33: 40 Anfragen in 194.6 Sek gesendet.
+Thu. 29. Mar. 2018, 17:16:52: 40 Anfragen in 198.6 Sek gesendet.
+Thu. 29. Mar. 2018, 17:20:15: 40 Anfragen in 203.8 Sek gesendet.
+Thu. 29. Mar. 2018, 17:23:45: 40 Anfragen in 209.8 Sek gesendet.
+Thu. 29. Mar. 2018, 17:27:23: 40 Anfragen in 217.2 Sek gesendet.
+Thu. 29. Mar. 2018, 17:31:09: 40 Anfragen in 225.8 Sek gesendet.
+Thu. 29. Mar. 2018, 17:35:03: 40 Anfragen in 234.2 Sek gesendet.
+Thu. 29. Mar. 2018, 17:39:03: 40 Anfragen in 239.7 Sek gesendet.
+Thu. 29. Mar. 2018, 17:43:12: 40 Anfragen in 249.2 Sek gesendet.
+Thu. 29. Mar. 2018, 17:47:26: 40 Anfragen in 254.2 Sek gesendet.
+Thu. 29. Mar. 2018, 17:51:46: 40 Anfragen in 259.4 Sek gesendet.
+Thu. 29. Mar. 2018, 17:56:10: 40 Anfragen in 264.0 Sek gesendet.
+Thu. 29. Mar. 2018, 18:00:36: 40 Anfragen in 266.1 Sek gesendet.
+Thu. 29. Mar. 2018, 18:05:03: 40 Anfragen in 267.6 Sek gesendet.
+Thu. 29. Mar. 2018, 18:09:30: 40 Anfragen in 266.6 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 18:10:10.455962
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+a_i: 13 , len(old): 13
+n_j: 13 , len(new): 14
+j: 13
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522339810.9581187, 'still_available': True, 'ticket_type': 'VIP Ticket', 'ticket_price': '319,00 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 18:13:58: 40 Anfragen in 267.6 Sek gesendet.
+Thu. 29. Mar. 2018, 18:18:24: 40 Anfragen in 266.7 Sek gesendet.
+Thu. 29. Mar. 2018, 18:22:52: 40 Anfragen in 268.0 Sek gesendet.
+Thu. 29. Mar. 2018, 18:27:20: 40 Anfragen in 267.2 Sek gesendet.
+Thu. 29. Mar. 2018, 18:31:46: 40 Anfragen in 266.8 Sek gesendet.
+Thu. 29. Mar. 2018, 18:36:13: 40 Anfragen in 267.0 Sek gesendet.
+Thu. 29. Mar. 2018, 18:40:40: 40 Anfragen in 266.7 Sek gesendet.
+Thu. 29. Mar. 2018, 18:45:07: 40 Anfragen in 267.1 Sek gesendet.
+Thu. 29. Mar. 2018, 18:49:34: 40 Anfragen in 266.8 Sek gesendet.
+Thu. 29. Mar. 2018, 18:54:06: 40 Anfragen in 271.5 Sek gesendet.
+Thu. 29. Mar. 2018, 18:58:33: 40 Anfragen in 266.7 Sek gesendet.
+Thu. 29. Mar. 2018, 19:02:59: 40 Anfragen in 266.8 Sek gesendet.
+Thu. 29. Mar. 2018, 19:07:26: 40 Anfragen in 266.7 Sek gesendet.
+Thu. 29. Mar. 2018, 19:11:53: 40 Anfragen in 266.6 Sek gesendet.
+Thu. 29. Mar. 2018, 19:16:19: 40 Anfragen in 266.6 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 19:20:13.349843
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522339810.9581187
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  179,00 €
+ticket_type :  Festivalticket Phase 2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+319,00 € --- 179,00 €
+----- 13
+319,00 € --- 319,00 €
+13 --- 14
+a_i: 14 , len(old): 14
+n_j: 15 , len(new): 15
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522344013, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '179,00 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 19:20:48: 40 Anfragen in 268.3 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 19:23:01.539942
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522344013
+still_available :  True
+ticket_type :  Festivalticket Phase 2
+ticket_price :  179,00 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522339810.9581187
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+179,00 € --- 319,00 €
+13 -----
+319,00 € --- 319,00 €
+14 --- 13
+a_i: 15 , len(old): 15
+n_j: 14 , len(new): 14
+-- REMOVED:
+{'page': 2, 'removed': 1522344182, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522344013, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '179,00 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 19:25:15: 40 Anfragen in 267.1 Sek gesendet.
+Thu. 29. Mar. 2018, 19:29:42: 40 Anfragen in 266.7 Sek gesendet.
+Thu. 29. Mar. 2018, 19:34:08: 40 Anfragen in 266.4 Sek gesendet.
+Thu. 29. Mar. 2018, 19:38:35: 40 Anfragen in 267.3 Sek gesendet.
+Thu. 29. Mar. 2018, 19:43:03: 40 Anfragen in 267.4 Sek gesendet.
+Thu. 29. Mar. 2018, 19:47:30: 40 Anfragen in 266.8 Sek gesendet.
+Thu. 29. Mar. 2018, 19:51:56: 40 Anfragen in 266.6 Sek gesendet.
+Thu. 29. Mar. 2018, 19:56:24: 40 Anfragen in 267.7 Sek gesendet.
+Thu. 29. Mar. 2018, 20:00:55: 40 Anfragen in 270.8 Sek gesendet.
+Thu. 29. Mar. 2018, 20:05:22: 40 Anfragen in 267.2 Sek gesendet.
+Thu. 29. Mar. 2018, 20:09:49: 40 Anfragen in 267.2 Sek gesendet.
+Thu. 29. Mar. 2018, 20:14:20: 40 Anfragen in 270.3 Sek gesendet.
+Thu. 29. Mar. 2018, 20:18:47: 40 Anfragen in 266.7 Sek gesendet.
+Thu. 29. Mar. 2018, 20:23:13: 40 Anfragen in 266.8 Sek gesendet.
+Thu. 29. Mar. 2018, 20:27:42: 40 Anfragen in 268.9 Sek gesendet.
+Thu. 29. Mar. 2018, 20:32:09: 40 Anfragen in 266.6 Sek gesendet.
+Thu. 29. Mar. 2018, 20:36:36: 40 Anfragen in 266.5 Sek gesendet.
+Thu. 29. Mar. 2018, 20:41:02: 40 Anfragen in 266.5 Sek gesendet.
+Thu. 29. Mar. 2018, 20:45:29: 40 Anfragen in 266.6 Sek gesendet.
+Thu. 29. Mar. 2018, 20:49:56: 40 Anfragen in 266.8 Sek gesendet.
+Thu. 29. Mar. 2018, 20:54:22: 40 Anfragen in 266.5 Sek gesendet.
+Thu. 29. Mar. 2018, 20:58:49: 40 Anfragen in 266.6 Sek gesendet.
+Thu. 29. Mar. 2018, 21:03:15: 40 Anfragen in 266.5 Sek gesendet.
+Thu. 29. Mar. 2018, 21:07:40: 40 Anfragen in 265.0 Sek gesendet.
+Thu. 29. Mar. 2018, 21:12:02: 40 Anfragen in 261.4 Sek gesendet.
+Thu. 29. Mar. 2018, 21:16:18: 40 Anfragen in 255.8 Sek gesendet.
+Thu. 29. Mar. 2018, 21:20:27: 40 Anfragen in 249.6 Sek gesendet.
+Thu. 29. Mar. 2018, 21:24:30: 40 Anfragen in 242.4 Sek gesendet.
+Thu. 29. Mar. 2018, 21:28:25: 40 Anfragen in 234.8 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 21:30:08.331126
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522339810.9581187
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  179,00 €
+ticket_type :  Festivalticket Phase 2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+319,00 € --- 179,00 €
+----- 13
+319,00 € --- 319,00 €
+13 --- 14
+a_i: 14 , len(old): 14
+n_j: 15 , len(new): 15
+-- REMOVED:
+-- ADDED:
+{'page': 2, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522351808, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '179,00 €'}
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 21:32:12: 40 Anfragen in 227.6 Sek gesendet.
+Thu. 29. Mar. 2018, 21:35:52: 40 Anfragen in 219.5 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 21:37:55.466511
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522351808
+still_available :  True
+ticket_type :  Festivalticket Phase 2
+ticket_price :  179,00 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522339810.9581187
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  319,00 €
+ticket_type :  VIP Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+179,00 € --- 319,00 €
+13 -----
+319,00 € --- 319,00 €
+14 --- 13
+a_i: 15 , len(old): 15
+n_j: 14 , len(new): 14
+-- REMOVED:
+{'page': 2, 'removed': 1522352275, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522351808, 'still_available': True, 'ticket_type': 'Festivalticket Phase 2', 'ticket_price': '179,00 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 21:39:25: 40 Anfragen in 213.0 Sek gesendet.
+Thu. 29. Mar. 2018, 21:42:51: 40 Anfragen in 206.2 Sek gesendet.
+Thu. 29. Mar. 2018, 21:46:12: 40 Anfragen in 200.6 Sek gesendet.
+Thu. 29. Mar. 2018, 21:49:28: 40 Anfragen in 196.1 Sek gesendet.
+Thu. 29. Mar. 2018, 21:52:40: 40 Anfragen in 191.9 Sek gesendet.
+Thu. 29. Mar. 2018, 21:55:49: 40 Anfragen in 189.3 Sek gesendet.
+Thu. 29. Mar. 2018, 21:58:56: 40 Anfragen in 187.2 Sek gesendet.
+Thu. 29. Mar. 2018, 22:02:03: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 22:05:10: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 22:08:16: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:11:23: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:14:30: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 22:17:36: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:20:43: 40 Anfragen in 186.9 Sek gesendet.
+Thu. 29. Mar. 2018, 22:23:50: 40 Anfragen in 186.4 Sek gesendet.
+AENDERUNG DES ANGEBOTS:
+  2018-03-29 22:24:50.778512
+Starte mit Seite: 2
+Fertig mit Seite: 2
+-- OLD:
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  9,90 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  11,00 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Parkticket
+ticket_price :  13,20 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  1
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  16,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Pre Party
+ticket_price :  17,60 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  0
+still_available :  True
+ticket_type :  Caravan Ticket
+ticket_price :  38,50 €
+ 
+page :  2
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+added :  1522339810.9581187
+still_available :  True
+ticket_type :  VIP Ticket
+ticket_price :  319,00 €
+ 
+-- NEW:
+still_available :  True
+page :  1
+ticket_price :  9,90 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  11,00 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  13,20 €
+ticket_type :  Parkticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl8$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl10$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl12$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl14$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl16$_addToCartCommand
+ 
+still_available :  True
+page :  1
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl18$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  16,50 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl0$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  17,60 €
+ticket_type :  Pre Party
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl2$_addToCartCommand
+ 
+still_available :  True
+page :  2
+ticket_price :  38,50 €
+ticket_type :  Caravan Ticket
+btn_name :  ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl4$_addToCartCommand
+ 
+9,90 € --- 9,90 €
+0 --- 0
+11,00 € --- 11,00 €
+1 --- 1
+13,20 € --- 13,20 €
+2 --- 2
+13,20 € --- 13,20 €
+3 --- 3
+13,20 € --- 13,20 €
+4 --- 4
+16,50 € --- 16,50 €
+5 --- 5
+16,50 € --- 16,50 €
+6 --- 6
+16,50 € --- 16,50 €
+7 --- 7
+16,50 € --- 16,50 €
+8 --- 8
+16,50 € --- 16,50 €
+9 --- 9
+16,50 € --- 16,50 €
+10 --- 10
+17,60 € --- 17,60 €
+11 --- 11
+38,50 € --- 38,50 €
+12 --- 12
+a_i: 13 , len(old): 14
+n_j: 13 , len(new): 13
+i: 13
+-- REMOVED:
+{'page': 2, 'removed': 1522355091.26614, 'btn_name': 'ctl00$MainContentPlaceHolder$_ticketResaleList$ctrl6$_addToCartCommand', 'added': 1522339810.9581187, 'still_available': True, 'ticket_type': 'VIP Ticket', 'ticket_price': '319,00 €'}
+-- ADDED:
+
+
+
+--- ENDE AENDERUNG ---
+
+
+
+Thu. 29. Mar. 2018, 22:26:57: 40 Anfragen in 187.1 Sek gesendet.
+Thu. 29. Mar. 2018, 22:30:03: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:33:10: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 22:36:17: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 22:39:23: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:42:30: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 22:45:36: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:48:43: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 22:51:50: 40 Anfragen in 187.2 Sek gesendet.
+Thu. 29. Mar. 2018, 22:54:57: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 22:58:05: 40 Anfragen in 187.9 Sek gesendet.
+Thu. 29. Mar. 2018, 23:01:12: 40 Anfragen in 186.9 Sek gesendet.
+Thu. 29. Mar. 2018, 23:04:18: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:07:25: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:10:32: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 23:13:38: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 23:16:45: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 23:19:52: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 23:22:58: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:26:05: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 23:29:11: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:32:18: 40 Anfragen in 186.8 Sek gesendet.
+Thu. 29. Mar. 2018, 23:35:25: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:38:31: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:41:38: 40 Anfragen in 186.5 Sek gesendet.
+Thu. 29. Mar. 2018, 23:44:45: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 23:47:51: 40 Anfragen in 186.7 Sek gesendet.
+Thu. 29. Mar. 2018, 23:50:58: 40 Anfragen in 186.4 Sek gesendet.
+Thu. 29. Mar. 2018, 23:54:04: 40 Anfragen in 186.6 Sek gesendet.
+Thu. 29. Mar. 2018, 23:57:11: 40 Anfragen in 186.5 Sek gesendet.
+Fri. 30. Mar. 2018, 00:00:18: 40 Anfragen in 186.9 Sek gesendet.
+Fri. 30. Mar. 2018, 00:03:25: 40 Anfragen in 186.5 Sek gesendet.
+Fri. 30. Mar. 2018, 00:06:31: 40 Anfragen in 186.7 Sek gesendet.
+Fri. 30. Mar. 2018, 00:09:38: 40 Anfragen in 186.4 Sek gesendet.
+Fri. 30. Mar. 2018, 00:12:44: 40 Anfragen in 186.5 Sek gesendet.
+Fri. 30. Mar. 2018, 00:15:51: 40 Anfragen in 186.8 Sek gesendet.
+Fri. 30. Mar. 2018, 00:18:59: 40 Anfragen in 187.8 Sek gesendet.
+Fri. 30. Mar. 2018, 00:22:06: 40 Anfragen in 187.2 Sek gesendet.
+Fri. 30. Mar. 2018, 00:25:14: 40 Anfragen in 187.5 Sek gesendet.
+Fri. 30. Mar. 2018, 00:28:21: 40 Anfragen in 186.9 Sek gesendet.
+Fri. 30. Mar. 2018, 00:31:27: 40 Anfragen in 186.6 Sek gesendet.
+Fri. 30. Mar. 2018, 00:34:38: 40 Anfragen in 190.4 Sek gesendet.
+Fri. 30. Mar. 2018, 00:38:00: 40 Anfragen in 202.2 Sek gesendet.
+Fri. 30. Mar. 2018, 00:41:44: 40 Anfragen in 223.9 Sek gesendet.
+Fri. 30. Mar. 2018, 00:45:57: 40 Anfragen in 252.7 Sek gesendet.
+Fri. 30. Mar. 2018, 00:50:46: 40 Anfragen in 288.7 Sek gesendet.
+Fri. 30. Mar. 2018, 00:56:09: 40 Anfragen in 323.7 Sek gesendet.
+Fri. 30. Mar. 2018, 01:01:54: 40 Anfragen in 344.2 Sek gesendet.
+Fri. 30. Mar. 2018, 01:07:40: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 01:13:27: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 01:19:14: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 01:25:00: 40 Anfragen in 346.4 Sek gesendet.
+Fri. 30. Mar. 2018, 01:30:47: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 01:36:33: 40 Anfragen in 346.5 Sek gesendet.
+Fri. 30. Mar. 2018, 01:42:20: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 01:48:07: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 01:53:54: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 01:59:40: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 02:05:27: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 02:11:14: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 02:17:01: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 02:22:48: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 02:28:35: 40 Anfragen in 347.0 Sek gesendet.
+Fri. 30. Mar. 2018, 02:34:21: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 02:40:08: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 02:45:55: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 02:51:42: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 02:57:29: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 03:03:15: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 03:09:02: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 03:14:49: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 03:20:36: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 03:26:22: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 03:32:09: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 03:37:56: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 03:43:43: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 03:49:29: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 03:55:16: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 04:01:03: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 04:06:50: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 04:12:37: 40 Anfragen in 347.0 Sek gesendet.
+Fri. 30. Mar. 2018, 04:18:24: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 04:24:10: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 04:29:57: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 04:35:44: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 04:41:31: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 04:47:18: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 04:53:05: 40 Anfragen in 347.1 Sek gesendet.
+Fri. 30. Mar. 2018, 04:58:52: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 05:04:38: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 05:10:25: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 05:16:12: 40 Anfragen in 346.6 Sek gesendet.
+Fri. 30. Mar. 2018, 05:21:59: 40 Anfragen in 347.3 Sek gesendet.
+Fri. 30. Mar. 2018, 05:27:47: 40 Anfragen in 347.0 Sek gesendet.
+Fri. 30. Mar. 2018, 05:33:33: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 05:39:20: 40 Anfragen in 347.1 Sek gesendet.
+Fri. 30. Mar. 2018, 05:45:08: 40 Anfragen in 347.2 Sek gesendet.
+Fri. 30. Mar. 2018, 05:50:54: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 05:56:41: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 06:02:28: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 06:08:15: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 06:14:02: 40 Anfragen in 346.7 Sek gesendet.
+Fri. 30. Mar. 2018, 06:19:49: 40 Anfragen in 347.0 Sek gesendet.
+Fri. 30. Mar. 2018, 06:25:37: 40 Anfragen in 347.6 Sek gesendet.
+Fri. 30. Mar. 2018, 06:31:24: 40 Anfragen in 347.6 Sek gesendet.
+Fri. 30. Mar. 2018, 06:37:12: 40 Anfragen in 347.4 Sek gesendet.
+Fri. 30. Mar. 2018, 06:42:59: 40 Anfragen in 347.1 Sek gesendet.
+Fri. 30. Mar. 2018, 06:48:46: 40 Anfragen in 347.4 Sek gesendet.
+Exception in thread Thread-20:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 402, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 398, in _make_request
+    httplib_response = conn.getresponse()
+  File "/usr/lib/python3.5/http/client.py", line 1198, in getresponse
+    response.begin()
+  File "/usr/lib/python3.5/http/client.py", line 297, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python3.5/http/client.py", line 258, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+  File "/usr/lib/python3.5/ssl.py", line 937, in recv_into
+    return self.read(nbytes, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 799, in read
+    return self._sslobj.read(len, buffer)
+  File "/usr/lib/python3.5/ssl.py", line 583, in read
+    v = self._sslobj.read(len, buffer)
+socket.timeout: The read operation timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 190, in _request_wrapper
+    resp = self._con_pool.request(*args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 70, in request
+    **urlopen_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/request.py", line 148, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/poolmanager.py", line 244, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 666, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/util/retry.py", line 347, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/packages/six.py", line 686, in reraise
+    raise value
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 617, in urlopen
+    chunked=chunked)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 405, in _make_request
+    exc_cls=ReadTimeoutError)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/vendor/ptb_urllib3/urllib3/connectionpool.py", line 321, in _raise_timeout
+    raise exc_cls(*args)
+telegram.vendor.ptb_urllib3.urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=5.0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 58, in run
+    bot.sendMessage(chat_id=int(client), text=self.msg, parse_mode=telegram.ParseMode.HTML)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 85, in decorator
+    result = self._request.post(url, data, timeout=kwargs.get('timeout'))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 192, in _request_wrapper
+    raise TimedOut()
+telegram.error.TimedOut: Timed out
+
+
+Fri. 30. Mar. 2018, 06:54:33: 40 Anfragen in 347.0 Sek gesendet.
+Fri. 30. Mar. 2018, 07:00:22: 40 Anfragen in 348.5 Sek gesendet.
+Fri. 30. Mar. 2018, 07:06:09: 40 Anfragen in 347.3 Sek gesendet.
+Fri. 30. Mar. 2018, 07:11:57: 40 Anfragen in 347.6 Sek gesendet.
+Fri. 30. Mar. 2018, 07:17:45: 40 Anfragen in 347.8 Sek gesendet.
+Fri. 30. Mar. 2018, 07:23:33: 40 Anfragen in 347.7 Sek gesendet.
+Fri. 30. Mar. 2018, 07:29:21: 40 Anfragen in 348.1 Sek gesendet.
+Fri. 30. Mar. 2018, 07:35:09: 40 Anfragen in 348.0 Sek gesendet.
+Fri. 30. Mar. 2018, 07:40:57: 40 Anfragen in 348.1 Sek gesendet.
+Fri. 30. Mar. 2018, 07:46:44: 40 Anfragen in 347.3 Sek gesendet.
+Fri. 30. Mar. 2018, 07:52:31: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 07:58:18: 40 Anfragen in 346.9 Sek gesendet.
+Fri. 30. Mar. 2018, 08:04:05: 40 Anfragen in 347.1 Sek gesendet.
+Fri. 30. Mar. 2018, 08:09:52: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 08:15:40: 40 Anfragen in 347.6 Sek gesendet.
+Fri. 30. Mar. 2018, 08:21:28: 40 Anfragen in 348.0 Sek gesendet.
+Fri. 30. Mar. 2018, 08:27:17: 40 Anfragen in 349.0 Sek gesendet.
+Fri. 30. Mar. 2018, 08:33:05: 40 Anfragen in 347.6 Sek gesendet.
+Fri. 30. Mar. 2018, 08:38:53: 40 Anfragen in 348.3 Sek gesendet.
+Fri. 30. Mar. 2018, 08:44:41: 40 Anfragen in 347.9 Sek gesendet.
+Fri. 30. Mar. 2018, 08:50:28: 40 Anfragen in 346.8 Sek gesendet.
+Fri. 30. Mar. 2018, 08:56:15: 40 Anfragen in 347.2 Sek gesendet.
+Fri. 30. Mar. 2018, 09:02:02: 40 Anfragen in 347.1 Sek gesendet.
+Fri. 30. Mar. 2018, 09:07:48: 40 Anfragen in 345.5 Sek gesendet.
+Fri. 30. Mar. 2018, 09:13:24: 40 Anfragen in 336.0 Sek gesendet.
+Fri. 30. Mar. 2018, 09:18:46: 40 Anfragen in 321.8 Sek gesendet.
+Fri. 30. Mar. 2018, 09:23:50: 40 Anfragen in 303.9 Sek gesendet.
+Fri. 30. Mar. 2018, 09:28:35: 40 Anfragen in 284.8 Sek gesendet.
+Fri. 30. Mar. 2018, 09:33:02: 40 Anfragen in 266.9 Sek gesendet.
+Fri. 30. Mar. 2018, 09:37:11: 40 Anfragen in 249.5 Sek gesendet.
+Fri. 30. Mar. 2018, 09:41:06: 40 Anfragen in 234.9 Sek gesendet.
+Fri. 30. Mar. 2018, 09:44:47: 40 Anfragen in 221.3 Sek gesendet.
+Fri. 30. Mar. 2018, 09:48:17: 40 Anfragen in 209.8 Sek gesendet.
+Fri. 30. Mar. 2018, 09:51:40: 40 Anfragen in 202.7 Sek gesendet.
+Fri. 30. Mar. 2018, 09:54:55: 40 Anfragen in 194.8 Sek gesendet.
+Fri. 30. Mar. 2018, 09:58:05: 40 Anfragen in 190.2 Sek gesendet.
+Fri. 30. Mar. 2018, 10:01:13: 40 Anfragen in 188.3 Sek gesendet.
+Fri. 30. Mar. 2018, 10:04:22: 40 Anfragen in 188.1 Sek gesendet.
+Fri. 30. Mar. 2018, 10:07:30: 40 Anfragen in 188.8 Sek gesendet.
+Fri. 30. Mar. 2018, 10:10:38: 40 Anfragen in 187.7 Sek gesendet.
+Fri. 30. Mar. 2018, 10:13:46: 40 Anfragen in 187.9 Sek gesendet.
+Fri. 30. Mar. 2018, 10:16:54: 40 Anfragen in 187.7 Sek gesendet.
+Fri. 30. Mar. 2018, 10:20:01: 40 Anfragen in 186.7 Sek gesendet.
+Fri. 30. Mar. 2018, 10:23:09: 40 Anfragen in 188.0 Sek gesendet.
+Fri. 30. Mar. 2018, 10:26:16: 40 Anfragen in 187.0 Sek gesendet.
+Fri. 30. Mar. 2018, 10:29:22: 40 Anfragen in 186.7 Sek gesendet.
+Fri. 30. Mar. 2018, 10:32:29: 40 Anfragen in 186.7 Sek gesendet.
+Fri. 30. Mar. 2018, 10:35:36: 40 Anfragen in 187.2 Sek gesendet.
+Fri. 30. Mar. 2018, 10:38:44: 40 Anfragen in 187.7 Sek gesendet.
+Fri. 30. Mar. 2018, 10:41:52: 40 Anfragen in 187.8 Sek gesendet.
+Traceback (most recent call last):
+  File "ticketBot.py", line 86, in <module>
+    main()
+  File "ticketBot.py", line 70, in main
+    time.sleep(zeit_sleep)
+KeyboardInterrupt

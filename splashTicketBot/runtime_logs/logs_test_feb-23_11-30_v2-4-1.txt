@@ -1,0 +1,78 @@
+    ticketBot, start: Fri. 23. Feb. 2018, 10:29:35
+Fri. 23. Feb. 2018, 10:29:35: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Fri. 23. Feb. 2018, 10:29:35: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Fri. 23. Feb. 2018, 10:31:31: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Fri. 23. Feb. 2018, 10:36:34: 100 Anfragen in 419.4 Sek gesendet.
+Fri. 23. Feb. 2018, 10:43:41: 100 Anfragen in 426.8 Sek gesendet.
+Fri. 23. Feb. 2018, 10:50:47: 100 Anfragen in 425.6 Sek gesendet.
+Fri. 23. Feb. 2018, 10:53:33: Aenderung des Angebots!
+Fri. 23. Feb. 2018, 10:57:51: 100 Anfragen in 424.0 Sek gesendet.
+Fri. 23. Feb. 2018, 11:04:56: 100 Anfragen in 425.7 Sek gesendet.
+Fri. 23. Feb. 2018, 11:12:05: 100 Anfragen in 428.8 Sek gesendet.
+Fri. 23. Feb. 2018, 11:19:09: 100 Anfragen in 423.6 Sek gesendet.
+Fri. 23. Feb. 2018, 11:26:14: 100 Anfragen in 425.2 Sek gesendet.
+Fri. 23. Feb. 2018, 11:33:18: 100 Anfragen in 424.1 Sek gesendet.
+Fri. 23. Feb. 2018, 11:40:23: 100 Anfragen in 425.0 Sek gesendet.
+Fri. 23. Feb. 2018, 11:47:28: 100 Anfragen in 424.8 Sek gesendet.
+Fri. 23. Feb. 2018, 11:54:33: 100 Anfragen in 424.9 Sek gesendet.
+Fri. 23. Feb. 2018, 12:01:39: 100 Anfragen in 426.0 Sek gesendet.
+Fri. 23. Feb. 2018, 12:08:46: 100 Anfragen in 426.7 Sek gesendet.
+Fri. 23. Feb. 2018, 12:15:57: 100 Anfragen in 430.6 Sek gesendet.
+Fri. 23. Feb. 2018, 12:23:11: 100 Anfragen in 434.4 Sek gesendet.
+Fri. 23. Feb. 2018, 12:30:28: 100 Anfragen in 436.5 Sek gesendet.
+Fri. 23. Feb. 2018, 12:36:54: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Fri. 23. Feb. 2018, 12:37:38: 100 Anfragen in 430.1 Sek gesendet.
+Fri. 23. Feb. 2018, 12:44:40: 100 Anfragen in 421.8 Sek gesendet.
+Fri. 23. Feb. 2018, 12:51:44: 100 Anfragen in 424.1 Sek gesendet.
+Fri. 23. Feb. 2018, 12:58:52: 100 Anfragen in 427.8 Sek gesendet.
+Fri. 23. Feb. 2018, 13:06:01: 100 Anfragen in 429.2 Sek gesendet.
+Fri. 23. Feb. 2018, 13:13:03: 100 Anfragen in 422.3 Sek gesendet.
+Fri. 23. Feb. 2018, 13:20:04: 100 Anfragen in 420.3 Sek gesendet.
+Fri. 23. Feb. 2018, 13:27:11: 100 Anfragen in 427.2 Sek gesendet.
+Fri. 23. Feb. 2018, 13:34:16: 100 Anfragen in 424.9 Sek gesendet.
+Fri. 23. Feb. 2018, 13:41:22: 100 Anfragen in 426.2 Sek gesendet.
+Fri. 23. Feb. 2018, 13:48:25: 100 Anfragen in 423.0 Sek gesendet.
+Fri. 23. Feb. 2018, 13:55:25: 100 Anfragen in 420.0 Sek gesendet.
+Fri. 23. Feb. 2018, 14:02:29: 100 Anfragen in 423.9 Sek gesendet.
+Fri. 23. Feb. 2018, 14:09:31: 100 Anfragen in 422.3 Sek gesendet.
+Fri. 23. Feb. 2018, 14:16:32: 100 Anfragen in 420.4 Sek gesendet.
+Fri. 23. Feb. 2018, 14:23:34: 100 Anfragen in 422.1 Sek gesendet.
+Fri. 23. Feb. 2018, 14:30:35: 100 Anfragen in 420.6 Sek gesendet.
+Fri. 23. Feb. 2018, 14:31:49: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Fri. 23. Feb. 2018, 14:37:36: 100 Anfragen in 421.8 Sek gesendet.
+Fri. 23. Feb. 2018, 14:44:44: 100 Anfragen in 427.8 Sek gesendet.
+Fri. 23. Feb. 2018, 14:51:46: 100 Anfragen in 421.3 Sek gesendet.
+Fri. 23. Feb. 2018, 14:58:56: 100 Anfragen in 430.4 Sek gesendet.
+Fri. 23. Feb. 2018, 15:06:00: 100 Anfragen in 424.3 Sek gesendet.
+Fri. 23. Feb. 2018, 15:13:08: 100 Anfragen in 428.0 Sek gesendet.
+Fri. 23. Feb. 2018, 15:20:19: 100 Anfragen in 430.6 Sek gesendet.
+Fri. 23. Feb. 2018, 15:27:33: 100 Anfragen in 433.5 Sek gesendet.
+Fri. 23. Feb. 2018, 15:34:43: 100 Anfragen in 430.3 Sek gesendet.
+Fri. 23. Feb. 2018, 15:41:51: 100 Anfragen in 428.2 Sek gesendet.
+Fri. 23. Feb. 2018, 15:48:54: 100 Anfragen in 422.7 Sek gesendet.
+Fri. 23. Feb. 2018, 15:55:58: 100 Anfragen in 423.5 Sek gesendet.
+Fri. 23. Feb. 2018, 16:03:00: 100 Anfragen in 422.5 Sek gesendet.
+Fri. 23. Feb. 2018, 16:10:05: 100 Anfragen in 424.4 Sek gesendet.
+Fri. 23. Feb. 2018, 16:17:06: 100 Anfragen in 421.8 Sek gesendet.
+Fri. 23. Feb. 2018, 16:24:13: 100 Anfragen in 426.4 Sek gesendet.
+Fri. 23. Feb. 2018, 16:31:19: 100 Anfragen in 425.7 Sek gesendet.
+Fri. 23. Feb. 2018, 16:38:22: 100 Anfragen in 422.9 Sek gesendet.
+Fri. 23. Feb. 2018, 16:45:27: 100 Anfragen in 425.5 Sek gesendet.
+Fri. 23. Feb. 2018, 16:52:31: 100 Anfragen in 424.1 Sek gesendet.
+Fri. 23. Feb. 2018, 16:59:36: 100 Anfragen in 424.6 Sek gesendet.
+Traceback (most recent call last):
+  File "ticketBot.py", line 105, in <module>
+    main()
+  File "ticketBot.py", line 91, in main
+    time.sleep(delay_duration())
+KeyboardInterrupt

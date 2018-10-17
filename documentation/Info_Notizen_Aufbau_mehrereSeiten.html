@@ -1,0 +1,143 @@
+<!-- SUPPORT FUER MEHRERE SEITEN MIT TICKETS
+
+Da es sein kann, dass mehr als 10 Tickets verfuegbar sind und damit
+auch mehr als eine Seite angezeigt wird, muss der Algorithmus auch
+darauf reagieren koennen.
+
+Dabei mache ich es mir zu nutzen, dass die Tickets nach ihrem Preis
+sortiert sind.
+
+Es ergeben sich jetzt zwei Herangehensweisen:
+1. Die Seite nur auf die gesuchten Ticketarten abfragen
+2. Immer die Seite abfragen, auf der Tickets der gewuenschten
+    Preisklasse erscheinen werden.
+
+
+Zu 1.: NACH GESUCHTEN TICKETARTEN FILTERN
+    Mit Hilfe des Elements name="...ticketFilterDropDownList", koennen
+    die verfuegbaren Ticketarten ueberblickt werden. Sobald ein Ticket einer
+    gesuchten Art dort gelistet ist, kann diese Art angezeigt und ein
+    entsprechendes Ticket kann reserviert werden.
+    Aufrufen der gewaehlten Kategorie mittels POST-Anfrage.
+
+    Vorteile:
+    - Einfach zu realisieren
+
+    Nachteile:
+    - Zwischen festellen der Verfuegbarkeit eines neuen Tickets und
+      dem Reservieren dieses Tickets, liegen nicht nun zwei Post-Anfragen,
+      weil mit einer der beiden die Seite geholt werden muss.
+
+
+Zu 2.: NUR DIE SEITE ABFRAGEN, DIE DIE GESUCHTEN TICKETS ENTHAELT
+    Da die Tickets alle nach Preisen sortiert sind, muss nur die Seite
+    abgefragt werden, auf der Tickets auftauchen werden, die die
+    entsprechenden Preise der Phase 1 Tickts haben.
+
+    Vorteile:
+    - Schnellerer Zugriff auf ein Ticket sobald es verfuegbar ist
+
+
+ZIEL:
+    Der aktuelle Plan ist weder Herangehensweise 1 oder 2, sondern die
+    Idee ist, dass ich die letzte Seite überprüfe. Wenn sich dort etwas ändert,
+    frage ich alle vorherigen Seiten ab, um zu sehen, was sich geändert hat
+    und ggf. ein Ticket zu reservieren.
+    Unklar ist aber noch, ob ich die letze Seite auf Änderungen überprüfe,
+    oder die Seite, auf der nach der Preishierarchie ein neues Ticket von
+    Interesse erscheinen wird. In den meisten Fällen sollte das aber sowieso
+    aufs gleiche hinauslaufen.
+
+
+ZUSAETZLICHES ZIEL:
+Statistiken zu den Tickets sammeln. Wann sind welche Tickets
+verfuegbar, wie lange bleiben sie online, bzw. wie lange dauert
+es, bis sie reserviert sind?
+
+
+
+PARAMETER __doPostBack(...) FUER SEITENAUSWAHL
+Seite 1:
+    Steuerelement zum Wechsel auf Seite 2:
+    __doPostBack('ctl00$MainContentPlaceHolder$DataPager2$ctl01$ctl01','')
+
+Seite 2:
+    Steuerelement zum Wechsel auf Seite 1:
+    __doPostBack('ctl00$MainContentPlaceHolder$DataPager2$ctl01$ctl00','')
+-->
+
+
+<span class="RESULTS_count">
+    1 Tickets im Wiederverkauf
+</span>
+
+
+
+
+<div id="layout_content">
+
+	<script type="text/javascript"> <!-- ... --> </script>
+    <div class="STEP_BACK_NAVI"> <!-- ... --> </div>
+	<div class="TFG_PatternBlackDots">&nbsp;</div> <!-- ... --> </div>
+
+	<div class="">
+        <!--
+        class="NoDisplay", wenn Tickets <= 10, aber das ist dem Bot ja egal.
+        -->
+		<div class="PAGER_top clearfix">
+			<span class="RESULTS_count">
+				11 Tickets im Wiederverkauf
+			</span>
+            <span class="PAGES">
+				<span id="ctl00_MainContentPlaceHolder_DataPager2">
+                    <a class="aspNetDisabled"> << </a>
+                    <a class="aspNetDisabled"> < </a>
+                    <span class="Bold Orange"> 1 </span>
+                    <a class="Bold Orange" href="javascript:__doPostBack('ctl00$MainContentPlaceHolder$DataPager2$ctl01$ctl01','')"> 2 </a>
+                    <a href="javascript:__doPostBack('ctl00$MainContentPlaceHolder$DataPager2$ctl02$ctl00','')"> > </a>
+                    <a href="javascript:__doPostBack('ctl00$MainContentPlaceHolder$DataPager2$ctl02$ctl01','')"> >> </a>
+                </span>
+			</span>
+		</div>
+		<div class="space5"> </div>
+		<div class="TFG_PatternBlackDots"> </div>
+	</div>
+
+	<div class="clearfix" style="margin-top:12px; margin-bottom:8px;">
+		<div class="ItemElement Dark" style="width: 164px">
+			<div style="padding-right: 6px; padding-left: 10px;">
+				Veranstaltung
+			</div>
+		</div>
+		<div class="ItemElement Dark" style="width: 164px">
+			<div style="padding-right: 6px;">
+
+                <select name="ctl00$MainContentPlaceHolder$_ticketResaleList$_ticketFilterDropDownList" onchange="javascript:setTimeout('__doPostBack(\'ctl00$MainContentPlaceHolder$_ticketResaleList$_ticketFilterDropDownList\',\'\')', 0)" id="ctl00_MainContentPlaceHolder__ticketResaleList__ticketFilterDropDownList" style="width:100%;">
+                    <option selected="selected" value="-1">alle Tickets</option>
+                    <option value="31106">Pre Party</option>
+                    <option value="31108">Camping Plus</option>
+                    <option value="31110">Caravan Ticket</option>
+
+                </select>
+			</div>
+		</div>
+		<div class="ItemElement Dark" style="width: 70px">
+			<div style="padding-right: 6px;"> Preis </div>
+		</div>
+		<div class="ItemElement Dark" style="width: 138px">
+			<div style="padding-right: 6px;"> Zahlungseinschränkung </div>
+		</div>
+		<div class="ItemElement Dark" style="width: 120px">
+			<div style="padding-right: 6px;"> Verfügbar bis </div>
+		</div>
+		<div class="ItemElement Dark" style="width: 164px">
+			<div style="padding-right: 6px;"> Ticketart </div>
+		</div>
+	</div>
+	<div class="ProductListSeparator" style="width: 980px"> <!-- --> </div>
+
+	<div class="ResaleItemContainer clearfix" style="padding-top: 5px; margin-bottom: 10px;">
+        <!-- ResaleItemContainer wurde schon vorher untersucht -->
+	</div>
+
+</div>

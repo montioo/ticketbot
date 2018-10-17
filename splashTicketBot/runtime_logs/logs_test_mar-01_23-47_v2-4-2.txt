@@ -1,0 +1,90 @@
+Exception in thread Thread-1:
+Traceback (most recent call last):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 150, in _parse
+    data = json.loads(decoded_s)
+  File "/usr/lib/python3.5/json/__init__.py", line 319, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python3.5/json/decoder.py", line 339, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python3.5/json/decoder.py", line 357, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/threading.py", line 914, in _bootstrap_inner
+    self.run()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 83, in run
+    self.respond()
+  File "/home/monti/ticketbot/splashTicketBot/telegramMessenger.py", line 92, in respond
+    for update in bot.get_updates(offset=self.update_id, timeout=10):
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 60, in decorator
+    result = func(self, *args, **kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/bot.py", line 1720, in get_updates
+    result = self._request.post(url, data, timeout=float(read_latency) + float(timeout))
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 272, in post
+    **urlopen_kwargs)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 203, in _request_wrapper
+    message = self._parse(resp.data)
+  File "/home/monti/.local/lib/python3.5/site-packages/telegram/utils/request.py", line 152, in _parse
+    raise TelegramError('Invalid server response')
+telegram.error.TelegramError: Invalid server response
+
+    ticketBot, start: Thu. 01. Mar. 2018, 22:47:48
+Thu. 01. Mar. 2018, 22:48:20: telegramMsgCmd:
+  chat_id: 9727018
+  nachricht: /link
+Thu. 01. Mar. 2018, 22:55:32: 100 Anfragen in 463.2 Sek gesendet.
+Thu. 01. Mar. 2018, 23:03:15: 100 Anfragen in 463.7 Sek gesendet.
+Thu. 01. Mar. 2018, 23:10:58: 100 Anfragen in 463.1 Sek gesendet.
+Thu. 01. Mar. 2018, 23:18:42: 100 Anfragen in 463.8 Sek gesendet.
+Thu. 01. Mar. 2018, 23:26:27: 100 Anfragen in 464.7 Sek gesendet.
+Thu. 01. Mar. 2018, 23:34:11: 100 Anfragen in 463.6 Sek gesendet.
+Thu. 01. Mar. 2018, 23:41:54: 100 Anfragen in 463.6 Sek gesendet.
+Thu. 01. Mar. 2018, 23:49:38: 100 Anfragen in 463.9 Sek gesendet.
+Thu. 01. Mar. 2018, 23:57:22: 100 Anfragen in 463.5 Sek gesendet.
+Fri. 02. Mar. 2018, 00:05:05: 100 Anfragen in 463.6 Sek gesendet.
+Fri. 02. Mar. 2018, 00:12:49: 100 Anfragen in 463.6 Sek gesendet.
+Fri. 02. Mar. 2018, 00:20:33: 100 Anfragen in 463.5 Sek gesendet.
+Fri. 02. Mar. 2018, 00:28:16: 100 Anfragen in 463.1 Sek gesendet.
+Fri. 02. Mar. 2018, 00:36:08: 100 Anfragen in 472.4 Sek gesendet.
+Fri. 02. Mar. 2018, 00:45:42: 100 Anfragen in 573.3 Sek gesendet.
+Fri. 02. Mar. 2018, 00:58:37: 100 Anfragen in 774.9 Sek gesendet.
+Fri. 02. Mar. 2018, 01:13:00: 100 Anfragen in 863.5 Sek gesendet.
+Fri. 02. Mar. 2018, 01:27:24: 100 Anfragen in 863.7 Sek gesendet.
+Fri. 02. Mar. 2018, 01:41:48: 100 Anfragen in 863.8 Sek gesendet.
+Fri. 02. Mar. 2018, 01:56:12: 100 Anfragen in 863.5 Sek gesendet.
+Fri. 02. Mar. 2018, 02:10:35: 100 Anfragen in 863.9 Sek gesendet.
+Fri. 02. Mar. 2018, 02:24:59: 100 Anfragen in 863.6 Sek gesendet.
+Fri. 02. Mar. 2018, 02:39:23: 100 Anfragen in 863.4 Sek gesendet.
+Fri. 02. Mar. 2018, 02:53:46: 100 Anfragen in 863.4 Sek gesendet.
+Fri. 02. Mar. 2018, 03:08:10: 100 Anfragen in 863.5 Sek gesendet.
+Fri. 02. Mar. 2018, 03:22:33: 100 Anfragen in 863.4 Sek gesendet.
+Fri. 02. Mar. 2018, 03:36:56: 100 Anfragen in 863.3 Sek gesendet.
+Fri. 02. Mar. 2018, 03:51:20: 100 Anfragen in 863.3 Sek gesendet.
+Fri. 02. Mar. 2018, 04:05:44: 100 Anfragen in 864.1 Sek gesendet.
+Fri. 02. Mar. 2018, 04:20:08: 100 Anfragen in 863.8 Sek gesendet.
+Fri. 02. Mar. 2018, 04:34:32: 100 Anfragen in 864.2 Sek gesendet.
+Fri. 02. Mar. 2018, 04:48:55: 100 Anfragen in 863.3 Sek gesendet.
+Fri. 02. Mar. 2018, 05:03:19: 100 Anfragen in 863.6 Sek gesendet.
+Fri. 02. Mar. 2018, 05:17:43: 100 Anfragen in 864.2 Sek gesendet.
+Fri. 02. Mar. 2018, 05:32:07: 100 Anfragen in 864.0 Sek gesendet.
+Fri. 02. Mar. 2018, 05:46:31: 100 Anfragen in 863.9 Sek gesendet.
+Fri. 02. Mar. 2018, 06:00:55: 100 Anfragen in 863.4 Sek gesendet.
+Fri. 02. Mar. 2018, 06:15:18: 100 Anfragen in 862.9 Sek gesendet.
+Fri. 02. Mar. 2018, 06:29:41: 100 Anfragen in 863.5 Sek gesendet.
+Fri. 02. Mar. 2018, 06:43:04: Aenderung des Angebots!
+Fri. 02. Mar. 2018, 06:44:04: 100 Anfragen in 863.2 Sek gesendet.
+Fri. 02. Mar. 2018, 06:45:48: Aenderung des Angebots!
+Fri. 02. Mar. 2018, 06:58:31: 100 Anfragen in 866.4 Sek gesendet.
+Fri. 02. Mar. 2018, 07:12:57: 100 Anfragen in 866.6 Sek gesendet.
+Fri. 02. Mar. 2018, 07:27:25: 100 Anfragen in 867.1 Sek gesendet.
+Fri. 02. Mar. 2018, 07:41:51: 100 Anfragen in 866.8 Sek gesendet.
+Fri. 02. Mar. 2018, 07:56:18: 100 Anfragen in 866.8 Sek gesendet.
+Traceback (most recent call last):
+  File "ticketBot.py", line 109, in <module>
+    main()
+  File "ticketBot.py", line 94, in main
+    time.sleep(zeit_sleep)
+KeyboardInterrupt

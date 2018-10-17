@@ -1,0 +1,7 @@
+# mv /etc/localtime /etc/localtime.old
+# cp /usr/share/zoneinfo/Europe/Berlin /etc/localtime
+# date
+Thu May 23 09:36:17 CST 2013
+
+
+Quelle: https://unix.stackexchange.com/questions/76710/changing-timezone-on-debian-keeps-local-time-in-utc

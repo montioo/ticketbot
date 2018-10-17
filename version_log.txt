@@ -1,0 +1,51 @@
+Version change log:
+
+v1: Kann bei neuem Ticket nur Benachrichtigen und stuerzt bei Telegram
+	regelmaessig ab.
+
+v2.1: Erste Testversion des Programms, das auch Tickets reservieren kann
+
+v2.2: Anfragen an den Server sehr haeufig, ausserdem werden alle Tickets
+	sofort reserviert und nicht nur die, die von Interesse sind
+
+v2.3: Erstmals eine einfache Regulierung der Anfragehaeufigkeit auf
+	Grundlage der aktuellen Uhrzeit.
+	Ausserdem werden nur Phase 1 Tickets reserviert, bei den anderen
+	wird nur eine Benachrichtigung bei Telegram gesendet, mit der
+	Info, ob der Bot schnell genug gewesen waere.
+
+v2.4: Ziel: Komplexere zeitabhaengige Steuerung der Anfragehaeufigkeit.
+|	Ausserdem soll ein logging stattfinden, zu der Zeit, die ein 
+|	Ticket verfuegbar ist, bis es reserviert wird.
+|
++-> v2.4.1: Verringerung der Anfragehaeufigkeit, da Tests gezeigt haben,
+|		dass man fuer eine Ticketreservierung teilweise deutlich
+|		mehr als wenige Sekunde zeit hat.
+|
++-> v2.4.2: Tolle Funktion hinzugefuegt, die uebergebene Zeitpunkte
+|		interpolieren kann. Daraus sollte sich ein eleganter
+|		Verlauf der Prozessorleistung im Server-Monitor ergeben.
+|		Ausserdem lassen sich die Anfragehaeufigkeiten leicht
+|		aendern.
++---------> Logging auf naechste Version verschoben
+
+v2.5: Ziel: Mehrere Seite abfragen und eine Datenbank aufbauen, in der
+|	steht, wann ein Ticket verfuegbar war.
+|
++-> v2.5.1: Nun auch die Einbindung der Datenbank.
+|
++-> v2.5.2: Nur ausgewaehlte Tickets reservieren (die guenstigen :D) und
+|		schoen formatierte Nachrichten mit Infos zu der Zeit, zu
+|		der ein Ticket erhaeltlich war, bzw. entfernt wurde,
+|		versenden. Ausserdem neue Datenbankstruktur, in der auch
+|		vermerkt wird, ob ein Ticket vom Bot reserviert wurde.
+|
++-> v2.5.3: Neue Funktion um per Telegram Infos ueber den Betriebszustand
+|		des Servers zu erhalten. Ausserdem Behebung von kleineren
+|		Formfehlern.		
+|
++-> v2.5.4: Abfangen von unbekannten Exceptions bei Telegram
+|
++-> v2.5.5: Kleine Fehlerverbesserung, damit bei Telegram-Nachrichten nur 
+		auf die geantwortet wird, fuer die es auch einen Hander
+		gibt.

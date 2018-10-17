@@ -1,0 +1,18 @@
+TODO: Ticketbot
+
+[x] - Detailiertere Zeitsteuerung zum Bestimmen der Anfragen pro Minute
+[ ] - System zum Veraendern der Cookies in Firefox fertig
+        [ ] - Automator Eingabefunktion fuer Cookies aus Telegram Nachricht
+        [ ] - Firefox starten, sobald Bearbeitung der Datenbank beende
+        [ ] - Sicherstellen, dass Firefox beendet ist, bevor die Datenbank
+                bearbeitet wird
+[ ] - Support fuer mehrere Seiten bei TixforGigs.com
+[ ] - Statistikdatenbank hinzufuegen (JSON, XML oder SQLite)
+
+
+Zur Statistikdatenbank:
+Wenn ein Ticket aufkommt, an dem ich kein Interesse habe, wird gewartet,
+bis es bei jemandem im Einkaufswagen liegt. Diese Zeit wird gespeichert,
+um danach wunderschoene Graphen zu plotten *_*
+Darstellung der Daten mit Matplotlib
+
